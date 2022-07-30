@@ -7,9 +7,10 @@ import sys
 from pyglottolog import Glottolog
 
 langdata = {}
+filename = sys.argv[1]
 
 # Open the langnames.csv from 
-with open('../abaev-tei-oxygen/css/langnames.csv') as csv_file:
+with open(filename) as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=',')
     for row in csv_reader:
         code = row.pop("code")
