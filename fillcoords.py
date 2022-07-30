@@ -26,6 +26,6 @@ for key in langdata:
             lang["long"] = languoid.longitude
 
 with sys.stdout as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=langdata[list(langdata)[0]].keys(), delimiter=',')
+    csv_writer = csv.DictWriter(csv_file, fieldnames=['code'] + list(langdata[list(langdata)[0]].keys()), delimiter=',')
     for key in sorted(langdata.keys()):
         csv_writer.writerow({"code" : key} | langdata[key])
