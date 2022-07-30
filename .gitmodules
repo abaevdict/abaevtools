@@ -1,0 +1,3 @@
+[submodule "glottolog"]
+	path = glottolog
+	url = https://github.com/glottolog/glottolog.git
