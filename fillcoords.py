@@ -5,27 +5,20 @@
 import csv
 import sys
 from pyglottolog import Glottolog
+import abaev-langs
 
-langdata = {}
 filename = sys.argv[1]
 
 # Open the langnames.csv from 
-with open(filename) as csv_file:
-    csv_reader = csv.DictReader(csv_file, delimiter=',')
-    for row in csv_reader:
-        code = row.pop("code")
-        langdata[code] = row
+langdata = AbaevLangDict.from_csv(filename)
 
 glottolog = Glottolog('./glottolog')
 for key in langdata:
     lang = langdata[key]
-    if not lang["lat"]:
+    if not lang.latitude:
         languoid = glottolog.languoid(lang["glottolog"])
         if languoid:
-            lang["lat"] = languoid.latitude
-            lang["long"] = languoid.longitude
+            lang.latitude = languoid.latitude
+            lang.longitude = languoid.longitude
 
-with sys.stdout as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=['code'] + list(langdata[list(langdata)[0]].keys()), delimiter=',')
-    for key in sorted(langdata.keys()):
-        csv_writer.writerow({"code" : key} | langdata[key])
+langdata.write_csv(sys.stdout)
