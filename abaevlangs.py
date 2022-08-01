@@ -48,7 +48,7 @@ class AbaevLangDict(dict):
 
     def write_csv(self, file):
         with file as csv_file:
-            fieldnames = list(AbaevLang().asdict().keys())
+            fieldnames = list(list(self.values())[1].asdict().keys())
             csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=',')
             csv_writer.writeheader()
             for key in sorted(self.keys()):
