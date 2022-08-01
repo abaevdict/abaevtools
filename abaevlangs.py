@@ -53,5 +53,3 @@ class AbaevLangDict(dict):
             csv_writer.writeheader()
             for key in sorted(self.keys()):
                 csv_writer.writerow(self[key].asdict())
-
-print(AbaevLangDict.from_csv("langnames.csv"))
