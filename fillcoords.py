@@ -5,12 +5,12 @@
 import csv
 import sys
 from pyglottolog import Glottolog
-import abaevlangs
+import libabaev
 
 filename = sys.argv[1]
 
 # Open the langnames.csv from 
-langdata = abaevlangs.AbaevLangDict.from_csv(filename)
+langdata = libabaev.AbaevLangDict.from_csv(filename)
 
 glottolog = Glottolog('./glottolog')
 for key in langdata:
