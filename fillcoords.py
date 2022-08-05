@@ -10,7 +10,7 @@ import libabaev
 filename = sys.argv[1]
 
 # Open the langnames.csv from 
-langdata = libabaev.AbaevLangDict.from_csv(filename)
+langdata = libabaev.LanguageDict.from_csv(filename)
 
 glottolog = Glottolog('./glottolog')
 for key in langdata:
