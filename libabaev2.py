@@ -64,7 +64,7 @@ class Entry(TypedDict):
 def get_entry(node: lxml.etree._Element) -> Entry:
     entry = Entry()
     entry["db_id"] = node.xpath("@xml:id",namespaces = NAMESPACES)[0]
-    entry["lemma"] = node.xpath("tei:form[@type='lemma']/tei:orth/text()", namespaces = NAMESPACES)[0]
+    entry["lemma"] = node.xpath("string(tei:form[@type='lemma']/tei:orth)", namespaces = NAMESPACES)
     entry["lang"] = node.xpath("@xml:lang",namespaces = NAMESPACES)[0]
     num = None
     num_node = node.xpath("@n", namespaces = NAMESPACES)
@@ -95,7 +95,7 @@ def get_forms(node: lxml.etree._Element, entry_id: str, form_id: str = None) -> 
         form = Form()
         form["db_id"] = form_node.xpath("@xml:id",namespaces = NAMESPACES)[0]
         form["entry_id"] = entry_id
-        form["orth"] = form_node.xpath("tei:orth/text()",namespaces = NAMESPACES)[0]
+        form["orth"] = form_node.xpath("string(tei:orth)",namespaces = NAMESPACES)
         form["lang"] = form_node.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang",namespaces = NAMESPACES)[0]
         
         form["rel_of"] = None
@@ -165,21 +165,24 @@ def get_senses(node: lxml.etree._Element, entry_id: str) -> Tuple[SenseDict,Sens
 
                 subsense["is_def"] = False
 
-                tr_ru = subsense_node.xpath("abv:tr[@xml:lang='ru']/tei:q/text()", namespaces = NAMESPACES)
-                if len(tr_ru) > 0:
-                    subsense["description_ru"] = normalize(tr_ru[0])
-                tr_en = subsense_node.xpath("abv:tr[@xml:lang='en']/tei:q/text()", namespaces = NAMESPACES)
-                if len(tr_en) > 0:
-                    subsense["description_en"] = normalize(tr_en[0])
+                tr_ru = subsense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
+                if tr_ru is not None:
+                    subsense["description_ru"] = normalize(tr_ru)
+
+                tr_en = subsense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
+                if tr_en is not None:
+                    subsense["description_en"] = normalize(tr_en)
                 else:
-                    def_ru = subsense_node.xpath("tei:def[@xml:lang='ru']/text()", namespaces = NAMESPACES)
-                    if len(def_ru) > 0:
-                        subsense["description_ru"] = normalize(def_ru[0])
+                    def_ru = subsense_node.xpath("string(tei:def[@xml:lang='ru'])", namespaces = NAMESPACES)
+                    if def_ru is not None:
+                        subsense["description_ru"] = normalize(def_ru)
                         subsense["is_def"] = True
-                    def_en = subsense_node.xpath("tei:def[@xml:lang='en']/text()", namespaces = NAMESPACES)
-                    if len(def_en) > 0:
-                        subsense["description_en"] = normalize(def_en[0])
+
+                    def_en = subsense_node.xpath("string(tei:def[@xml:lang='en'])", namespaces = NAMESPACES)
+                    if def_en is not None:
+                        subsense["description_en"] = normalize(def_en)
                         subsense["is_def"] = True
+
                 sense_dict[subsense["db_id"]] = subsense
         else:
             sense = Sense()
@@ -191,20 +194,23 @@ def get_senses(node: lxml.etree._Element, entry_id: str) -> Tuple[SenseDict,Sens
 
             sense["is_def"] = False
 
-            tr_ru = sense_node.xpath("abv:tr[@xml:lang='ru']/tei:q/text()", namespaces = NAMESPACES)
-            if len(tr_ru) > 0:
-                sense["description_ru"] = normalize(tr_ru[0])
-            tr_en = sense_node.xpath("abv:tr[@xml:lang='en']/tei:q/text()", namespaces = NAMESPACES)
-            if len(tr_en) > 0:
-                sense["description_en"] = normalize(tr_en[0])
+            tr_ru = sense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
+            if tr_ru is not None:
+                sense["description_ru"] = normalize(tr_ru)
+
+            tr_en = sense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
+            if tr_en is not None:
+                sense["description_en"] = normalize(tr_en)
+
             else:
-                def_ru = sense_node.xpath("tei:def[@xml:lang='ru']/text()", namespaces = NAMESPACES)
-                if len(def_ru) > 0:
-                    sense["description_ru"] = normalize(def_ru[0])
+                def_ru = sense_node.xpath("string(tei:def[@xml:lang='ru'])", namespaces = NAMESPACES)
+                if def_ru is not None:
+                    sense["description_ru"] = normalize(def_ru)
                     sense["is_def"] = True
-                def_en = sense_node.xpath("tei:def[@xml:lang='en']/text()", namespaces = NAMESPACES)
-                if len(def_en) > 0:
-                    sense["description_en"] = normalize(def_en[0])
+
+                def_en = sense_node.xpath("string(tei:def[@xml:lang='en'])", namespaces = NAMESPACES)
+                if def_en is not None:
+                    sense["description_en"] = normalize(def_en)
                     sense["is_def"] = True
 
             sense_dict[sense["db_id"]] = sense
@@ -246,8 +252,8 @@ def get_examples(node: lxml.etree._Element, entry_id: str) -> Tuple[ExampleDict,
 
         examples = group_node.xpath("abv:example", namespaces = NAMESPACES)
         for example_node in examples:
-            extext = example_node.xpath("tei:quote/text()", namespaces = NAMESPACES)
-            if len(extext) > 0:
+            extext = example_node.xpath("tei:quote", namespaces = NAMESPACES)[0]
+            if extext.text is not None:
                 example = Example()
                 example["db_id"] = example_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
                 example["entry_id"] = entry_id
@@ -258,13 +264,20 @@ def get_examples(node: lxml.etree._Element, entry_id: str) -> Tuple[ExampleDict,
                         lang = lang_example[0]
                 example["lang"] = lang
                 example["num"] = num
-                example["text"] = normalize(extext[0])
-                tr_ru = example_node.xpath("abv:tr[@xml:lang='ru']/tei:q/text()", namespaces = NAMESPACES)
-                if len(tr_ru) > 0:
-                    example["tr_ru"] = normalize(tr_ru[0])
-                tr_en = example_node.xpath("abv:tr[@xml:lang='en']/tei:q/text()", namespaces = NAMESPACES)
-                if len(tr_en) > 0:
-                    example["tr_en"] = normalize(tr_en[0])
+                example["text"] = normalize(extext.xpath("string()", namespaces = NAMESPACES))
+
+                tr_ru_txt = None
+                tr_ru = example_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
+                if tr_ru is not None:
+                    tr_ru_txt = normalize(tr_ru)
+                example["tr_ru"] = tr_ru_txt
+
+                tr_en_txt = None
+                tr_en = example_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
+                if tr_en is not None:
+                    tr_en_txt = normalize(tr_en)
+                example["tr_en"] = tr_en_txt
+
                 example_dict[example["db_id"]] = example
     return (example_dict, example_group_dict)
 
@@ -310,34 +323,34 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
             
             mentioned["form"] = []
             for node_w in words:
-                w = normalize(node_w.xpath("text()",namespaces = NAMESPACES)[0])
+                w = normalize(node_w.xpath("string()",namespaces = NAMESPACES))
                 if node_w.xpath("@type = 'rec'",namespaces = NAMESPACES):
                     w = '*' + w
                 mentioned["form"].append(w)
             
             glosses_ru = []
             for gloss_node in node_m.xpath("tei:gloss", namespaces = NAMESPACES):
-                quoted_nodes = gloss_node.xpath("tei:q/text()", namespaces = NAMESPACES)
+                quoted_nodes = gloss_node.xpath("tei:q", namespaces = NAMESPACES)
                 if len(quoted_nodes) > 0:
                     for quote in quoted_nodes:
-                        glosses_ru.append(normalize(quote))
+                        glosses_ru.append(normalize(quote.xpath("string()", namespaces = NAMESPACES)))
                 else:
-                    gloss_text = gloss_node.xpath("text()", namespaces = NAMESPACES)
-                    if len(gloss_text) > 0:
-                        glosses_ru.append(normalize(gloss_text[0]))
+                    gloss_text = gloss_node.xpath("string()", namespaces = NAMESPACES)
+                    if gloss_text is not None:
+                        glosses_ru.append(normalize(gloss_text))
             mentioned["gloss_ru"] = glosses_ru
             
             glosses_en = []
             if node_en is not None:
                 for gloss_node in node_en.xpath("tei:gloss", namespaces = NAMESPACES):
-                    quoted_nodes = gloss_node.xpath("tei:q/text()", namespaces = NAMESPACES)
+                    quoted_nodes = gloss_node.xpath("tei:q", namespaces = NAMESPACES)
                     if len(quoted_nodes) > 0:
                         for quote in quoted_nodes:
-                            glosses_en.append(normalize(quote))
+                            glosses_en.append(normalize(quote.xpath("string()", namespaces = NAMESPACES)))
                     else:
-                        gloss_text = gloss_node.xpath("text()", namespaces = NAMESPACES)
-                        if len(gloss_text) > 0:
-                            glosses_en.append(normalize(gloss_text[0]))
+                        gloss_text = gloss_node.xpath("string()", namespaces = NAMESPACES)
+                        if gloss_text is not None:
+                            glosses_en.append(normalize(gloss_text))
             mentioned["gloss_en"] = glosses_en
             dict[ru_id] = mentioned
     for node_m in node.xpath("//tei:etym[@xml:lang='en']//tei:mentioned[not(@corresp)]", namespaces = NAMESPACES):
@@ -357,7 +370,7 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
             
             mentioned["form"] = []
             for node_w in words:
-                w = normalize(node_w.xpath("text()",namespaces = NAMESPACES)[0])
+                w = normalize(node_w.xpath("string()",namespaces = NAMESPACES))
                 if node_w.xpath("@type = 'rec'",namespaces = NAMESPACES):
                     w = '*' + w
                 mentioned["form"].append(w)
@@ -367,9 +380,9 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
                 quoted_nodes = gloss_node.xpath("tei:q", namespaces = NAMESPACES)
                 if len(quoted_nodes) > 0:
                     for quote in quoted_nodes:
-                        if quote.text is not None: glosses_en.append(normalize(quote.text))
+                        glosses_en.append(normalize(quote.xpath("string()", namespaces = NAMESPACES)))
                 else:
-                    glosses_en.append(normalize(gloss_node.xpath("text()", namespaces = NAMESPACES)[0]))
+                    glosses_en.append(normalize(gloss_node.xpath("string()", namespaces = NAMESPACES)))
             mentioned["gloss_en"] = glosses_en
             dict[en_id] = mentioned
     return dict
