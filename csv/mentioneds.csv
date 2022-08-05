@@ -35,7 +35,7 @@ mentioned_d8e588,"mentioned_d8e588,mentioned_d8e782",entry_razy_2,fa,rāzī,,
 mentioned_d8e603,"mentioned_d8e603,mentioned_d8e797",entry_razy_2,"krc-x-balkar,krc-x-karachay",razə,,
 mentioned_d8e608,"mentioned_d8e608,mentioned_d8e802",entry_razy_2,nog,razə,,
 mentioned_d8e613,"mentioned_d8e613,mentioned_d8e807",entry_razy_2,kum,razə,,
-mentioned_d8e628,"mentioned_d8e628,mentioned_d8e822",entry_razy_2,av,razi,,
+mentioned_d8e628,"mentioned_d8e628,mentioned_d8e822",entry_razy_2,av,razi jav,,
 mentioned_d8e637,"mentioned_d8e637,mentioned_d8e831",entry_razy_2,dar,razisi,,
 mentioned_d8e642,"mentioned_d8e642,mentioned_d8e836",entry_razy_2,aqc,razi,,
 mentioned_d8e647,"mentioned_d8e647,mentioned_d8e841",entry_razy_2,agx,razi,,
@@ -47,7 +47,7 @@ mentioned_d8e679,"mentioned_d8e679,mentioned_d8e873",entry_razy_2,inh,räza,,
 mentioned_d8e684,"mentioned_d8e684,mentioned_d8e878",entry_razy_2,kbd,aräzə,,
 mentioned_d8e697,"mentioned_d8e697,mentioned_d8e891",entry_razy_2,ab,àraz,мирный,peaceful
 mentioned_d8e705,"mentioned_d8e705,mentioned_d8e899",entry_razy_2,lzz,razi,согласие,agreement
-mentioned_d8e727,"mentioned_d8e727,mentioned_d8e930",entry_razy_2,ka-x-ingiloy,razi,согласный,agreeable
+mentioned_d8e727,"mentioned_d8e727,mentioned_d8e930",entry_razy_2,ka-x-ingiloy,razi j,согласный,agreeable
 mentioned_d12e107,"mentioned_d12e107,mentioned_d12e129",entry_æx,ae,haxa-,стопа,foot
 mentioned_d15e106,"mentioned_d15e106,mentioned_d15e149",entry_firton,sa,pṛthuka-,дитя,child
 mentioned_d15e120,"mentioned_d15e120,mentioned_d15e163",entry_firton,grc,πόρτις,теленок,calf
@@ -189,8 +189,8 @@ mentioned_d42e730,"mentioned_d42e730,mentioned_d42e1194",entry_mīzyn,non,miga,,
 mentioned_d42e735,"mentioned_d42e735,mentioned_d42e1199",entry_mīzyn,sv-x-dial,miga,,
 mentioned_d42e740,"mentioned_d42e740,mentioned_d42e1204",entry_mīzyn,"da,no",mige,,
 mentioned_d42e746,"mentioned_d42e746,mentioned_d42e1210",entry_mīzyn,ang,mīgan,мочиться,urinate
-mentioned_d42e759,"mentioned_d42e759,mentioned_d42e1223",entry_mīzyn,la,mēi,,
-mentioned_d42e780,"mentioned_d42e780,mentioned_d42e1244",entry_mīzyn,la,ming,,
+mentioned_d42e759,"mentioned_d42e759,mentioned_d42e1223",entry_mīzyn,la,mēiō,,
+mentioned_d42e780,"mentioned_d42e780,mentioned_d42e1244",entry_mīzyn,la,mingō,,
 mentioned_d42e787,"mentioned_d42e787,mentioned_d42e1251",entry_mīzyn,grc,ὀμιχέω,мочусь,I urinate
 mentioned_d42e1102,mentioned_d42e1102,,sog-x-budd,pšʼycykh myzʼy wʼšt,,hе lets water
 mentioned_d44e452,"mentioned_d44e452,mentioned_d44e566",entry_qom_2,x-oldirn,*gama-,"доходящий, достигающий чего-либо","reaching, achieving something"
@@ -281,7 +281,7 @@ mentioned_d70e394,"mentioned_d70e394,mentioned_d70e694",entry_ræjyn,xpr,rāy-,,
 mentioned_d70e399,"mentioned_d70e399,mentioned_d70e699",entry_ræjyn,xpr,ghrʼy-,"хвастать,бахвалиться","brag,boast"
 mentioned_d70e415,"mentioned_d70e415,mentioned_d70e715",entry_ræjyn,xpr,*gaθrarāya-,,
 mentioned_d70e427,"mentioned_d70e427,mentioned_d70e727",entry_ræjyn,ae,raya-,,
-mentioned_d70e432,"mentioned_d70e432,mentioned_d70e732",entry_ræjyn,ae,gāθrō-rayant-,"лающий (,) священные гимны (,)","barking (,) sacred hymns (,)"
+mentioned_d70e432,"mentioned_d70e432,mentioned_d70e732",entry_ræjyn,ae,gāθrō-rayant-,лающий (rayant-) священные гимны (gāθra-),barking (rayant-) sacred hymns (gāθra-)
 mentioned_d70e448,"mentioned_d70e448,mentioned_d70e748",entry_ræjyn,inc-x-old,"rā-,rāyati",лаять,bark
 mentioned_d70e458,"mentioned_d70e458,mentioned_d70e758",entry_ræjyn,ru-x-dial,рай,"шум,гул","noise,buzz"
 mentioned_d70e470,"mentioned_d70e470,mentioned_d70e770",entry_ræjyn,ru-x-dial,раять,"шуметь,оглашать","make noise,announce"
@@ -311,7 +311,7 @@ mentioned_d88e159,"mentioned_d88e159,mentioned_d88e196",entry_ændīʒyn,sgh,and
 mentioned_d88e164,"mentioned_d88e164,mentioned_d88e201",entry_ændīʒyn,x-rushani,indiz-,подыматься,to stand up
 mentioned_d91e204,"mentioned_d91e204,mentioned_d91e488",entry_rwajyn,ira,*ræ-wajyn,,
 mentioned_d91e210,"mentioned_d91e210,mentioned_d91e494",entry_rwajyn,ira,*fra-wā-,,
-mentioned_d91e214,"mentioned_d91e214,mentioned_d91e498",entry_rwajyn,"ira,ine",*wā-,"исчезать,сходить на нет,гаснуть,сохнуть,вянуть,истощаться,изнуряться","disappear,fade,away,die down,dry up,wither,dwindle,get exhausted"
+mentioned_d91e214,"mentioned_d91e214,mentioned_d91e498",entry_rwajyn,"ira,ine",*wā-,"исчезать,сходить на нет,гаснуть,сохнуть,вянуть,истощаться,изнуряться","disappear,fade away,die down,dry up,wither,dwindle,get exhausted"
 mentioned_d91e249,"mentioned_d91e249,mentioned_d91e537",entry_rwajyn,ae,fra-vā,гаснуть,die down
 mentioned_d91e257,"mentioned_d91e257,mentioned_d91e545",entry_rwajyn,ae,fra-vāyōit,чтобы погас,so that it died down
 mentioned_d91e270,"mentioned_d91e270,mentioned_d91e558",entry_rwajyn,ae,vā,deficere,deficere
@@ -428,7 +428,6 @@ mentioned_d134e561,"mentioned_d134e561,mentioned_d134e721",entry_mīnævar,ira,m
 mentioned_d134e565,"mentioned_d134e565,mentioned_d134e725",entry_mīnævar,inc-x-old,māna-,"уважение,почет, которым пользуется человек среди сограждан","respect,esteem in which a person is held among fellow citizens"
 mentioned_d134e577,"mentioned_d134e577,mentioned_d134e737",entry_mīnævar,inc-x-old,mānya-,чтимый,esteemed
 mentioned_d134e589,"mentioned_d134e589,mentioned_d134e749",entry_mīnævar,kho,man-,"уважать,почитать","to respect,to honour"
-mentioned_d134e619,"mentioned_d134e619,mentioned_d134e779",entry_mīnævar,ira,-bāra,,
 mentioned_d134e624,"mentioned_d134e624,mentioned_d134e784",entry_mīnævar,ira,bar-,носить,to bear
 mentioned_d134e639,"mentioned_d134e639,mentioned_d134e796",entry_mīnævar,ira,*fra-bāra,,
 mentioned_d134e652,"mentioned_d134e652,mentioned_d134e809",entry_mīnævar,ira,*su-bāra,,
@@ -472,7 +471,7 @@ mentioned_d144e172,"mentioned_d144e172,mentioned_d144e531",entry_rændun,fa,rand
 mentioned_d144e178,"mentioned_d144e178,mentioned_d144e537",entry_rændun,pal,randītan,гладить,smooth
 mentioned_d144e187,"mentioned_d144e187,mentioned_d144e546",entry_rændun,ku,renin,,
 mentioned_d144e192,"mentioned_d144e192,mentioned_d144e551",entry_rændun,x-balochi,randag,,
-mentioned_d144e201,"mentioned_d144e201,mentioned_d144e560",entry_rændun,x-balochi,raδag,to tear up the ground,"to,tear up the ground"
+mentioned_d144e201,"mentioned_d144e201,mentioned_d144e560",entry_rændun,x-balochi,raδag,to tear up the ground,to tear up the ground
 mentioned_d144e222,"mentioned_d144e222,mentioned_d144e585",entry_rændun,yai,rant-,"мести,вытирать","sweep,wipe"
 mentioned_d144e241,"mentioned_d144e241,mentioned_d144e604",entry_rændun,isk,rond-,скрести,scratch
 mentioned_d144e258,"mentioned_d144e258,mentioned_d144e621",entry_rændun,wbl,zə-rεnd-,скоблить,scrape
@@ -635,7 +634,7 @@ mentioned_d194e626,"mentioned_d194e626,mentioned_d194e880",entry_max,ae,ahmākə
 mentioned_d194e631,"mentioned_d194e631,mentioned_d194e885",entry_max,peo,amāxam,,
 mentioned_d194e636,"mentioned_d194e636,mentioned_d194e890",entry_max,inc-x-old,asmākam,"нас,наш","us,our"
 mentioned_d194e647,"mentioned_d194e647,mentioned_d194e901",entry_max,inc-x-old,asmāka-,наш,our
-mentioned_d194e655,"mentioned_d194e655,mentioned_d194e909",entry_max,grc,ἡ,,
+mentioned_d194e655,"mentioned_d194e655,mentioned_d194e909",entry_max,grc,ἡμεῖς,,
 mentioned_d194e665,"mentioned_d194e665,mentioned_d194e919",entry_max,grc,ἄμμες,,
 mentioned_d194e668,"mentioned_d194e668,mentioned_d194e922",entry_max,grc,ἀμές,,
 mentioned_d194e676,"mentioned_d194e676,mentioned_d194e930",entry_max,ine,ṇsmé,,
@@ -738,7 +737,7 @@ mentioned_d233e198,"mentioned_d233e198,mentioned_d233e284",entry_qriqupp,dar,qur
 mentioned_d233e203,"mentioned_d233e203,mentioned_d233e289",entry_qriqupp,x-vaynakh,"gharaghur,gharghuli",журавль,crane
 mentioned_d233e213,"mentioned_d233e213,mentioned_d233e299",entry_qriqupp,"uz,yai",qarokuk,,
 mentioned_d233e228,"mentioned_d233e228,mentioned_d233e312",entry_qriqupp,kbd,x̌ärx̌up,удод,hoopoe
-mentioned_d234e139,"mentioned_d234e139,mentioned_d234e164",entry_narst,ira,*nṛ,,
+mentioned_d234e139,"mentioned_d234e139,mentioned_d234e164",entry_narst,ira,*nṛ-s-,,
 mentioned_d235e153,"mentioned_d235e153,mentioned_d235e186",entry_idæʒ,ae,viδavā-,,
 mentioned_d235e158,"mentioned_d235e158,mentioned_d235e191",entry_idæʒ,sa,vidhavā-,,
 mentioned_d235e163,"mentioned_d235e163,mentioned_d235e196",entry_idæʒ,cu,вьдова,,
@@ -973,7 +972,7 @@ mentioned_d332e372,"mentioned_d332e372,mentioned_d332e675",entry_rædūvyn,os,r�
 mentioned_d332e377,"mentioned_d332e377,mentioned_d332e680",entry_rædūvyn,os,ræ-duvs-,,
 mentioned_d332e390,"mentioned_d332e390,mentioned_d332e693",entry_rædūvyn,wbl,"drūp-,drōpt",царапать,scratch
 mentioned_d332e400,"mentioned_d332e400,mentioned_d332e703",entry_rædūvyn,sog,žwb,"кожура,скорлупа","peel,shell"
-mentioned_d332e411,"mentioned_d332e411,mentioned_d332e714",entry_rædūvyn,ine,"*drup,*drip-,*drap-",рвать,tear
+mentioned_d332e411,"mentioned_d332e411,mentioned_d332e714",entry_rædūvyn,ine,"*drup-,*drip-,*drap-",рвать,tear
 mentioned_d332e437,"mentioned_d332e437,mentioned_d332e740",entry_rædūvyn,grc,δρύπτω,раздираю,I tear
 mentioned_d332e446,"mentioned_d332e446,mentioned_d332e749",entry_rædūvyn,cs,dřipati,,
 mentioned_d332e451,"mentioned_d332e451,mentioned_d332e754",entry_rædūvyn,sl,drípati,,
@@ -1197,7 +1196,7 @@ mentioned_d422e206,"mentioned_d422e206,mentioned_d422e253",entry_dīdīnæg,tkr,
 mentioned_d422e211,"mentioned_d422e211,mentioned_d422e258",entry_dīdīnæg,kry-x-jek,ʒiʒi,цветок,flower
 mentioned_d422e220,"mentioned_d422e220,mentioned_d422e267",entry_dīdīnæg,os,didi,украшение,decoration
 mentioned_d426e176,"mentioned_d426e176,mentioned_d426e200",entry_ængulʒæxtæ,uby,tlenc’ā,Tanz auf den Zehenspitzen,Tanz auf den Zehenspitzen
-mentioned_d427e131,"mentioned_d427e131,mentioned_d427e237",entry_margas,ira,*marka+asa,"трапеза (,) смерти (,),поминки","meal (,) of death (,),funerary feast"
+mentioned_d427e131,"mentioned_d427e131,mentioned_d427e237",entry_margas,ira,*marka+asa,"трапеза (asa-) смерти (marka-),поминки","meal (asa-) of death (marka-),funerary feast"
 mentioned_d427e140,"mentioned_d427e140,mentioned_d427e246",entry_margas,ira,*asa-,,
 mentioned_d427e144,"mentioned_d427e144,mentioned_d427e250",entry_margas,ira,*marka-,,
 mentioned_d427e152,"mentioned_d427e152,mentioned_d427e250",entry_margas,ira,*marka-,смерть,
@@ -1565,7 +1564,7 @@ mentioned_d541e157,"mentioned_d541e157,mentioned_d541e230",entry_gūcʼūla,ka,k
 mentioned_d541e173,"mentioned_d541e173,mentioned_d541e246",entry_gūcʼūla,xmf,kʼučʼučʼi,кудрявый,curly
 mentioned_d541e181,"mentioned_d541e181,mentioned_d541e254",entry_gūcʼūla,ka,xučʼučʼi,кудрявый,curly
 mentioned_d542e556,"mentioned_d542e556,mentioned_d542e753",entry_rynʒ,ira,*rinǰya-,,
-mentioned_d542e565,"mentioned_d542e565,mentioned_d542e762",entry_rynʒ,inc-x-old,"ring-,riṅgati","ползти,с трудом пробираться","crawl,plow,through"
+mentioned_d542e565,"mentioned_d542e565,mentioned_d542e762",entry_rynʒ,inc-x-old,"ring-,riṅgati","ползти,с трудом пробираться","crawl,plow through"
 mentioned_d542e578,"mentioned_d542e578,mentioned_d542e779",entry_rynʒ,goh,stīgan,"идти,пробираться вверх","go,climb up"
 mentioned_d542e585,"mentioned_d542e585,mentioned_d542e786",entry_rynʒ,ine,*steigh-,,
 mentioned_d542e598,"mentioned_d542e598,mentioned_d542e799",entry_rynʒ,goh,steiga,крутая тропа,steep path
@@ -1651,7 +1650,6 @@ mentioned_d558e134,"mentioned_d558e134,mentioned_d558e172",entry_ḱeǧre,kbd,ke
 mentioned_d558e142,"mentioned_d558e142,mentioned_d558e180",entry_ḱeǧre,abq,қaǧrəya,проводник,guide
 mentioned_d563e464,"mentioned_d563e464,mentioned_d563e730",entry_næzy,x-oldirn,*nauča-,,
 mentioned_d563e471,"mentioned_d563e471,mentioned_d563e737",entry_næzy,peo,θarmiš hya naučaina,сосновидный кипарис,pine cypress
-mentioned_d563e480,"mentioned_d563e480,mentioned_d563e746",entry_næzy,peo,θarmi-,,
 mentioned_d563e485,"mentioned_d563e485,mentioned_d563e751",entry_næzy,fa,"nōj,nōž,nōz",,
 mentioned_d563e494,"mentioned_d563e494,mentioned_d563e760",entry_næzy,pal,nōč,,
 mentioned_d563e499,"mentioned_d563e499,mentioned_d563e765",entry_næzy,xcl,"nōč,nočʼi",кипарис,cypress
@@ -1683,7 +1681,7 @@ mentioned_d565e470,"mentioned_d565e470,mentioned_d565e919",entry_ræmun,pal,rām
 mentioned_d565e481,"mentioned_d565e481,mentioned_d565e930",entry_ræmun,xpr,rāmišn,"покой,блаженство","peace,bliss"
 mentioned_d565e492,"mentioned_d565e492,mentioned_d565e941",entry_ræmun,xpr,ārām,место покоя,resting place
 mentioned_d565e498,"mentioned_d565e498,mentioned_d565e947",entry_ræmun,xpr,ni-rām-,"усмирять,подчинять","subdue,submit"
-mentioned_d565e507,"mentioned_d565e507,mentioned_d565e956",entry_ræmun,sgh,"wi-rēmb-,wi-rēmt","ставить на отдых (лошадь, осла, быка),оставлять стоять","put,on rest (horse, donkey, bull),leave standing"
+mentioned_d565e507,"mentioned_d565e507,mentioned_d565e956",entry_ræmun,sgh,"wi-rēmb-,wi-rēmt","ставить на отдых (лошадь, осла, быка),оставлять стоять","put on rest (horse, donkey, bull),leave standing"
 mentioned_d565e529,"mentioned_d565e529,mentioned_d565e982",entry_ræmun,ydg,"rem,rīmd",нравиться,like
 mentioned_d565e539,"mentioned_d565e539,mentioned_d565e992",entry_ræmun,sog,*ram,"покой,блаженство","peace,bliss"
 mentioned_d565e551,"mentioned_d565e551,mentioned_d565e1004",entry_ræmun,sog,rʼmrʼtwxβɣyy,дарующий блаженство бог,"god, which gives blessing"
@@ -2065,14 +2063,13 @@ mentioned_d690e432,"mentioned_d690e432,mentioned_d690e475",entry_qæcyn,prg,gēi
 mentioned_d690e440,"mentioned_d690e440,mentioned_d690e483",entry_qæcyn,cu,žьdati,,
 mentioned_d691e258,"mentioned_d691e258,mentioned_d691e280",entry_kʼælæt,ku,qelāt,ярмо,yoke
 mentioned_d692e353,"mentioned_d692e353,mentioned_d692e479",entry_nywærdyn,ira,*ni-wart-,,
-mentioned_d692e357,"mentioned_d692e357,mentioned_d692e483",entry_nywærdyn,ira,ni-,,
 mentioned_d692e360,"mentioned_d692e360,mentioned_d692e486",entry_nywærdyn,ira,wart-,вертеть,spin
 mentioned_d692e365,"mentioned_d692e365,mentioned_d692e491",entry_nywærdyn,ine,*wert,,
 mentioned_d692e386,"mentioned_d692e386,mentioned_d692e512",entry_nywærdyn,ira,*haw-wart-,,
 mentioned_d692e410,"mentioned_d692e410,mentioned_d692e536",entry_nywærdyn,fa,navardīdan,"свертывать,складывать,скручивать,свивать","roll,fold,twist,swaddle"
 mentioned_d692e427,"mentioned_d692e427,mentioned_d692e553",entry_nywærdyn,inc-x-old,sam-vart-,"завертывать,кутать","wrap,wrap up"
 mentioned_d692e451,"mentioned_d692e451,mentioned_d692e577",entry_nywærdyn,xcl,nuartʼan,покрывало (шатра),coverlet (of tent)
-mentioned_d692e461,"mentioned_d692e461,mentioned_d692e587",entry_nywærdyn,"ine,txb",*ni,,
+mentioned_d692e461,"mentioned_d692e461,mentioned_d692e587",entry_nywærdyn,"ine,txb",*ni-vartana,,
 mentioned_d693e155,"mentioned_d693e155,mentioned_d693e168",entry_dumæggag,os-x-digor,dumæg,хвост,tail
 mentioned_d697e204,"mentioned_d697e204,mentioned_d697e252",entry_kærī,peo,kāra-,народ,people
 mentioned_d697e222,"mentioned_d697e222,mentioned_d697e270",entry_kærī,fa,xara,куча,heap
@@ -2395,7 +2392,7 @@ mentioned_d822e106,"mentioned_d822e106,mentioned_d822e130",entry_cʼūj,ka,cʼna
 mentioned_d822e116,"mentioned_d822e116,mentioned_d822e140",entry_cʼūj,ka,čʼvavi,,
 mentioned_d822e121,"mentioned_d822e121,mentioned_d822e145",entry_cʼūj,inh,cʼon,,
 mentioned_d823e161,"mentioned_d823e161,mentioned_d823e451",entry_nūk,ira,*nawaka-,,
-mentioned_d823e167,"mentioned_d823e167,mentioned_d823e457",entry_nūk,fa,nāw,желоб,chute
+mentioned_d823e167,"mentioned_d823e167,mentioned_d823e457",entry_nūk,fa,nāw,"желоб,nawōk,nüög,nox","chute,nawōk,nüög,nox"
 mentioned_d823e198,"mentioned_d823e198,mentioned_d823e488",entry_nūk,ckb-x-kndln,nāūwā,"ausgehöhlte Baumstämme, die als Wasserleitung für die Wassermühlen dienen","ausgehöhlte Baumstämme, die als Wasserleitung für die Wassermühlen dienen"
 mentioned_d823e216,"mentioned_d823e216,mentioned_d823e504",entry_nūk,ku,nāokhā,сточная канава,gutter
 mentioned_d823e235,"mentioned_d823e235,mentioned_d823e524",entry_nūk,ps,nāwa,,
@@ -2780,7 +2777,6 @@ mentioned_d961e383,"mentioned_d961e383,mentioned_d961e678",entry_nærsyn,peo,uvn
 mentioned_d961e388,"mentioned_d961e388,mentioned_d961e683",entry_nærsyn,ae,hunara-,"способность,мастерство,доблесть","ability,skill,valor"
 mentioned_d961e402,"mentioned_d961e402,mentioned_d961e697",entry_nærsyn,inc-x-old,sunara-,"мощный,полный жизненной силы","powerful,full of vitality"
 mentioned_d961e413,"mentioned_d961e413,mentioned_d961e708",entry_nærsyn,inc-x-old,sūnṛtā-,жизненная сила,life force
-mentioned_d961e419,"mentioned_d961e419,mentioned_d961e714",entry_nærsyn,inc-x-old,-nṛtā,,
 mentioned_d961e425,"mentioned_d961e425,mentioned_d961e720",entry_nærsyn,la,neriosus,"крепкий,стойкий","strong,persistent"
 mentioned_d961e436,"mentioned_d961e436,mentioned_d961e731",entry_nærsyn,sga,nertaim,я креплю,I strengthen
 mentioned_d961e444,"mentioned_d961e444,mentioned_d961e739",entry_nærsyn,cy-x-cymr,nerthu,крепить,strengthen
@@ -2866,7 +2862,7 @@ mentioned_d990e310,"mentioned_d990e310,mentioned_d990e364",entry_azym,ar,iṣm (
 mentioned_d993e170,"mentioned_d993e170,mentioned_d993e250",entry_roxsnæg,ira,*rauxšnaka-,,
 mentioned_d993e176,"mentioned_d993e176,mentioned_d993e256",entry_roxsnæg,ira,*rauxšna-,свет,light (n.)
 mentioned_d993e189,"mentioned_d993e189,mentioned_d993e269",entry_roxsnæg,os-x-iron,Rūxsnæg,название местности в Алагирском ущелье,the name of the area in the Alagir gorge
-mentioned_d993e202,"mentioned_d993e202,mentioned_d993e288",entry_roxsnæg,xsc,Ρωξανη,скифское и,Scythian and
+mentioned_d993e202,"mentioned_d993e202,mentioned_d993e288",entry_roxsnæg,xsc,Ρωξανη,скифское и бактрийское женское имя,Scythian and Bactrian female name
 mentioned_d993e207,"mentioned_d993e207,mentioned_d993e293",entry_roxsnæg,ru,Роксана,,
 mentioned_d993e220,"mentioned_d993e220,mentioned_d993e293",entry_roxsnæg,ru,Светлана,,
 mentioned_d993e226,"mentioned_d993e226,mentioned_d993e312",entry_roxsnæg,xsc,ʽΡωξανακη,столица саков,the capital of the Saks
@@ -3006,9 +3002,8 @@ mentioned_d1033e288,"mentioned_d1033e288,mentioned_d1033e362",entry_mækʼ0ystæ
 mentioned_d1038e208,"mentioned_d1038e208,mentioned_d1038e242",entry_kʼæs,la,casa,"хижина, плетеная из тростника",reed hut
 mentioned_d1038e220,"mentioned_d1038e220,mentioned_d1038e254",entry_kʼæs,"it,es",casa,,
 mentioned_d1038e225,"mentioned_d1038e225,mentioned_d1038e259",entry_kʼæs,cv,kas,квартал,block
-mentioned_d1039e185,"mentioned_d1039e185,mentioned_d1039e230",entry_mojag,ira,*manu,,
+mentioned_d1039e185,"mentioned_d1039e185,mentioned_d1039e230",entry_mojag,ira,*manu-,,
 mentioned_d1039e216,"mentioned_d1039e216,mentioned_d1039e262",entry_mojag,xsc,Μανιαγος,,
-mentioned_d1039e239,mentioned_d1039e239,,os,-ag,,
 mentioned_d1041e109,"mentioned_d1041e109,mentioned_d1041e135",entry_ilæ,ru,ил,,silt
 mentioned_d1041e114,"mentioned_d1041e114,mentioned_d1041e143",entry_ilæ,cu,илъ,,silt
 mentioned_d1041e120,"mentioned_d1041e120,mentioned_d1041e151",entry_ilæ,grc,ΐλὖς,ил,silt
@@ -3114,16 +3109,16 @@ mentioned_d1064e296,"mentioned_d1064e296,mentioned_d1064e528",entry_ræftad,ira,
 mentioned_d1064e302,"mentioned_d1064e302,mentioned_d1064e534",entry_ræftad,inc-x-old,*ad-,,
 mentioned_d1064e308,"mentioned_d1064e308,mentioned_d1064e540",entry_ræftad,ine,*ed-,,
 mentioned_d1064e320,"mentioned_d1064e320,mentioned_d1064e552",entry_ræftad,ae,ad-,,
-mentioned_d1064e327,"mentioned_d1064e327,mentioned_d1064e559",entry_ræftad,ae,aδāiti,3-е лицо ед. ч. конъюнктива,3sg of
+mentioned_d1064e327,"mentioned_d1064e327,mentioned_d1064e559",entry_ræftad,ae,aδāiti,3-е лицо ед. ч. конъюнктива,3sg of conjunctive
 mentioned_d1064e334,"mentioned_d1064e334,mentioned_d1064e534",entry_ræftad,inc-x-old,ad-,,
 mentioned_d1064e341,"mentioned_d1064e341,mentioned_d1064e577",entry_ræftad,inc-x-old,admi,я ем,I eat
 mentioned_d1064e348,"mentioned_d1064e348,mentioned_d1064e584",entry_ræftad,cu,ěd-,,
 mentioned_d1064e355,"mentioned_d1064e355,mentioned_d1064e591",entry_ræftad,ru,"еда,об-ед",,food
 mentioned_d1064e364,"mentioned_d1064e364,mentioned_d1064e607",entry_ræftad,la,edo,,
-mentioned_d1064e369,"mentioned_d1064e369,mentioned_d1064e612",entry_ræftad,grc,ἒ,,
+mentioned_d1064e369,"mentioned_d1064e369,mentioned_d1064e612",entry_ræftad,grc,ἒδομαι,,
 mentioned_d1064e432,"mentioned_d1064e432,mentioned_d1064e675",entry_ræftad,os,-as,,
-mentioned_d1064e442,"mentioned_d1064e442,mentioned_d1064e690",entry_ræftad,grc,ἄ,завтрак,breakfast
-mentioned_d1064e462,"mentioned_d1064e462,mentioned_d1064e709",entry_ræftad,grc,ἡ,рано утром,early in the morning
+mentioned_d1064e442,"mentioned_d1064e442,mentioned_d1064e690",entry_ræftad,grc,ἄριστον,завтрак,breakfast
+mentioned_d1064e462,"mentioned_d1064e462,mentioned_d1064e709",entry_ræftad,grc,ἡρι,рано утром,early in the morning
 mentioned_d1064e599,mentioned_d1064e599,,ru,ob-ed,,lunch
 mentioned_d1071e121,"mentioned_d1071e121,mentioned_d1071e141",entry_kʼ0ymæl,inh,k’omæl,брага,wash
 mentioned_d1077e144,"mentioned_d1077e144,mentioned_d1077e170",entry_qæppærīs6æg9,trk,qapar,ум,mind
@@ -3172,7 +3167,7 @@ mentioned_d1099e846,"mentioned_d1099e846,mentioned_d1099e1121",entry_rīw,ine,*r
 mentioned_d1099e858,"mentioned_d1099e858,mentioned_d1099e1133",entry_rīw,ine,*reup-,,
 mentioned_d1099e875,"mentioned_d1099e875,mentioned_d1099e1150",entry_rīw,wne,rēbūn,рубашка,shirt
 mentioned_d1099e893,"mentioned_d1099e893,mentioned_d1099e1168",entry_rīw,wne,rēbūn,,
-mentioned_d1099e896,"mentioned_d1099e896,mentioned_d1099e1171",entry_rīw,ira,*rai-pāna-,"покров (,) для груди (,)","chest (,) cover (,)"
+mentioned_d1099e896,"mentioned_d1099e896,mentioned_d1099e1171",entry_rīw,ira,*rai-pāna-,покров (pāna-) для груди (rai-),chest (rai-) cover (pāna-)
 mentioned_d1099e909,"mentioned_d1099e909,mentioned_d1099e1184",entry_rīw,ira,rai-,грудь,chest
 mentioned_d1099e930,"mentioned_d1099e930,mentioned_d1099e1205",entry_rīw,wne,rē-,,
 mentioned_d1100e677,mentioned_d1100e677,entry_fyd_3,ira,*pū-*pūta-,гнить,
@@ -3202,7 +3197,7 @@ mentioned_d1111e114,"mentioned_d1111e114,mentioned_d1111e360",entry_læsæg,de,L
 mentioned_d1111e122,"mentioned_d1111e122,mentioned_d1111e368",entry_læsæg,x-tchr,laks,рыба,fish
 mentioned_d1111e132,"mentioned_d1111e132,mentioned_d1111e378",entry_læsæg,inc-x-old,lākṣā,красный лак,red lac
 mentioned_d1111e140,"mentioned_d1111e140,mentioned_d1111e387",entry_læsæg,sog,"*raxš,rɣš",,
-mentioned_d1111e150,"mentioned_d1111e150,mentioned_d1111e396",entry_læsæg,kho,rr,название цвета,
+mentioned_d1111e150,"mentioned_d1111e150,mentioned_d1111e396",entry_læsæg,kho,rrāṣa,название цвета,
 mentioned_d1111e168,"mentioned_d1111e168,mentioned_d1111e417",entry_læsæg,xcl,erašx,желтый с красноватым отливом (о масти),yellow with reddish tint (of animal)
 mentioned_d1111e179,"mentioned_d1111e179,mentioned_d1111e428",entry_læsæg,inc-x-old,raj-,красный,red
 mentioned_d1111e233,"mentioned_d1111e233,mentioned_d1111e340",entry_læsæg,ru,ла́са,"яркое пятно,полоса",
@@ -3343,8 +3338,7 @@ mentioned_d1168e271,"mentioned_d1168e271,mentioned_d1168e473",entry_baræg,sgh,w
 mentioned_d1168e279,"mentioned_d1168e279,mentioned_d1168e481",entry_baræg,ce,berij,,
 mentioned_d1168e284,"mentioned_d1168e284,mentioned_d1168e486",entry_baræg,inh,bärij,молодец,good person
 mentioned_d1168e305,"mentioned_d1168e305,mentioned_d1168e507",entry_baræg,inh,merij,убийца,killer
-mentioned_d1172e104,"mentioned_d1172e104,mentioned_d1172e166",entry_mīsynʒæg,ine,*meiǵh,,
-mentioned_d1172e122,"mentioned_d1172e122,mentioned_d1172e184",entry_mīsynʒæg,os,-ʒæg,,
+mentioned_d1172e104,"mentioned_d1172e104,mentioned_d1172e166",entry_mīsynʒæg,ine,*meiǵh-s-,,
 mentioned_d1174e174,"mentioned_d1174e174,mentioned_d1174e190",entry_ag0yvzæ,kbd,hägwə-bże,бокал,glass
 mentioned_d1182e88,"mentioned_d1182e88,mentioned_d1182e99",entry_ʒabri,ka,ʒabri,воронка,funnel
 mentioned_d1185e100,"mentioned_d1185e100,mentioned_d1185e140",entry_kærkæ-mærkæ,trk,kärk,,
@@ -3486,7 +3480,6 @@ mentioned_d1240e167,"mentioned_d1240e167,mentioned_d1240e225",entry_k0yrīs,kv,"
 mentioned_d1240e172,"mentioned_d1240e172,mentioned_d1240e230",entry_k0yrīs,mns,kuraš,веник,broom
 mentioned_d1246e86,"mentioned_d1246e86,mentioned_d1246e100",entry_Ʒæwyǵyqæw,xsc,Zαβαγος,,
 mentioned_d1247e330,"mentioned_d1247e330,mentioned_d1247e498",entry_nyvændyn,ira,*ni-band-,,
-mentioned_d1247e334,"mentioned_d1247e334,mentioned_d1247e502",entry_nyvændyn,ira,ni-,,
 mentioned_d1247e337,"mentioned_d1247e337,mentioned_d1247e505",entry_nyvændyn,ira,band-,вязать,knit
 mentioned_d1247e348,"mentioned_d1247e348,mentioned_d1247e516",entry_nyvændyn,ira,*vi-band-,,
 mentioned_d1247e358,"mentioned_d1247e358,mentioned_d1247e526",entry_nyvændyn,ira,*bændyn-,,
@@ -3714,7 +3707,7 @@ mentioned_d1339e119,"mentioned_d1339e119,mentioned_d1339e133",entry_g0yzavæ,kbd
 mentioned_d1341e184,"mentioned_d1341e184,mentioned_d1341e207",entry_nesi,ka,nesvī,дыня,melon
 mentioned_d1343e285,"mentioned_d1343e285,mentioned_d1343e495",entry_nosun,fa,"nūš,nōš,nōšīn",сладкий,sweet
 mentioned_d1343e297,"mentioned_d1343e297,mentioned_d1343e507",entry_nosun,fa,nūšīdan,"пить,вкушать","drink,taste"
-mentioned_d1343e313,"mentioned_d1343e313,mentioned_d1343e523",entry_nosun,ira,"nōš,*anauša-","вода,бессмертия",water of immortality
+mentioned_d1343e313,"mentioned_d1343e313,mentioned_d1343e523",entry_nosun,ira,"nōš,*anauša-",вода бессмертия,water of immortality
 mentioned_d1343e335,"mentioned_d1343e335,mentioned_d1343e541",entry_nosun,ira,*naūš,,
 mentioned_d1343e341,"mentioned_d1343e341,mentioned_d1343e547",entry_nosun,ine,"*neus-,*neuks-","смаковать,нюхать,обонять","relish,sniff,smell"
 mentioned_d1343e360,"mentioned_d1343e360,mentioned_d1343e566",entry_nosun,bg,ню́шкaм,нюхаю,I sniff
@@ -4032,7 +4025,7 @@ mentioned_d1449e138,"mentioned_d1449e138,mentioned_d1449e162",entry_poxci,ka,pox
 mentioned_d1454e319,"mentioned_d1454e319,mentioned_d1454e381",entry_mūs,abq,mašw,ток,threshing-floor
 mentioned_d1454e339,"mentioned_d1454e339,mentioned_d1454e402",entry_mūs,abq-x-dial,a-mәšwta,id,id
 mentioned_d1454e348,"mentioned_d1454e348,mentioned_d1454e411",entry_mūs,abq,mašw,,
-mentioned_d1454e366,"mentioned_d1454e366,mentioned_d1454e429",entry_mūs,cu,mostъ,"утрамбованная площадка,пол","bridge,levelled,area,floor"
+mentioned_d1454e366,"mentioned_d1454e366,mentioned_d1454e429",entry_mūs,cu,mostъ,"утрамбованная площадка,пол","bridge,levelled area,floor"
 mentioned_d1455e417,"mentioned_d1455e417,mentioned_d1455e511",entry_qanʒal,ru,кинжал,,
 mentioned_d1455e422,"mentioned_d1455e422,mentioned_d1455e516",entry_qanʒal,"ar,fa",xanǰar,,
 mentioned_d1455e427,"mentioned_d1455e427,mentioned_d1455e521",entry_qanʒal,trk,qanǯar,,
@@ -4135,7 +4128,7 @@ mentioned_d1482e230,"mentioned_d1482e230,mentioned_d1482e328",entry_dyzǧ0yn,sog
 mentioned_d1482e238,"mentioned_d1482e238,mentioned_d1482e336",entry_dyzǧ0yn,kho,duš-darrau-,имеющий злую волю,having bad will
 mentioned_d1485e949,"mentioned_d1485e949,mentioned_d1485e1130",entry_nyfs,ar,"nafs,nefs","душа,жизненное начало,жизненная сила,сущность,личность","soul,vital beginning,life force,essence,personality"
 mentioned_d1485e972,"mentioned_d1485e972,mentioned_d1485e1153",entry_nyfs,ar,nafas,дыхание,breath
-mentioned_d1485e978,"mentioned_d1485e978,mentioned_d1485e1159",entry_nyfs,arc,nafšī,"моя душа,моя личность,мое","my soul,my personality,my"
+mentioned_d1485e978,"mentioned_d1485e978,mentioned_d1485e1159",entry_nyfs,arc,nafšī,"моя душа,моя личность,мое я","my soul,my personality,my me"
 mentioned_d1485e1000,"mentioned_d1485e1000,mentioned_d1485e1178",entry_nyfs,fa,nafs,,
 mentioned_d1485e1006,"mentioned_d1485e1006,mentioned_d1485e1184",entry_nyfs,trk,"näps,näfs",,
 mentioned_d1485e1025,"mentioned_d1485e1025,mentioned_d1485e1203",entry_nyfs,ku,nefs,душа,soul
@@ -4222,7 +4215,7 @@ mentioned_d1509e672,"mentioned_d1509e672,mentioned_d1509e906",entry_mūr,ru,мо
 mentioned_d1509e677,"mentioned_d1509e677,mentioned_d1509e911",entry_mūr,lt,malti,,
 mentioned_d1509e683,"mentioned_d1509e683,mentioned_d1509e917",entry_mūr,got,malan,,
 mentioned_d1509e692,"mentioned_d1509e692,mentioned_d1509e924",entry_mūr,ira,*maru-,,
-mentioned_d1509e696,"mentioned_d1509e696,mentioned_d1509e928",entry_mūr,ira,*mauru,,
+mentioned_d1509e696,"mentioned_d1509e696,mentioned_d1509e928",entry_mūr,ira,*mauru-,,
 mentioned_d1509e705,"mentioned_d1509e705,mentioned_d1509e937",entry_mūr,fi,muru,"кроха,крошка,крупица","crumb,bit,granule"
 mentioned_d1509e719,"mentioned_d1509e719,mentioned_d1509e951",entry_mūr,fi,murta,"дробить,ломать","crush,break"
 mentioned_d1509e728,"mentioned_d1509e728,mentioned_d1509e961",entry_mūr,fi,murskata,разбивать вдребезги,break into pieces
@@ -4408,7 +4401,7 @@ mentioned_d1581e105,"mentioned_d1581e105,mentioned_d1581e176",entry_mætæze,kbd
 mentioned_d1581e110,"mentioned_d1581e110,mentioned_d1581e181",entry_mætæze,ady,mätäžəj,,
 mentioned_d1581e115,"mentioned_d1581e115,mentioned_d1581e186",entry_mætæze,"kbd,kbd-x-crc",matä,корзина,basket
 mentioned_d1581e121,"mentioned_d1581e121,mentioned_d1581e192",entry_mætæze,"kbd,kbd-x-crc",-ž́ej,маленький,small
-mentioned_d1581e129,"mentioned_d1581e129,mentioned_d1581e200",entry_mætæze,kbd,ǵ,цыпленок,chick
+mentioned_d1581e129,"mentioned_d1581e129,mentioned_d1581e200",entry_mætæze,kbd,ǵäd-ž́ej,цыпленок,chick
 mentioned_d1581e141,"mentioned_d1581e141,mentioned_d1581e212",entry_mætæze,kbd,ǵäd,курица,hen
 mentioned_d1582e183,"mentioned_d1582e183,mentioned_d1582e195",entry_kʼ0ybar,ru,кубарь,,spinning top
 mentioned_d1584e422,"mentioned_d1584e422,mentioned_d1584e473",entry_padcax,fa,pādšāh,царь,tsar
@@ -4562,10 +4555,10 @@ mentioned_d1649e228,"mentioned_d1649e228,mentioned_d1649e272",entry_æssændyn,i
 mentioned_d1649e233,"mentioned_d1649e233,mentioned_d1649e277",entry_æssændyn,x-oldirn,šcand,,
 mentioned_d1649e240,"mentioned_d1649e240,mentioned_d1649e284",entry_æssændyn,sog,’nšyst,утоптанный,trampled down
 mentioned_d1649e253,"mentioned_d1649e253,mentioned_d1649e297",entry_æssændyn,kho,hatcañ-: hatcasta-,рассекать,cleave
-mentioned_d1653e734,"mentioned_d1653e734,mentioned_d1653e967",entry_mysyn,ira,*wi,,
+mentioned_d1653e734,"mentioned_d1653e734,mentioned_d1653e967",entry_mysyn,ira,*wi-mṇ-s,,
 mentioned_d1653e744,"mentioned_d1653e744,mentioned_d1653e977",entry_mysyn,ira,*man,думать,think
-mentioned_d1653e759,"mentioned_d1653e759,mentioned_d1653e992",entry_mysyn,ira,*wi,,
-mentioned_d1653e781,"mentioned_d1653e781,mentioned_d1653e1014",entry_mysyn,ira,*vi,,
+mentioned_d1653e759,"mentioned_d1653e759,mentioned_d1653e992",entry_mysyn,ira,*wi-mṇ-s,,
+mentioned_d1653e781,"mentioned_d1653e781,mentioned_d1653e1014",entry_mysyn,ira,*vi-θanj-,,
 mentioned_d1653e795,"mentioned_d1653e795,mentioned_d1653e1028",entry_mysyn,xpr,paδ-mas-,понимать,understand
 mentioned_d1653e810,"mentioned_d1653e810,mentioned_d1653e1043",entry_mysyn,ira,"mis-,vi-mis-",придумывать,conceive
 mentioned_d1653e818,"mentioned_d1653e818,mentioned_d1653e1052",entry_mysyn,pal,wmys,выдумка,invention
@@ -4574,7 +4567,7 @@ mentioned_d1653e831,"mentioned_d1653e831,mentioned_d1653e1065",entry_mysyn,x-old
 mentioned_d1653e835,"mentioned_d1653e835,mentioned_d1653e1069",entry_mysyn,x-oldirn,*vi-mis-,,
 mentioned_d1653e851,"mentioned_d1653e851,mentioned_d1653e1085",entry_mysyn,peo,Va(h)u-misa-,Добродум,Goodthinker
 mentioned_d1653e870,"mentioned_d1653e870,mentioned_d1653e1104",entry_mysyn,inc-x-old,vi-ṛmśya-,сознавать,realize
-mentioned_d1653e897,"mentioned_d1653e897,mentioned_d1653e1131",entry_mysyn,ira,*karš,,
+mentioned_d1653e897,"mentioned_d1653e897,mentioned_d1653e1131",entry_mysyn,ira,*karš-,,
 mentioned_d1653e953,"mentioned_d1653e953,mentioned_d1653e1185",entry_mysyn,hu,mese,"сказка,басня","fairy tale,fable"
 mentioned_d1656e328,"mentioned_d1656e328,mentioned_d1656e507",entry_ræǧæd,ira,*fra-gata-,,
 mentioned_d1656e334,"mentioned_d1656e334,mentioned_d1656e513",entry_ræǧæd,ira,gata-,,
@@ -4583,7 +4576,7 @@ mentioned_d1656e345,"mentioned_d1656e345,mentioned_d1656e524",entry_ræǧæd,zkh
 mentioned_d1656e361,"mentioned_d1656e361,mentioned_d1656e540",entry_ræǧæd,ae,fra-gam-,достигать,reach
 mentioned_d1656e369,"mentioned_d1656e369,mentioned_d1656e548",entry_ræǧæd,inc-x-old,pra-gam-,приходить к чему-нибудь,come to something
 mentioned_d1656e386,"mentioned_d1656e386,mentioned_d1656e565",entry_ræǧæd,ru,доходить,дозревать,get ripe
-mentioned_d1656e397,"mentioned_d1656e397,mentioned_d1656e576",entry_ræǧæd,ru,"спеть,поспеть",вовремя дойти,"ripen,on time"
+mentioned_d1656e397,"mentioned_d1656e397,mentioned_d1656e576",entry_ræǧæd,ru,"спеть,поспеть",вовремя дойти,ripen on time
 mentioned_d1656e408,"mentioned_d1656e408,mentioned_d1656e591",entry_ræǧæd,fa,rasīda,спелый,ripe
 mentioned_d1656e417,"mentioned_d1656e417,mentioned_d1656e600",entry_ræǧæd,fa,rasīdan,"достигать,доходить","reach,achieve"
 mentioned_d1656e426,"mentioned_d1656e426,mentioned_d1656e609",entry_ræǧæd,xcl,hasanem,"дохожу,зрею","I reach,I ripen"
@@ -4672,16 +4665,16 @@ mentioned_d1705e115,"mentioned_d1705e115,mentioned_d1705e154",entry_ælæt,av,al
 mentioned_d1706e214,"mentioned_d1706e214,mentioned_d1706e233",entry_byn_2,ab,a-bna,,
 mentioned_d1706e219,"mentioned_d1706e219,mentioned_d1706e238",entry_byn_2,abq,bna,лес,forest
 mentioned_d1708e154,"mentioned_d1708e154,mentioned_d1708e331",entry_lyjyn,ira,*ri-,,
-mentioned_d1708e166,"mentioned_d1708e166,mentioned_d1708e343",entry_lyjyn,fa,"rīdan,rī-,rīn-",caccare,
+mentioned_d1708e166,"mentioned_d1708e166,mentioned_d1708e343",entry_lyjyn,fa,"rīdan,rī-,rīn-",caccare,caccare
 mentioned_d1708e179,"mentioned_d1708e179,mentioned_d1708e357",entry_lyjyn,fa,"rīm,rīma","грязь,нечистоты","dirt,sewage"
-mentioned_d1708e190,"mentioned_d1708e190,mentioned_d1708e368",entry_lyjyn,pal,rītan,caccare,
+mentioned_d1708e190,"mentioned_d1708e190,mentioned_d1708e368",entry_lyjyn,pal,rītan,caccare,caccare
 mentioned_d1708e198,"mentioned_d1708e198,mentioned_d1708e377",entry_lyjyn,pal,rēman,нечистоты,sewage
 mentioned_d1708e204,"mentioned_d1708e204,mentioned_d1708e383",entry_lyjyn,x-balochi,rēm,"дерьмо,нечистоты","dung,sewage"
-mentioned_d1708e215,"mentioned_d1708e215,mentioned_d1708e394",entry_lyjyn,ku,rītin,caccare,
+mentioned_d1708e215,"mentioned_d1708e215,mentioned_d1708e394",entry_lyjyn,ku,rītin,caccare,caccare
 mentioned_d1708e223,"mentioned_d1708e223,mentioned_d1708e403",entry_lyjyn,sog,"*rēman-,rymnyy","грязный,загаженный","dirty,polluted"
-mentioned_d1708e245,"mentioned_d1708e245,mentioned_d1708e425",entry_lyjyn,kho,rriman-,faeces,
-mentioned_d1708e253,"mentioned_d1708e253,mentioned_d1708e434",entry_lyjyn,kho,riyai,anus,
-mentioned_d1708e267,"mentioned_d1708e267,mentioned_d1708e449",entry_lyjyn,ae,"ray-,irita-",caccare,
+mentioned_d1708e245,"mentioned_d1708e245,mentioned_d1708e425",entry_lyjyn,kho,rriman-,faeces,faeces
+mentioned_d1708e253,"mentioned_d1708e253,mentioned_d1708e434",entry_lyjyn,kho,riyai,anus,anus
+mentioned_d1708e267,"mentioned_d1708e267,mentioned_d1708e449",entry_lyjyn,ae,"ray-,irita-",caccare,caccare
 mentioned_d1708e277,"mentioned_d1708e277,mentioned_d1708e460",entry_lyjyn,ae,irimant,загаженный,polluted
 mentioned_d1708e284,"mentioned_d1708e284,mentioned_d1708e467",entry_lyjyn,ae,a-iritī-,,
 mentioned_d1708e287,"mentioned_d1708e287,mentioned_d1708e470",entry_lyjyn,ae,aiwi-iritī-,,
@@ -4992,7 +4985,7 @@ mentioned_d1818e724,"mentioned_d1818e724,mentioned_d1818e915",entry_mǽnæ,tg,m�
 mentioned_d1818e742,"mentioned_d1818e742,mentioned_d1818e933",entry_mǽnæ,yai,mána,вот,here (it) is
 mentioned_d1818e782,"mentioned_d1818e782,mentioned_d1818e974",entry_mǽnæ,x-balochi,āmenī́,вот,lo!
 mentioned_d1818e799,"mentioned_d1818e799,mentioned_d1818e990",entry_mǽnæ,ar,manā,"ce qui est en face, qui est devant q. qn","ce qui est en face, qui est devant q. qn"
-mentioned_d1818e813,"mentioned_d1818e813,mentioned_d1818e1004",entry_mǽnæ,ira,*imana,instrum. от,instrum. of
+mentioned_d1818e813,"mentioned_d1818e813,mentioned_d1818e1004",entry_mǽnæ,ira,*imana,instrum. от ima- этот,instrum. of ima- this
 mentioned_d1818e819,"mentioned_d1818e819,mentioned_d1818e1010",entry_mǽnæ,ira,*ima-,этот,this
 mentioned_d1818e826,"mentioned_d1818e826,mentioned_d1818e1017",entry_mǽnæ,kho,mara,здесь,here
 mentioned_d1818e836,"mentioned_d1818e836,mentioned_d1818e1027",entry_mǽnæ,ira,*ima-θra-,,
@@ -5054,7 +5047,7 @@ mentioned_d1856e101,"mentioned_d1856e101,mentioned_d1856e135",entry_nælxæ,av,n
 mentioned_d1856e106,"mentioned_d1856e106,mentioned_d1856e140",entry_nælxæ,aqc,inx,масло,butter
 mentioned_d1857e718,"mentioned_d1857e718,mentioned_d1857e995",entry_mæsyg,grc,μόσ(σ)υν,(деревянная) башня,(wooden) tower
 mentioned_d1857e730,"mentioned_d1857e730,mentioned_d1857e1007",entry_mæsyg,grc,μόσ(σ)υν· πύργος,,
-mentioned_d1857e766,"mentioned_d1857e766,mentioned_d1857e1043",entry_mæsyg,grc,Μοσ(σ)ύνοικοι,"живущие в башнях,1. название народности, населявшей юго-восточное побережье Понта,2. название народа в Великой Фригии с главным городом","tower-dwellers,1. name of a tribe that inhabited the south-eastern coast of the Pontus,2. name of a tribe in Greater Phrygia with the capital city"
+mentioned_d1857e766,"mentioned_d1857e766,mentioned_d1857e1043",entry_mæsyg,grc,Μοσ(σ)ύνοικοι,"живущие в башнях,1. название народности, населявшей юго-восточное побережье Понта (Her. III 94, VII 78; Xen. Anab. 5, 4, 1—3, 8, 11—17, 22—34; Scyl. 86, 87; Scymn. 900; Diod. Sic. 14, 30; Strabo XII 3, 18; Val. Flacc. 5, 152; Amm. Marc. 22, 8, и др.),2. название народа в Великой Фригии с главным городом Mossyna (Plin. 5, 3, 33; 6, 126)","tower-dwellers,1. name of a tribe that inhabited the south-eastern coast of the Pontus (Her. III 94, VII 78; Xen. Anab. 5, 4, 1—3, 8, 11—17, 22—34; Scyl. 86, 87; Scymn. 900; Diod. Sic. 14, 30; Strabo XII 3, 18; Val. Flacc. 5, 152; Amm. Marc. 22, 8, etc.),2. name of a tribe in Greater Phrygia with the capital city Mossyna (Plin. 5, 3, 33; 6, 126)"
 mentioned_d1857e824,"mentioned_d1857e824,mentioned_d1857e1101",entry_mæsyg,xpg,Mossyna,,
 mentioned_d1857e839,"mentioned_d1857e839,mentioned_d1857e1116",entry_mæsyg,grc,μόσυν,,
 mentioned_d1857e854,"mentioned_d1857e854,mentioned_d1857e1131",entry_mæsyg,grc,μόσυν,,
@@ -5158,7 +5151,6 @@ mentioned_d1909e379,"mentioned_d1909e379,mentioned_d1909e516",entry_ba_1,cs,ba,,
 mentioned_d1909e382,"mentioned_d1909e382,mentioned_d1909e520",entry_ba_1,sr,bo,,
 mentioned_d1909e387,"mentioned_d1909e387,mentioned_d1909e525",entry_ba_1,grc,φή,,
 mentioned_d1909e395,"mentioned_d1909e395,mentioned_d1909e533",entry_ba_1,hit,-pe,,
-mentioned_d1911e603,mentioned_d1911e603,,os,-ag,,
 mentioned_d1912e186,"mentioned_d1912e186,mentioned_d1912e221",entry_g0yr_1,lez,xur,грудь,chest
 mentioned_d1912e194,"mentioned_d1912e194,mentioned_d1912e229",entry_g0yr_1,xmf,guri,сердце,heart
 mentioned_d1912e202,"mentioned_d1912e202,mentioned_d1912e237",entry_g0yr_1,lzz,guri,сердце,heart
@@ -5183,10 +5175,10 @@ mentioned_d1917e187,"mentioned_d1917e187,mentioned_d1917e214",entry_kʼūdī,it,
 mentioned_d1925e140,"mentioned_d1925e140,mentioned_d1925e208",entry_mæzǵyd6-t9,"ar,fa",masǰid,мечеть,mosque
 mentioned_d1925e148,"mentioned_d1925e148,mentioned_d1925e216",entry_mæzǵyd6-t9,xcl,mzkʼit,,
 mentioned_d1925e153,"mentioned_d1925e153,mentioned_d1925e221",entry_mæzǵyd6-t9,ka,mizgiti,,
-mentioned_d1925e158,"mentioned_d1925e158,mentioned_d1925e226",entry_mæzǵyd6-t9,av,maz,,
+mentioned_d1925e158,"mentioned_d1925e158,mentioned_d1925e226",entry_mæzǵyd6-t9,av,mazġit,,
 mentioned_d1925e168,"mentioned_d1925e168,mentioned_d1925e236",entry_mæzǵyd6-t9,dar,mižit,,
 mentioned_d1925e174,"mentioned_d1925e174,mentioned_d1925e242",entry_mæzǵyd6-t9,"ce,inh",mäždig,,
-mentioned_d1925e179,"mentioned_d1925e179,mentioned_d1925e247",entry_mæzǵyd6-t9,kbd,mäž,,
+mentioned_d1925e179,"mentioned_d1925e179,mentioned_d1925e247",entry_mæzǵyd6-t9,kbd,mäžġət,,
 mentioned_d1925e189,"mentioned_d1925e189,mentioned_d1925e257",entry_mæzǵyd6-t9,orv,"mezgitъ,mizgitъ",,
 mentioned_d1926e115,"mentioned_d1926e115,mentioned_d1926e124",entry_Ḱabæ,ar,"Ka‘ba, Ka‘bat",,
 mentioned_d1928e172,"mentioned_d1928e172,mentioned_d1928e216",entry_ʒatma,trk,čatma,шалаш,tent
@@ -5513,7 +5505,6 @@ mentioned_d2016e424,"mentioned_d2016e424,mentioned_d2016e769",entry_nygænyn,yai
 mentioned_d2016e431,"mentioned_d2016e431,mentioned_d2016e776",entry_nygænyn,sog,"*kan-,kn-,knt-",,
 mentioned_d2016e442,"mentioned_d2016e442,mentioned_d2016e787",entry_nygænyn,ae,kan-,,
 mentioned_d2016e447,"mentioned_d2016e447,mentioned_d2016e792",entry_nygænyn,peo,kan-,копать,dig
-mentioned_d2016e455,"mentioned_d2016e455,mentioned_d2016e800",entry_nygænyn,ira,ni-:,,
 mentioned_d2016e458,"mentioned_d2016e458,mentioned_d2016e803",entry_nygænyn,ydg,ni-kana-,копать,dig
 mentioned_d2016e467,"mentioned_d2016e467,mentioned_d2016e812",entry_nygænyn,zkh,"nkn-,*ni-kan-",погребать,bury
 mentioned_d2016e483,"mentioned_d2016e483,mentioned_d2016e828",entry_nygænyn,pal,ni-kantan,"зарывать,погребать,хоронить","bury,inhume,inearth"
@@ -5775,7 +5766,7 @@ mentioned_d2111e162,"mentioned_d2111e162,mentioned_d2111e202",entry_fælmæn,wbl
 mentioned_d2111e176,"mentioned_d2111e176,mentioned_d2111e216",entry_fælmæn,ydg,polm,мягкий,soft
 mentioned_d2111e184,"mentioned_d2111e184,mentioned_d2111e224",entry_fælmæn,ru,"мягкий, мука",,soft
 mentioned_d2111e233,mentioned_d2111e233,,ru,muka,,flour
-mentioned_d2115e501,"mentioned_d2115e501,mentioned_d2115e545",entry_nard,ira,*nṛta,,
+mentioned_d2115e501,"mentioned_d2115e501,mentioned_d2115e545",entry_nard,ira,*nṛta-,,
 mentioned_d2115e512,"mentioned_d2115e512,mentioned_d2115e556",entry_nard,ira,*mṛta-,,
 mentioned_d2115e516,"mentioned_d2115e516,mentioned_d2115e560",entry_nard,os,"*naryn,narun,*nṛ-",откармливать,fatten up
 mentioned_d2115e529,"mentioned_d2115e529,mentioned_d2115e573",entry_nard,inc-x-old,sūnṛta-,полный жизненной силы,full of life force
@@ -5816,7 +5807,7 @@ mentioned_d2133e249,"mentioned_d2133e249,mentioned_d2133e289",entry_ænsaræ,sa,
 mentioned_d2133e257,"mentioned_d2133e257,mentioned_d2133e297",entry_ænsaræ,sa,ṡar-,рвать,to tear
 mentioned_d2133e265,"mentioned_d2133e265,mentioned_d2133e305",entry_ænsaræ,ae,sarī-,обломок,fragment
 mentioned_d2133e273,"mentioned_d2133e273,mentioned_d2133e313",entry_ænsaræ,ae,a-sarəta-,не разбитый,unbroke
-mentioned_d2135e255,"mentioned_d2135e255,mentioned_d2135e397",entry_nyqq0yryn,os,*q˳,,
+mentioned_d2135e255,"mentioned_d2135e255,mentioned_d2135e397",entry_nyqq0yryn,os,*q˳yryn,,
 mentioned_d2135e263,"mentioned_d2135e263,mentioned_d2135e405",entry_nyqq0yryn,ira,*gar-,,
 mentioned_d2135e269,"mentioned_d2135e269,mentioned_d2135e411",entry_nyqq0yryn,ine,*g˳er-,глотать,swallow
 mentioned_d2135e283,"mentioned_d2135e283,mentioned_d2135e425",entry_nyqq0yryn,ps,"nyaṛdәl,nyaṛ-",,
@@ -5922,7 +5913,7 @@ mentioned_d2154e494,"mentioned_d2154e494,mentioned_d2154e726",entry_7lx0yj,xcl,"
 mentioned_d2155e609,"mentioned_d2155e609,mentioned_d2155e734",entry_nyvond,ira,*ni-banda-,,
 mentioned_d2155e615,"mentioned_d2155e615,mentioned_d2155e740",entry_nyvond,ira,band-,вязать,bind
 mentioned_d2155e623,"mentioned_d2155e623,mentioned_d2155e748",entry_nyvond,os,nyvond nybbæddyn,"обещать животное в жертву,связать","promise an animal sacrifice,tie"
-mentioned_d2155e633,"mentioned_d2155e633,mentioned_d2155e758",entry_nyvond,os,Wastyrǵijæn,"обещали (,) (животное) в жертву Уастырджи","promised (,) (the animal) as a sacrifice to Wastyrdji"
+mentioned_d2155e633,"mentioned_d2155e633,mentioned_d2155e758",entry_nyvond,os,Wastyrǵijæn nyvond nybbastoj,обещали (связали) (животное) в жертву Уастырджи,promised (tied) (the animal) as a sacrifice to Wastyrdji
 mentioned_d2155e650,"mentioned_d2155e650,mentioned_d2155e775",entry_nyvond,fa,band,"залог,заклад,клятва,договор","bail,pledge,oath,treaty"
 mentioned_d2155e667,"mentioned_d2155e667,mentioned_d2155e792",entry_nyvond,sog,"*niβand,nβʼnt","обещанное,связанное","promised,tied"
 mentioned_d2155e693,"mentioned_d2155e693,mentioned_d2155e818",entry_nyvond,inc-x-old,bandha-,Pfand,Pfand
@@ -5962,7 +5953,7 @@ mentioned_d2157e1320,"mentioned_d2157e1320,mentioned_d2157e1721",entry_læg,ira,
 mentioned_d2157e1337,"mentioned_d2157e1337,mentioned_d2157e1738",entry_læg,ira,*manu-,,
 mentioned_d2157e1367,mentioned_d2157e1367,entry_læg,hu,legeny,парень,
 mentioned_d2157e1383,"mentioned_d2157e1383,mentioned_d2157e1789",entry_læg,uk-x-gal,легинь,"парень,неженатый молодой человек","lad,unmarried young man"
-mentioned_d2157e1768,mentioned_d2157e1768,,hu,leg,,lad
+mentioned_d2157e1768,mentioned_d2157e1768,,hu,legény,,lad
 mentioned_d2160e244,"mentioned_d2160e244,mentioned_d2160e322",entry_ægær,kho,kara,предел,limit
 mentioned_d2160e253,"mentioned_d2160e253,mentioned_d2160e331",entry_ægær,ae,karana,предел,limit
 mentioned_d2160e281,"mentioned_d2160e281,mentioned_d2160e359",entry_ægær,ce,uggur,самый,most
@@ -6087,7 +6078,7 @@ mentioned_d2199e199,"mentioned_d2199e199,mentioned_d2199e235",entry_būstæ,trk,
 mentioned_d2199e207,"mentioned_d2199e207,mentioned_d2199e243",entry_būstæ,trk,bošu,гнев,anger
 mentioned_d2202e156,"mentioned_d2202e156,mentioned_d2202e182",entry_goren,ka,qore,стена из простого камня без глины,simple stone wall without clay
 mentioned_d2202e168,"mentioned_d2202e168,mentioned_d2202e194",entry_goren,ab,a-g˳ar,забор,fence
-mentioned_d2209e258,"mentioned_d2209e258,mentioned_d2209e306",entry_nyǧ0ylyn,os,*ni-,,
+mentioned_d2209e258,"mentioned_d2209e258,mentioned_d2209e306",entry_nyǧ0ylyn,os,*ni-gul-,,
 mentioned_d2209e283,"mentioned_d2209e283,mentioned_d2209e331",entry_nyǧ0ylyn,os,*gul-,,
 mentioned_d2209e288,"mentioned_d2209e288,mentioned_d2209e336",entry_nyǧ0ylyn,os,*kul-,,
 mentioned_d2209e293,"mentioned_d2209e293,mentioned_d2209e341",entry_nyǧ0ylyn,fa,nuɣul,глубокий,deep
@@ -6098,8 +6089,8 @@ mentioned_d2210e356,"mentioned_d2210e356,mentioned_d2210e536",entry_qabaq,fa,"qa
 mentioned_d2210e383,"mentioned_d2210e383,mentioned_d2210e563",entry_qabaq,tg-x-dial,qabaq,"стрельба в цель в честь рождения ребенка, обрезания и т. п.","shooting at a target in honour of the birth of a child, circumcision, etc."
 mentioned_d2210e406,"mentioned_d2210e406,mentioned_d2210e586",entry_qabaq,ka,qabaxi,"мачта, на верху которой лежит шар, как цель для выстрела",a mast with a ball on top of it as a target for a shot
 mentioned_d2210e418,"mentioned_d2210e418,mentioned_d2210e598",entry_qabaq,ka-x-pshav,"qabaxi,ǧabaxi","мишень,расписанная доска с прикрепленной мишенью","target,painted board with attached target"
-mentioned_d2210e453,"mentioned_d2210e453,mentioned_d2210e636",entry_qabaq,kbd,qäbaq,"Большой популярностью пользовался традиционный праздник,… Главным развлечением здесь была стрельба в цель, для которой собственно и воздвигался сам,— высокая мачта со множеством подвешенных на ней вещей. Сбитая вещь отдавалась меткому стрелку. Обычно,устраивался весной, после окончания пахоты","The traditional,holiday was very popular… The main entertainment here was shooting at the target, for which the,itself was actually erected — a high mast with a lot of things suspended on it. The downed thing was given to the marksman. Usually,was arranged in the spring, after the end of plowing"
-mentioned_d2210e461,"mentioned_d2210e461,mentioned_d2210e636",entry_qabaq,kbd,qäbaq,,"The traditional,holiday was very popular… The main entertainment here was shooting at the target, for which the,itself was actually erected — a high mast with a lot of things suspended on it. The downed thing was given to the marksman. Usually,was arranged in the spring, after the end of plowing"
+mentioned_d2210e453,"mentioned_d2210e453,mentioned_d2210e636",entry_qabaq,kbd,qäbaq,"Большой популярностью пользовался традиционный праздник qäbaq… Главным развлечением здесь была стрельба в цель, для которой собственно и воздвигался сам qäbaq — высокая мачта со множеством подвешенных на ней вещей. Сбитая вещь отдавалась меткому стрелку. Обычно qäbaq устраивался весной, после окончания пахоты","The traditional qäbaq holiday was very popular… The main entertainment here was shooting at the target, for which the qäbaq itself was actually erected — a high mast with a lot of things suspended on it. The downed thing was given to the marksman. Usually qäbaq was arranged in the spring, after the end of plowing"
+mentioned_d2210e461,"mentioned_d2210e461,mentioned_d2210e636",entry_qabaq,kbd,qäbaq,,"The traditional qäbaq holiday was very popular… The main entertainment here was shooting at the target, for which the qäbaq itself was actually erected — a high mast with a lot of things suspended on it. The downed thing was given to the marksman. Usually qäbaq was arranged in the spring, after the end of plowing"
 mentioned_d2210e466,"mentioned_d2210e466,mentioned_d2210e644",entry_qabaq,kbd,qäbaq,,
 mentioned_d2210e471,"mentioned_d2210e471,mentioned_d2210e649",entry_qabaq,kbd,qäbaq,,
 mentioned_d2211e108,"mentioned_d2211e108,mentioned_d2211e255",entry_majmuli,fa,maimūn,обезьяна,monkey
@@ -6152,17 +6143,14 @@ mentioned_d2232e216,"mentioned_d2232e216,mentioned_d2232e317",entry_daræn,xcl,m
 mentioned_d2232e224,"mentioned_d2232e224,mentioned_d2232e325",entry_daræn,xcl,matʼean,книга,book
 mentioned_d2232e233,"mentioned_d2232e233,mentioned_d2232e334",entry_daræn,xcl,pʼatʼkʼan-daran,колчан,quiver
 mentioned_d2232e241,"mentioned_d2232e241,mentioned_d2232e342",entry_daræn,xcl,p’at’k’an,стрела,arrow
-mentioned_d2233e352,"mentioned_d2233e352,mentioned_d2233e484",entry_nywazyn,ira,ni-,,
 mentioned_d2233e355,"mentioned_d2233e355,mentioned_d2233e487",entry_nywazyn,ira,waz-,течь,flow
 mentioned_d2233e360,"mentioned_d2233e360,mentioned_d2233e492",entry_nywazyn,ine,*weǵh-,,
 mentioned_d2233e370,"mentioned_d2233e370,mentioned_d2233e502",entry_nywazyn,ira,wczaya-,"заставлять течь,вбирать жидкость в себя","make flow,take in liquid"
 mentioned_d2233e383,"mentioned_d2233e383,mentioned_d2233e515",entry_nywazyn,kho,"nuvays-,ni-waz-",течь вниз,flow down
 mentioned_d2233e393,"mentioned_d2233e393,mentioned_d2233e525",entry_nywazyn,ae,nivaz-,уносить вниз течением,drift downstream
 mentioned_d2233e402,"mentioned_d2233e402,mentioned_d2233e534",entry_nywazyn,inc-x-old,nivah-,течь,flow
-mentioned_d2233e410,"mentioned_d2233e410,mentioned_d2233e542",entry_nywazyn,ira,ā-,,
 mentioned_d2233e413,"mentioned_d2233e413,mentioned_d2233e545",entry_nywazyn,ira,ā-wāzaya-,,
 mentioned_d2233e422,"mentioned_d2233e422,mentioned_d2233e554",entry_nywazyn,xsc,Άβνωζος,,
-mentioned_d2233e434,"mentioned_d2233e434,mentioned_d2233e567",entry_nywazyn,xsc,ab,,
 mentioned_d2233e437,"mentioned_d2233e437,mentioned_d2233e570",entry_nywazyn,ira,ap-,вода,water
 mentioned_d2233e445,"mentioned_d2233e445,mentioned_d2233e578",entry_nywazyn,xsc,noz,пьющий,drinking
 mentioned_d2234e161,"mentioned_d2234e161,mentioned_d2234e196",entry_bæǧdwan,ira,*baxta-vant,,
@@ -6246,7 +6234,7 @@ mentioned_d2268e535,"mentioned_d2268e535,mentioned_d2268e767",entry_ma_2,hit,ma,
 mentioned_d2268e544,"mentioned_d2268e544,mentioned_d2268e778",entry_ma_2,trk,ma,на! вот!,here you are!
 mentioned_d2268e565,"mentioned_d2268e565,mentioned_d2268e799",entry_ma_2,"tg,isk,sgh,x-rushani,yai",ma,на! вот! возьми!,here you are! take it!
 mentioned_d2268e596,"mentioned_d2268e596,mentioned_d2268e828",entry_ma_2,ira,*hama,,
-mentioned_d2268e603,"mentioned_d2268e603,mentioned_d2268e835",entry_ma_2,kho,m,,
+mentioned_d2268e603,"mentioned_d2268e603,mentioned_d2268e835",entry_ma_2,kho,mā,,
 mentioned_d2268e612,"mentioned_d2268e612,mentioned_d2268e844",entry_ma_2,sog,mʼẟ,,
 mentioned_d2268e621,"mentioned_d2268e621,mentioned_d2268e852",entry_ma_2,ira,*hama-aθa,,
 mentioned_d2268e631,"mentioned_d2268e631,mentioned_d2268e863",entry_ma_2,ae,hamaθa,также,also
@@ -6456,10 +6444,8 @@ mentioned_d2341e135,"mentioned_d2341e135,mentioned_d2341e156",entry_ginon,ka,gvi
 mentioned_d2344e81,"mentioned_d2344e81,mentioned_d2344e92",entry_ʒala,ka,cʼala,прибрежный лес,riverside forest
 mentioned_d2347e152,"mentioned_d2347e152,mentioned_d2347e275",entry_qazaq6q9,trk,qazaq,,
 mentioned_d2347e198,"mentioned_d2347e198,mentioned_d2347e321",entry_qazaq6q9,ru,казак,,
-mentioned_d2347e203,"mentioned_d2347e203,mentioned_d2347e326",entry_qazaq6q9,ru,к,,
 mentioned_d2347e208,"mentioned_d2347e208,mentioned_d2347e331",entry_qazaq6q9,os,q,,
 mentioned_d2347e213,"mentioned_d2347e213,mentioned_d2347e336",entry_qazaq6q9,ru,картофель,,
-mentioned_d2347e224,"mentioned_d2347e224,mentioned_d2347e347",entry_qazaq6q9,ru,копейка,,
 mentioned_d2347e238,"mentioned_d2347e238,mentioned_d2347e361",entry_qazaq6q9,xmf,qazaxi,"крестьянин,молодец,герой","peasant,fellow,hero"
 mentioned_d2348e143,"mentioned_d2348e143,mentioned_d2348e158",entry_fælxærst,sog,par-xarš (prɣrš),умерший,dead
 mentioned_d2350e119,"mentioned_d2350e119,mentioned_d2350e146",entry_qellaw,trk,qalaȵna,качаться,swing
@@ -6486,7 +6472,7 @@ mentioned_d2353e180,"mentioned_d2353e180,mentioned_d2353e286",entry_gakkuk,kv,k�
 mentioned_d2353e185,"mentioned_d2353e185,mentioned_d2353e291",entry_gakkuk,x-mordvin,kuku,,
 mentioned_d2356e118,"mentioned_d2356e118,mentioned_d2356e137",entry_gamxūd,trk,"kam, qam",шаман,shaman
 mentioned_d2358e229,"mentioned_d2358e229,mentioned_d2358e270",entry_ræcūǧyn,ira,*fra-saux-,,
-mentioned_d2358e233,"mentioned_d2358e233,mentioned_d2358e274",entry_ræcūǧyn,wbl,sux-,"толкать,пихать,to jostle,тереть","push,shove,to,jostle,rub"
+mentioned_d2358e233,"mentioned_d2358e233,mentioned_d2358e274",entry_ræcūǧyn,wbl,sux-,"толкать,пихать,to jostle,тереть","push,shove,to jostle,rub"
 mentioned_d2359e88,"mentioned_d2359e88,mentioned_d2359e116",entry_læxcoræn,ira,*fra-xša(u)rana-,,
 mentioned_d2360e84,"mentioned_d2360e84,mentioned_d2360e118",entry_ævdæz,fa,abdast,,
 mentioned_d2360e91,"mentioned_d2360e91,mentioned_d2360e123",entry_ævdæz,fa,āb,вода,water
@@ -6591,7 +6577,7 @@ mentioned_d2387e465,"mentioned_d2387e465,mentioned_d2387e575",entry_mingi6j9,lt,
 mentioned_d2387e476,"mentioned_d2387e476,mentioned_d2387e586",entry_mingi6j9,txb,menki,меньший,minor
 mentioned_d2387e484,"mentioned_d2387e484,mentioned_d2387e594",entry_mingi6j9,inc-x-old,manā́k,немного,a little
 mentioned_d2387e492,"mentioned_d2387e492,mentioned_d2387e602",entry_mingi6j9,inc,*men-,,
-mentioned_d2387e504,"mentioned_d2387e504,mentioned_d2387e614",entry_mingi6j9,cu,mьn,,
+mentioned_d2387e504,"mentioned_d2387e504,mentioned_d2387e614",entry_mingi6j9,cu,mьnÿ,,
 mentioned_d2387e513,"mentioned_d2387e513,mentioned_d2387e623",entry_mingi6j9,ru,менее,,
 mentioned_d2387e518,"mentioned_d2387e518,mentioned_d2387e628",entry_mingi6j9,"ang,goh",min,,
 mentioned_d2387e523,"mentioned_d2387e523,mentioned_d2387e633",entry_mingi6j9,got,mins,,
@@ -6711,7 +6697,7 @@ mentioned_d2416e144,"mentioned_d2416e144,mentioned_d2416e217",entry_ninæǧ,ira,
 mentioned_d2416e152,"mentioned_d2416e152,mentioned_d2416e225",entry_ninæǧ,krc-x-balkar,nanәq,малина,raspberry
 mentioned_d2416e161,"mentioned_d2416e161,mentioned_d2416e234",entry_ninæǧ,kjh,"nonyq,nonaǧ",черника,blueberry
 mentioned_d2416e178,"mentioned_d2416e178,mentioned_d2416e251",entry_ninæǧ,sva,"inaǧa,inǧa",малина,raspberry
-mentioned_d2416e190,"mentioned_d2416e190,mentioned_d2416e263",entry_ninæǧ,ira,*mæ-næn(ә),,
+mentioned_d2416e190,"mentioned_d2416e190,mentioned_d2416e263",entry_ninæǧ,ira,*mæ-næn(ә)ǧ,,
 mentioned_d2429e158,"mentioned_d2429e158,mentioned_d2429e179",entry_qæne,kbd,pqənä,"растение, из которого добывают красную краску,хна","the plant from which red paint is extracted,henna"
 mentioned_d2431e286,"mentioned_d2431e286,mentioned_d2431e447",entry_cong,fa,čang,лапа,paw
 mentioned_d2431e306,"mentioned_d2431e306,mentioned_d2431e467",entry_cong,fa,čangāl,,
@@ -6728,18 +6714,13 @@ mentioned_d2431e394,"mentioned_d2431e394,mentioned_d2431e555",entry_cong,ae,čin
 mentioned_d2431e399,"mentioned_d2431e399,mentioned_d2431e560",entry_cong,x-oldirn,*čanga-,,
 mentioned_d2431e413,"mentioned_d2431e413,mentioned_d2431e574",entry_cong,fa,kang,рука,hand
 mentioned_d2434e912,"mentioned_d2434e912,mentioned_d2434e1274",entry_nyv,ira,*ni-bā-,,
-mentioned_d2434e918,"mentioned_d2434e918,mentioned_d2434e1280",entry_nyv,ira,ni-,,
 mentioned_d2434e921,"mentioned_d2434e921,mentioned_d2434e1283",entry_nyv,ira,bā-,,
 mentioned_d2434e924,"mentioned_d2434e924,mentioned_d2434e1286",entry_nyv,iir,bhā-,светить,give light
 mentioned_d2434e942,"mentioned_d2434e942,mentioned_d2434e1304",entry_nyv,inc-x-old,vi-bhā-,"светить,рассветать","make light,to dawn"
 mentioned_d2434e959,"mentioned_d2434e959,mentioned_d2434e1321",entry_nyv,inc-x-old,bhānu-,"свет,луч света,солнце","light,ray of light,sun"
-mentioned_d2434e977,"mentioned_d2434e977,mentioned_d2434e1339",entry_nyv,inc-x-old,-nibha-,подобный,similar
-mentioned_d2434e989,"mentioned_d2434e989,mentioned_d2434e1351",entry_nyv,os,-x˳yz,"образ,вид,цвет","image,appearence,colour"
-mentioned_d2434e1003,"mentioned_d2434e1003,mentioned_d2434e1365",entry_nyv,ru,-образный,,
 mentioned_d2434e1006,"mentioned_d2434e1006,mentioned_d2434e1369",entry_nyv,os,adæjmagx˳yz,,
 mentioned_d2434e1009,"mentioned_d2434e1009,mentioned_d2434e1374",entry_nyv,ru,человекообразный,,
 mentioned_d2434e1014,"mentioned_d2434e1014,mentioned_d2434e1389",entry_nyv,inc-x-old,nibha-,"вид,образ",
-mentioned_d2434e1028,"mentioned_d2434e1028,mentioned_d2434e1396",entry_nyv,ae,-niva-,,
 mentioned_d2434e1033,"mentioned_d2434e1033,mentioned_d2434e1401",entry_nyv,ae,bāma-niva-,сияющий,shining
 mentioned_d2434e1041,"mentioned_d2434e1041,mentioned_d2434e1409",entry_nyv,ae,bāma-niva-,,
 mentioned_d2434e1054,"mentioned_d2434e1054,mentioned_d2434e1422",entry_nyv,peo,naiba-,,
@@ -7237,8 +7218,8 @@ mentioned_d2577e648,"mentioned_d2577e648,mentioned_d2577e1043",entry_myd,ce,merz
 mentioned_d2577e659,"mentioned_d2577e659,mentioned_d2577e1054",entry_myd,kap,mucʼo,мед,honey
 mentioned_d2577e667,"mentioned_d2577e667,mentioned_d2577e1062",entry_myd,ani,micʼa,,
 mentioned_d2577e672,"mentioned_d2577e672,mentioned_d2577e1067",entry_myd,tab,meʼel,сладкий,sweet
-mentioned_d2577e704,"mentioned_d2577e704,mentioned_d2577e1100",entry_myd,ira,*pasu,овца,sheep
-mentioned_d2577e726,"mentioned_d2577e726,mentioned_d2577e1121",entry_myd,ira,paru,много,many
+mentioned_d2577e704,"mentioned_d2577e704,mentioned_d2577e1100",entry_myd,ira,*pasu-,овца,sheep
+mentioned_d2577e726,"mentioned_d2577e726,mentioned_d2577e1121",entry_myd,ira,paru-,много,many
 mentioned_d2578e91,"mentioned_d2578e91,mentioned_d2578e112",entry_cardaq,trk,čardaq,навес,awning
 mentioned_d2578e99,"mentioned_d2578e99,mentioned_d2578e120",entry_cardaq,fa,*čar-tāq,,
 mentioned_d2578e104,"mentioned_d2578e104,mentioned_d2578e125",entry_cardaq,ru,чердак,,
@@ -7289,7 +7270,7 @@ mentioned_d2587e961,"mentioned_d2587e961,mentioned_d2587e1437",entry_næl,isk,"n
 mentioned_d2587e971,"mentioned_d2587e971,mentioned_d2587e1447",entry_næl,sgy,"narak,nark","самец,баран","male,ram"
 mentioned_d2587e984,"mentioned_d2587e984,mentioned_d2587e1460",entry_næl,yah,nar,,
 mentioned_d2587e989,"mentioned_d2587e989,mentioned_d2587e1465",entry_næl,sog,"*nērak,nyrk,*naryaka-",,
-mentioned_d2587e1000,"mentioned_d2587e1000,mentioned_d2587e1476",entry_næl,kho,"naḍe,naḍaun,*nartavan",герой,hero
+mentioned_d2587e1000,"mentioned_d2587e1000,mentioned_d2587e1476",entry_næl,kho,"naḍe,naḍaun,*nartavan-",герой,hero
 mentioned_d2587e1023,"mentioned_d2587e1023,mentioned_d2587e1499",entry_næl,ae,"nar-,narya-",,
 mentioned_d2587e1030,"mentioned_d2587e1030,mentioned_d2587e1506",entry_næl,os,striča nairyasča,,
 mentioned_d2587e1035,"mentioned_d2587e1035,mentioned_d2587e1511",entry_næl,inc-x-old,"nar-,narya-","самец,мужчина","male,man"
@@ -7301,7 +7282,7 @@ mentioned_d2587e1083,"mentioned_d2587e1083,mentioned_d2587e1559",entry_næl,ine,
 mentioned_d2587e1089,"mentioned_d2587e1089,mentioned_d2587e1565",entry_næl,ine,*aner-,,
 mentioned_d2587e1105,"mentioned_d2587e1105,mentioned_d2587e1582",entry_næl,xsc,ἐνάρεες,"женоподобные мужчины,ἀνδρόγυνοι","woman-like men,ἀνδρόγυνοι"
 mentioned_d2587e1121,"mentioned_d2587e1121,mentioned_d2587e1598",entry_næl,xsc,ἀνάριες,,
-mentioned_d2587e1133,"mentioned_d2587e1133,mentioned_d2587e1610",entry_næl,ira,*a,лишенный мужественности,lacking masculinity
+mentioned_d2587e1133,"mentioned_d2587e1133,mentioned_d2587e1610",entry_næl,ira,*a-narya-,лишенный мужественности,lacking masculinity
 mentioned_d2587e1156,"mentioned_d2587e1156,mentioned_d2587e1633",entry_næl,ka,nari,самец верблюда,male camel
 mentioned_d2587e1169,"mentioned_d2587e1169,mentioned_d2587e1646",entry_næl,"ce,inh",nal,кабан,boar
 mentioned_d2588e195,"mentioned_d2588e195,mentioned_d2588e274",entry_bolat,fa,pūlād,,
@@ -7341,7 +7322,7 @@ mentioned_d2605e371,"mentioned_d2605e371,mentioned_d2605e517",entry_qazajrag,trk
 mentioned_d2605e377,"mentioned_d2605e377,mentioned_d2605e523",entry_qazajrag,trk,qaz-,бродить,wander
 mentioned_d2605e398,"mentioned_d2605e398,mentioned_d2605e544",entry_qazajrag,orv,козары,,
 mentioned_d2605e403,"mentioned_d2605e403,mentioned_d2605e549",entry_qazajrag,hu,Kozár,,
-mentioned_d2606e376,"mentioned_d2606e376,mentioned_d2606e541",entry_nymd,os,*nam(a),,
+mentioned_d2606e376,"mentioned_d2606e376,mentioned_d2606e541",entry_nymd,os,*nam(a)ta-,,
 mentioned_d2606e384,"mentioned_d2606e384,mentioned_d2606e549",entry_nymd,ira,*nam-,,
 mentioned_d2606e390,"mentioned_d2606e390,mentioned_d2606e555",entry_nymd,ine,nem-,"воздавать должное, требуемое обычаем","pay tribute, required by customs"
 mentioned_d2606e398,"mentioned_d2606e398,mentioned_d2606e563",entry_nymd,ira,nam-,гнуться,bend
@@ -7398,7 +7379,7 @@ mentioned_d2624e385,"mentioned_d2624e385,mentioned_d2624e747",entry_ræsyjyn,inc
 mentioned_d2624e393,"mentioned_d2624e393,mentioned_d2624e755",entry_ræsyjyn,inc-x-old,"ṡu-,ṡvi-,ṡvayati","пухнуть,становиться большим, мощным","swell,become big, powerful"
 mentioned_d2624e406,"mentioned_d2624e406,mentioned_d2624e768",entry_ræsyjyn,inc-x-old,ṡiṡu-,дитя,child
 mentioned_d2624e412,"mentioned_d2624e412,mentioned_d2624e774",entry_ræsyjyn,inc-x-old,ṡiṡviṣ,"растущий,становящийся мощным","growing,becoming powerful"
-mentioned_d2624e422,"mentioned_d2624e422,mentioned_d2624e784",entry_ræsyjyn,peo,Čišpiš,собств. имя,personal
+mentioned_d2624e422,"mentioned_d2624e422,mentioned_d2624e784",entry_ræsyjyn,peo,Čišpiš,собств. имя,personal name
 mentioned_d2624e441,"mentioned_d2624e441,mentioned_d2624e809",entry_ræsyjyn,inc-x-old,ṡūna-,пухлый,plump
 mentioned_d2624e449,"mentioned_d2624e449,mentioned_d2624e817",entry_ræsyjyn,inc-x-old,ṡotha-,опухоль,tumour
 mentioned_d2624e455,"mentioned_d2624e455,mentioned_d2624e823",entry_ræsyjyn,grc,κυέω,быть беременной,be pregnant
@@ -7563,7 +7544,7 @@ mentioned_d2688e172,"mentioned_d2688e172,mentioned_d2688e227",entry_cyvzy,kbd,š
 mentioned_d2688e178,"mentioned_d2688e178,mentioned_d2688e233",entry_cyvzy,krc-x-balkar,čəbəǯə,,
 mentioned_d2688e184,"mentioned_d2688e184,mentioned_d2688e239",entry_cyvzy,krc-x-karachay,čəbžə,,
 mentioned_d2688e189,"mentioned_d2688e189,mentioned_d2688e244",entry_cyvzy,inh,šibəz,стручковый перец,pod pepper
-mentioned_d2692e198,"mentioned_d2692e198,mentioned_d2692e477",entry_mes,tr-x-anat,mest,"сафьянные носки,сапоги, носимые с галошами","morocco socks,boots worn with,rubbers"
+mentioned_d2692e198,"mentioned_d2692e198,mentioned_d2692e477",entry_mes,tr-x-anat,mest,"сафьянные носки,сапоги, носимые с галошами","morocco socks,boots worn with rubbers"
 mentioned_d2692e227,"mentioned_d2692e227,mentioned_d2692e510",entry_mes,trk,mēsa,,
 mentioned_d2692e230,"mentioned_d2692e230,mentioned_d2692e513",entry_mes,trk,mēsi,,
 mentioned_d2692e245,"mentioned_d2692e245,mentioned_d2692e528",entry_mes,fa,mas,Fussband,Fussband
@@ -7702,7 +7683,7 @@ mentioned_d2735e632,"mentioned_d2735e632,mentioned_d2735e944",entry_qaræg,ka,gl
 mentioned_d2735e640,"mentioned_d2735e640,mentioned_d2735e952",entry_qaræg,ka,glova,,
 mentioned_d2735e643,"mentioned_d2735e643,mentioned_d2735e955",entry_qaræg,xmf,"rguala-,rgueba-",,
 mentioned_d2736e83,"mentioned_d2736e83,mentioned_d2736e118",entry_7psyz,"kbd,kbd-x-crc",Psəź,река Кубань,river Kuban
-mentioned_d2736e91,"mentioned_d2736e91,mentioned_d2736e126",entry_7psyz,grc,"ψήσοι,ψήσσοι","название одного из Прикубанских адыгских племен, упоминаемого",the name of one of the Adyghe tribes in the Kuban region mentioned by
+mentioned_d2736e91,"mentioned_d2736e91,mentioned_d2736e126",entry_7psyz,grc,"ψήσοι,ψήσσοι","название одного из Прикубанских адыгских племен, упоминаемого Аполлодором (по Стефану Византийскому), Птолемеем (V. 9. 17), а также в Боспорских надписях начала нашей еры","the name of one of the Adyghe tribes in the Kuban region mentioned by Apollodorus (according to Stephen of Byzantium), Ptolemy (V. 9. 17), as well as in the Bosporan inscriptions of the beginning of our era"
 mentioned_d2737e133,"mentioned_d2737e133,mentioned_d2737e150",entry_gormon,trk,"korban, qorban",жертва,victim
 mentioned_d2737e141,"mentioned_d2737e141,mentioned_d2737e158",entry_gormon,ar,qurban,,
 mentioned_d2738e91,"mentioned_d2738e91,mentioned_d2738e102",entry_qodannæ,kbd,qodan,статный,noble
@@ -7820,7 +7801,7 @@ mentioned_d2783e221,"mentioned_d2783e221,mentioned_d2783e382",entry_moræ,grc,"�
 mentioned_d2783e231,"mentioned_d2783e231,mentioned_d2783e392",entry_moræ,la,maurus,мавр,Moor
 mentioned_d2783e239,"mentioned_d2783e239,mentioned_d2783e400",entry_moræ,fr,moreau,вороной,black
 mentioned_d2783e247,"mentioned_d2783e247,mentioned_d2783e408",entry_moræ,grc,μόρυχος,,
-mentioned_d2783e252,"mentioned_d2783e252,mentioned_d2783e413",entry_moræ,ru,мурый,"темно-коричневый,рыже-бурый,темно-пестрый,полосатый","dark-brown,reddish-brown,dark-,variegated,striped"
+mentioned_d2783e252,"mentioned_d2783e252,mentioned_d2783e413",entry_moræ,ru,мурый,"темно-коричневый,рыже-бурый,темно-пестрый,полосатый","dark-brown,reddish-brown,dark-variegated,striped"
 mentioned_d2783e306,"mentioned_d2783e306,mentioned_d2783e464",entry_moræ,sla,"xmur-,smur-",,
 mentioned_d2783e314,"mentioned_d2783e314,mentioned_d2783e472",entry_moræ,cs,moura,корова темной масти,dark-coloured cow
 mentioned_d2783e322,"mentioned_d2783e322,mentioned_d2783e480",entry_moræ,trk,mor,"темно-фиолетовый,темно-синий,темный цвет вообще","dark-violet,dark-blue,dark colour in general"
@@ -7926,7 +7907,7 @@ mentioned_d2825e696,"mentioned_d2825e696,mentioned_d2825e1013",entry_mæj,ira,va
 mentioned_d2825e699,"mentioned_d2825e699,mentioned_d2825e1016",entry_mæj,iir,vas-,,
 mentioned_d2825e706,"mentioned_d2825e706,mentioned_d2825e1023",entry_mæj,sa-vaidika,Vāyu-,,
 mentioned_d2825e713,"mentioned_d2825e713,mentioned_d2825e1030",entry_mæj,xsc,Μαῖφαρνος,,
-mentioned_d2825e716,"mentioned_d2825e716,mentioned_d2825e1033",entry_mæj,os,Mæjfarn,(носитель) лунного фарна,(possessor of) the moon’s
+mentioned_d2825e716,"mentioned_d2825e716,mentioned_d2825e1033",entry_mæj,os,Mæjfarn,(носитель) лунного фарна,(possessor of) the moon’s farn
 mentioned_d2825e725,"mentioned_d2825e725,mentioned_d2825e1044",entry_mæj,fa,māh,,
 mentioned_d2825e731,"mentioned_d2825e731,mentioned_d2825e1050",entry_mæj,ku,meh,,
 mentioned_d2825e736,"mentioned_d2825e736,mentioned_d2825e1055",entry_mæj,x-balochi,māh,,
@@ -8082,13 +8063,13 @@ mentioned_d2877e548,"mentioned_d2877e548,mentioned_d2877e772",entry_rīssyn,ira,
 mentioned_d2877e554,"mentioned_d2877e554,mentioned_d2877e778",entry_rīssyn,fa,rīš,"рана,язва","wound,ulcer"
 mentioned_d2877e565,"mentioned_d2877e565,mentioned_d2877e789",entry_rīssyn,pal,rēš,рана,wound
 mentioned_d2877e573,"mentioned_d2877e573,mentioned_d2877e797",entry_rīssyn,pal,rēšītan,"получать (причинять) рану, увечье","receive (cause) a wound, injury"
-mentioned_d2877e579,"mentioned_d2877e579,mentioned_d2877e803",entry_rīssyn,ps,brēṣ̌,"колотье в боку,спазмы от боли","stitch,spasms,from,pain"
+mentioned_d2877e579,"mentioned_d2877e579,mentioned_d2877e803",entry_rīssyn,ps,brēṣ̌,"колотье в боку,спазмы от боли","stitch,spasms from pain"
 mentioned_d2877e605,"mentioned_d2877e605,mentioned_d2877e834",entry_rīssyn,ira,*upa-raištra-,,
 mentioned_d2877e612,"mentioned_d2877e612,mentioned_d2877e841",entry_rīssyn,wbl,rīž-,испытывать боль,feel pain
 mentioned_d2877e629,"mentioned_d2877e629,mentioned_d2877e858",entry_rīssyn,wbl,rīžd,,
 mentioned_d2877e640,"mentioned_d2877e640,mentioned_d2877e869",entry_rīssyn,wbl,rišt,,
 mentioned_d2877e662,"mentioned_d2877e662,mentioned_d2877e891",entry_rīssyn,sog,*rēš-,,
-mentioned_d2877e673,"mentioned_d2877e673,mentioned_d2877e902",entry_rīssyn,sog,"zryš-,*uz-raiš-","ранить,увечить","wound,(v.),injure (v.)"
+mentioned_d2877e673,"mentioned_d2877e673,mentioned_d2877e902",entry_rīssyn,sog,"zryš-,*uz-raiš-","ранить,увечить","wound (v.),injure (v.)"
 mentioned_d2877e685,"mentioned_d2877e685,mentioned_d2877e918",entry_rīssyn,sog,ptryš-,"раздирать,увечить","tear,injure (v.)"
 mentioned_d2877e711,"mentioned_d2877e711,mentioned_d2877e944",entry_rīssyn,ae,raeš-,"наносить (получать) рану, увечье","inflict (receive) a wound, injury"
 mentioned_d2877e719,"mentioned_d2877e719,mentioned_d2877e952",entry_rīssyn,inc-x-old,"riṣ,riṣyati","получать рану, увечье",get hurt
@@ -8187,7 +8168,7 @@ mentioned_d2919e575,mentioned_d2919e575,entry_mīnas,lt,maitinù maitìnti,ко�
 mentioned_d2919e581,"mentioned_d2919e581,mentioned_d2919e853",entry_mīnas,ira,*maiθ-na-,,
 mentioned_d2919e585,"mentioned_d2919e585,mentioned_d2919e857",entry_mīnas,ira,maiθ-man-,,
 mentioned_d2919e588,"mentioned_d2919e588,mentioned_d2919e860",entry_mīnas,inc-x-old,var-ṇa-,"покров,оболочка","covering,shell"
-mentioned_d2919e599,"mentioned_d2919e599,mentioned_d2919e871",entry_mīnas,inc-x-old,var-,панцирь,armour
+mentioned_d2919e599,"mentioned_d2919e599,mentioned_d2919e871",entry_mīnas,inc-x-old,var-man-,панцирь,armour
 mentioned_d2919e613,"mentioned_d2919e613,mentioned_d2919e888",entry_mīnas,inc-x-old,var-,покрывать,cover
 mentioned_d2919e619,"mentioned_d2919e619,mentioned_d2919e894",entry_mīnas,iir,maith-,"встречаться, сходиться (дружески или враждебно)","meet, gather together (as friends or foes)"
 mentioned_d2919e629,"mentioned_d2919e629,mentioned_d2919e904",entry_mīnas,inc-x-old,mitha-,взаимный,mutual
@@ -8207,7 +8188,6 @@ mentioned_d2920e112,"mentioned_d2920e112,mentioned_d2920e136",entry_geruz,ka,"gr
 mentioned_d2921e241,"mentioned_d2921e241,mentioned_d2921e374",entry_ræʒæ-mæʒæ,cu,brězgъ,рассвет,dawn
 mentioned_d2921e250,"mentioned_d2921e250,mentioned_d2921e383",entry_ræʒæ-mæʒæ,inc-x-old,bhrāj-,,
 mentioned_d2921e255,"mentioned_d2921e255,mentioned_d2921e388",entry_ræʒæ-mæʒæ,ae,brāz-,,
-mentioned_d2921e264,"mentioned_d2921e264,mentioned_d2921e397",entry_ræʒæ-mæʒæ,iir,bh,,
 mentioned_d2921e281,"mentioned_d2921e281,mentioned_d2921e420",entry_ræʒæ-mæʒæ,ira,*bhraǰ-,,
 mentioned_d2921e285,"mentioned_d2921e285,mentioned_d2921e424",entry_ræʒæ-mæʒæ,ira,*fraǰ-,,
 mentioned_d2921e294,"mentioned_d2921e294,mentioned_d2921e434",entry_ræʒæ-mæʒæ,ira,*ræxsyn,,
@@ -8223,11 +8203,8 @@ mentioned_d2929e305,"mentioned_d2929e305,mentioned_d2929e470",entry_nyllæg,ira,
 mentioned_d2929e319,"mentioned_d2929e319,mentioned_d2929e484",entry_nyllæg,ira,*manusæg,,
 mentioned_d2929e337,"mentioned_d2929e337,mentioned_d2929e504",entry_nyllæg,kho,"nina-,näna-",,
 mentioned_d2929e345,"mentioned_d2929e345,mentioned_d2929e512",entry_nyllæg,kho,ninārra,"ладонь,впадина руки","palm,dimple of the arm"
-mentioned_d2929e356,"mentioned_d2929e356,mentioned_d2929e523",entry_nyllæg,ine,ni-,,
-mentioned_d2929e362,"mentioned_d2929e362,mentioned_d2929e529",entry_nyllæg,ine,ni-,,
 mentioned_d2929e365,"mentioned_d2929e365,mentioned_d2929e532",entry_nyllæg,ae,paiti-na-,,
 mentioned_d2929e375,"mentioned_d2929e375,mentioned_d2929e542",entry_nyllæg,kho,paiti-,,
-mentioned_d2929e378,"mentioned_d2929e378,mentioned_d2929e545",entry_nyllæg,ine,ni-,,
 mentioned_d2929e381,"mentioned_d2929e381,mentioned_d2929e548",entry_nyllæg,inc-x-old,nitaram,,
 mentioned_d2929e386,"mentioned_d2929e386,mentioned_d2929e554",entry_nyllæg,goh,nidar,,
 mentioned_d2929e392,"mentioned_d2929e392,mentioned_d2929e559",entry_nyllæg,de,nieder,вниз,downwards
@@ -8244,16 +8221,16 @@ mentioned_d2932e177,"mentioned_d2932e177,mentioned_d2932e253",entry_læfīnæ,lt
 mentioned_d2932e185,"mentioned_d2932e185,mentioned_d2932e261",entry_læfīnæ,lv,lapa,факел,torch
 mentioned_d2932e193,"mentioned_d2932e193,mentioned_d2932e269",entry_læfīnæ,grc,λάμπω,свечу,to light
 mentioned_d2932e201,"mentioned_d2932e201,mentioned_d2932e277",entry_læfīnæ,grc,λαμπάς,факел,torch
-mentioned_d2934e292,"mentioned_d2934e292,mentioned_d2934e401",entry_mīnīwæg,os-x-iron,ældar-ī-,господство,supremacy
+mentioned_d2934e292,"mentioned_d2934e292,mentioned_d2934e401",entry_mīnīwæg,os-x-iron,ældar-ī-wæg,господство,supremacy
 mentioned_d2934e342,"mentioned_d2934e342,mentioned_d2934e454",entry_mīnīwæg,ira,manyu-,дух,spirit
-mentioned_d2934e362,"mentioned_d2934e362,mentioned_d2934e474",entry_mīnīwæg,os-x-digor,zærdi,"нрав сердца,mos cordis","disposition of the heart,mos cordis"
+mentioned_d2934e362,"mentioned_d2934e362,mentioned_d2934e474",entry_mīnīwæg,os-x-digor,zærdi wag,"нрав сердца,mos cordis","disposition of the heart,mos cordis"
 mentioned_d2935e389,"mentioned_d2935e389,mentioned_d2935e631",entry_moj,ira,*manu-,"человек,мужчина,муж","person,man,husband"
 mentioned_d2935e434,"mentioned_d2935e434,mentioned_d2935e676",entry_moj,ae,Manuš-čiθra-,в составе собств. имени,as part of a proper name
 mentioned_d2935e439,"mentioned_d2935e439,mentioned_d2935e681",entry_moj,pal,Manuščihr,,
 mentioned_d2935e444,"mentioned_d2935e444,mentioned_d2935e686",entry_moj,prc,mâneš,"человек,мужчина","person,man"
 mentioned_d2935e470,"mentioned_d2935e470,mentioned_d2935e712",entry_moj,inc-x-old,manu-,"человек,мужчина","person,man"
 mentioned_d2935e481,"mentioned_d2935e481,mentioned_d2935e723",entry_moj,cu,mǫžь,,
-mentioned_d2935e486,"mentioned_d2935e486,mentioned_d2935e728",entry_moj,sla,*mangya,,
+mentioned_d2935e486,"mentioned_d2935e486,mentioned_d2935e728",entry_moj,sla,*mangya-,,
 mentioned_d2935e502,"mentioned_d2935e502,mentioned_d2935e744",entry_moj,sla,*monъšь-,,
 mentioned_d2935e506,"mentioned_d2935e506,mentioned_d2935e748",entry_moj,inc-x-old,manusya-,человеческий,human (adj.)
 mentioned_d2935e515,"mentioned_d2935e515,mentioned_d2935e757",entry_moj,got,manna,,
@@ -8310,8 +8287,8 @@ mentioned_d2940e192,"mentioned_d2940e192,mentioned_d2940e293",entry_ast,x-tchr,o
 mentioned_d2940e197,"mentioned_d2940e197,mentioned_d2940e298",entry_ast,de,acht,,
 mentioned_d2943e469,"mentioned_d2943e469,mentioned_d2943e637",entry_naj,ira,*snāti-,,
 mentioned_d2943e475,"mentioned_d2943e475,mentioned_d2943e643",entry_naj,ae,upasnāti,растирание,rubbing
-mentioned_d2943e490,"mentioned_d2943e490,mentioned_d2943e658",entry_naj,ira,nam,бить,beat
-mentioned_d2943e510,"mentioned_d2943e510,mentioned_d2943e679",entry_naj,ine,*nṃti,,
+mentioned_d2943e490,"mentioned_d2943e490,mentioned_d2943e658",entry_naj,ira,nam-,бить,beat
+mentioned_d2943e510,"mentioned_d2943e510,mentioned_d2943e679",entry_naj,ine,*nṃti-,,
 mentioned_d2943e519,"mentioned_d2943e519,mentioned_d2943e688",entry_naj,ira,*na-,,
 mentioned_d2943e523,"mentioned_d2943e523,mentioned_d2943e692",entry_naj,ira,nam-,,
 mentioned_d2943e526,"mentioned_d2943e526,mentioned_d2943e695",entry_naj,ira,gā-,,
@@ -8368,8 +8345,6 @@ mentioned_d2953e607,"mentioned_d2953e607,mentioned_d2953e899",entry_7rfyg,en,bro
 mentioned_d2953e612,"mentioned_d2953e612,mentioned_d2953e904",entry_7rfyg,de,Braue,,
 mentioned_d2953e617,"mentioned_d2953e617,mentioned_d2953e909",entry_7rfyg,sga,brūad,,
 mentioned_d2953e623,"mentioned_d2953e623,mentioned_d2953e915",entry_7rfyg,grc,ὀφρῦς,,
-mentioned_d2953e927,mentioned_d2953e927,,iir,bh,,
-mentioned_d2953e949,mentioned_d2953e949,,iir,bh,,
 mentioned_d2954e265,"mentioned_d2954e265,mentioned_d2954e285",entry_læx,sva,leg,"дрянь,дерьмо","filth,shit"
 mentioned_d2956e141,"mentioned_d2956e141,mentioned_d2956e219",entry_Alægatæ,kbd,Alləg,,
 mentioned_d2956e146,"mentioned_d2956e146,mentioned_d2956e224",entry_Alægatæ,kbd,Aləǵuqo,,
@@ -8389,7 +8364,7 @@ mentioned_d2962e88,"mentioned_d2962e88,mentioned_d2962e109",entry_ʒælv,ka,ʒe�
 mentioned_d2965e290,"mentioned_d2965e290,mentioned_d2965e373",entry_ræwes,hu,öz,козуля,roe
 mentioned_d2965e298,"mentioned_d2965e298,mentioned_d2965e381",entry_ræwes,tkr,wəs,"дикая коза,тур","wild goat,Caucasian goat"
 mentioned_d2965e310,"mentioned_d2965e310,mentioned_d2965e394",entry_ræwes,av,bis,,
-mentioned_d2965e315,"mentioned_d2965e315,mentioned_d2965e399",entry_ræwes,aqc,bo,,
+mentioned_d2965e315,"mentioned_d2965e315,mentioned_d2965e399",entry_ræwes,aqc,bos,,
 mentioned_d2970e160,"mentioned_d2970e160,mentioned_d2970e181",entry_mæjdar,ps,tarag-maj,безлунная ночь,moonless night
 mentioned_d2973e140,"mentioned_d2973e140,mentioned_d2973e169",entry_g0yr_2,fa,guruh,толпа,толпа
 mentioned_d2973e152,"mentioned_d2973e152,mentioned_d2973e181",entry_g0yr_2,av,guri,толпа,толпа
@@ -8526,7 +8501,7 @@ mentioned_d3019e535,"mentioned_d3019e535,mentioned_d3019e1089",entry_mærzyn,fa,
 mentioned_d3019e550,"mentioned_d3019e550,mentioned_d3019e1104",entry_mærzyn,fa,dast-māl,ручное полотенце,hand towel
 mentioned_d3019e563,"mentioned_d3019e563,mentioned_d3019e1117",entry_mærzyn,pal,māl-,,
 mentioned_d3019e568,"mentioned_d3019e568,mentioned_d3019e1122",entry_mærzyn,pal,mālišn,,
-mentioned_d3019e572,"mentioned_d3019e572,mentioned_d3019e1126",entry_mærzyn,pal,"marz-,marž-","касаться,гладить","to touch,to,stroke"
+mentioned_d3019e572,"mentioned_d3019e572,mentioned_d3019e1126",entry_mærzyn,pal,"marz-,marž-","касаться,гладить","to touch,to stroke"
 mentioned_d3019e596,"mentioned_d3019e596,mentioned_d3019e1154",entry_mærzyn,ku,malin,"чистить,подметать","clean,sweep"
 mentioned_d3019e607,"mentioned_d3019e607,mentioned_d3019e1165",entry_mærzyn,x-balochi,malag,"тереть,вытирать","rub,wipe"
 mentioned_d3019e619,"mentioned_d3019e619,mentioned_d3019e1177",entry_mærzyn,x-balochi,marz,"орудие для дробления комьев земли,борона","instrument for crushing lumps of earth,harrow"
@@ -8580,8 +8555,8 @@ mentioned_d3023e306,"mentioned_d3023e306,mentioned_d3023e554",entry_mæckʼ0y,ka
 mentioned_d3023e311,"mentioned_d3023e311,mentioned_d3023e559",entry_mæckʼ0y,ka,mux-mari,дубняк,oakwood
 mentioned_d3023e319,"mentioned_d3023e319,mentioned_d3023e567",entry_mæckʼ0y,ka,bučk-mari,кустарник,bushes
 mentioned_d3023e325,"mentioned_d3023e325,mentioned_d3023e573",entry_mæckʼ0y,ka,*mar-,,
-mentioned_d3023e340,"mentioned_d3023e340,mentioned_d3023e588",entry_mæckʼ0y,os,-byn,дубняк,oakwood
-mentioned_d3023e350,"mentioned_d3023e350,mentioned_d3023e598",entry_mæckʼ0y,os,-byn,кустарник,bushes
+mentioned_d3023e340,"mentioned_d3023e340,mentioned_d3023e588",entry_mæckʼ0y,os,tūlʒ-byn,дубняк,oakwood
+mentioned_d3023e350,"mentioned_d3023e350,mentioned_d3023e598",entry_mæckʼ0y,os,kʼūtær-byn,кустарник,bushes
 mentioned_d3023e362,"mentioned_d3023e362,mentioned_d3023e610",entry_mæckʼ0y,fi,marja,ягода,berry
 mentioned_d3023e380,"mentioned_d3023e380,mentioned_d3023e436",entry_mæckʼ0y,uby,šxu,ягода,berry
 mentioned_d3023e388,"mentioned_d3023e388,mentioned_d3023e636",entry_mæckʼ0y,os,*-tkʼu,,
@@ -8783,7 +8758,7 @@ mentioned_d3094e113,"mentioned_d3094e113,mentioned_d3094e152",entry_ʒegen,trk,�
 mentioned_d3094e119,"mentioned_d3094e119,mentioned_d3094e158",entry_ʒegen,hu,gyékény,тростник,reed
 mentioned_d3095e123,"mentioned_d3095e123,mentioned_d3095e164",entry_majmaiddær,os,-id,,
 mentioned_d3095e126,"mentioned_d3095e126,mentioned_d3095e167",entry_majmaiddær,os,dær,,
-mentioned_d3095e131,"mentioned_d3095e131,mentioned_d3095e172",entry_majmaiddær,sva,m,что бы ни было,whatever
+mentioned_d3095e131,"mentioned_d3095e131,mentioned_d3095e172",entry_majmaiddær,sva,mājma,что бы ни было,whatever
 mentioned_d3095e145,"mentioned_d3095e145,mentioned_d3095e186",entry_majmaiddær,sva,"gveš mag, mājma īri","всякое дело, какое бы ни было","every thing, whatever it is"
 mentioned_d3101e162,"mentioned_d3101e162,mentioned_d3101e233",entry_æcc-,ira,*haθya-,истинный,true
 mentioned_d3101e174,"mentioned_d3101e174,mentioned_d3101e245",entry_æcc-,kho,haṭhṭha,правда,true
@@ -8864,7 +8839,7 @@ mentioned_d3152e152,"mentioned_d3152e152,mentioned_d3152e214",entry_gon,sva,gwem
 mentioned_d3152e160,"mentioned_d3152e160,mentioned_d3152e222",entry_gon,ka,gomuri,крестьянский дом,peasant house
 mentioned_d3157e230,"mentioned_d3157e230,mentioned_d3157e350",entry_7rǧævsyn,ira,*grafs-,,
 mentioned_d3157e240,"mentioned_d3157e240,mentioned_d3157e360",entry_7rǧævsyn,ira,*grab-,схватывать,grasp
-mentioned_d3157e312,"mentioned_d3157e312,mentioned_d3157e437",entry_7rǧævsyn,fr,la rivière est prise,"река схвачена,замерзла","the river is,grasped,flozen"
+mentioned_d3157e312,"mentioned_d3157e312,mentioned_d3157e437",entry_7rǧævsyn,fr,la rivière est prise,"река схвачена,замерзла","the river is grasped,flozen"
 mentioned_d3157e326,"mentioned_d3157e326,mentioned_d3157e453",entry_7rǧævsyn,isk,ɣrəfs,,
 mentioned_d3157e331,"mentioned_d3157e331,mentioned_d3157e458",entry_7rǧævsyn,yah,ɣᵊrafs-,,
 mentioned_d3158e84,"mentioned_d3158e84,mentioned_d3158e120",entry_8byttyr,sla,не-пътырь,,
@@ -8949,7 +8924,7 @@ mentioned_d3196e654,"mentioned_d3196e654,mentioned_d3196e913",entry_ræstæg,ine
 mentioned_d3196e665,"mentioned_d3196e665,mentioned_d3196e924",entry_ræstæg,goh,rasta,,
 mentioned_d3196e670,"mentioned_d3196e670,mentioned_d3196e929",entry_ræstæg,de,Rast,,
 mentioned_d3196e675,"mentioned_d3196e675,mentioned_d3196e934",entry_ræstæg,sv,rast,,
-mentioned_d3196e683,"mentioned_d3196e683,mentioned_d3196e942",entry_ræstæg,no-x-dial,rast,"местность,отрезок пути от одного привала до другого","terrain,segment of the road from one,halt,to another"
+mentioned_d3196e683,"mentioned_d3196e683,mentioned_d3196e942",entry_ræstæg,no-x-dial,rast,"местность,отрезок пути от одного привала до другого","terrain,segment of the road from one halt to another"
 mentioned_d3196e695,"mentioned_d3196e695,mentioned_d3196e959",entry_ræstæg,gem,*ras-,пребывать,stay
 mentioned_d3196e709,"mentioned_d3196e709,mentioned_d3196e973",entry_ræstæg,ira,*fra-staka-,,
 mentioned_d3196e714,"mentioned_d3196e714,mentioned_d3196e978",entry_ræstæg,ira,sta-,стоять,stand
@@ -9061,7 +9036,7 @@ mentioned_d3238e117,"mentioned_d3238e117,mentioned_d3238e163",entry_cym,tab,чe�
 mentioned_d3238e122,"mentioned_d3238e122,mentioned_d3238e168",entry_cym,fa,čupčupī,кизил,cornel
 mentioned_d3238e137,"mentioned_d3238e137,mentioned_d3238e183",entry_cym,krc-x-balkar,čum,кизил,cornel
 mentioned_d3238e149,mentioned_d3238e149,,lez,čumal,,cornel
-mentioned_d3239e142,"mentioned_d3239e142,mentioned_d3239e173",entry_naǧ_2,ira,*na,,
+mentioned_d3239e142,"mentioned_d3239e142,mentioned_d3239e173",entry_naǧ_2,ira,*na-ga-,,
 mentioned_d3239e151,"mentioned_d3239e151,mentioned_d3239e182",entry_naǧ_2,la,nates,ягодицы,buttocks
 mentioned_d3239e159,"mentioned_d3239e159,mentioned_d3239e190",entry_naǧ_2,grc,νῶτος,"спина,хребет","back,spine"
 mentioned_d3244e84,"mentioned_d3244e84,mentioned_d3244e168",entry_byrc_1,trk,burč,,
@@ -9251,7 +9226,7 @@ mentioned_d3291e478,"mentioned_d3291e478,mentioned_d3291e634",entry_lænk,lt,bal
 mentioned_d3293e166,"mentioned_d3293e166,mentioned_d3293e194",entry_k0yrys,ae,kaoirisa-,,
 mentioned_d3293e174,"mentioned_d3293e174,mentioned_d3293e202",entry_k0yrys,la,calvus,,
 mentioned_d3296e191,"mentioned_d3296e191,mentioned_d3296e224",entry_minut,la,minuta,,
-mentioned_d3296e198,"mentioned_d3296e198,mentioned_d3296e231",entry_minut,la,pars,,
+mentioned_d3296e198,"mentioned_d3296e198,mentioned_d3296e231",entry_minut,la,pars minuta,,
 mentioned_d3296e209,"mentioned_d3296e209,mentioned_d3296e242",entry_minut,la,minuere,уменьшать,decrease
 mentioned_d3296e216,"mentioned_d3296e216,mentioned_d3296e249",entry_minut,ru,минута,,minute
 mentioned_d3297e583,"mentioned_d3297e583,mentioned_d3297e755",entry_bar,ira,vāra-,желание,wish
@@ -9371,7 +9346,7 @@ mentioned_d3353e154,"mentioned_d3353e154,mentioned_d3353e224",entry_kærʒyn,sva
 mentioned_d3353e163,"mentioned_d3353e163,mentioned_d3353e233",entry_kærʒyn,ka,karǯina,"хлеб, спеченный в золе","bread, baked in ashes"
 mentioned_d3353e171,"mentioned_d3353e171,mentioned_d3353e241",entry_kærʒyn,krc-x-balkar,kərǯən,хлеб не-пшеничный,non-wheat bread
 mentioned_d3353e179,"mentioned_d3353e179,mentioned_d3353e249",entry_kærʒyn,kbd,kəržin,пресный хлеб,unleavened bread
-mentioned_d3354e138,"mentioned_d3354e138,mentioned_d3354e156",entry_lele,ka,lelengo,пресная лепешка на масле,"unleavened,butter,-based bread"
+mentioned_d3354e138,"mentioned_d3354e138,mentioned_d3354e156",entry_lele,ka,lelengo,пресная лепешка на масле,unleavened butter-based bread
 mentioned_d3356e142,"mentioned_d3356e142,mentioned_d3356e246",entry_arvīston,ru,сечка,,chaff
 mentioned_d3356e147,"mentioned_d3356e147,mentioned_d3356e254",entry_arvīston,x-oldirn,*braiš-: *brīšta,ломать,break
 mentioned_d3356e163,"mentioned_d3356e163,mentioned_d3356e270",entry_arvīston,mnj,vrī-: vrišk-,ломать,break
@@ -9657,10 +9632,9 @@ mentioned_d3486e203,"mentioned_d3486e203,mentioned_d3486e292",entry_bærkad,kbd,
 mentioned_d3486e208,"mentioned_d3486e208,mentioned_d3486e297",entry_bærkad,kbd,bereket,,
 mentioned_d3486e247,mentioned_d3486e247,,tr,barakad,,
 mentioned_d3489e305,"mentioned_d3489e305,mentioned_d3489e417",entry_nymæc,ira,*nimāti-,,
-mentioned_d3489e319,"mentioned_d3489e319,mentioned_d3489e431",entry_nymæc,ine,-ti-,,
 mentioned_d3489e346,"mentioned_d3489e346,mentioned_d3489e458",entry_nymæc,inc-x-old,"māti-,miti-",мера,measure
 mentioned_d3489e356,"mentioned_d3489e356,mentioned_d3489e468",entry_nymæc,inc-x-old,mā-,мерить,measure (sth.)
-mentioned_d3489e376,"mentioned_d3489e376,mentioned_d3489e489",entry_nymæc,os,g˳,,
+mentioned_d3489e376,"mentioned_d3489e376,mentioned_d3489e489",entry_nymæc,os,g˳yrz,,
 mentioned_d3489e383,"mentioned_d3489e383,mentioned_d3489e496",entry_nymæc,os,fīdyc,,
 mentioned_d3501e223,"mentioned_d3501e223,mentioned_d3501e310",entry_dūg,xcl,tʼokʼ,длительность,duration
 mentioned_d3501e231,"mentioned_d3501e231,mentioned_d3501e318",entry_dūg,ine,*dū-,,
@@ -9879,7 +9853,7 @@ mentioned_d3618e199,"mentioned_d3618e199,mentioned_d3618e422",entry_mæstæg,"pa
 mentioned_d3618e207,"mentioned_d3618e207,mentioned_d3618e430",entry_mæstæg,kho,māsta-,сгущенное молоко,condensed milk
 mentioned_d3618e216,"mentioned_d3618e216,mentioned_d3618e439",entry_mæstæg,inc-x-old,mastu-,кислые сливки,sour cream
 mentioned_d3618e224,"mentioned_d3618e224,mentioned_d3618e447",entry_mæstæg,grc,μεστός,"полный,наполненный","full,filled"
-mentioned_d3618e235,"mentioned_d3618e235,mentioned_d3618e458",entry_mæstæg,grc,μαστός,mamma,
+mentioned_d3618e235,"mentioned_d3618e235,mentioned_d3618e458",entry_mæstæg,grc,μαστός,mamma,mamma
 mentioned_d3618e241,"mentioned_d3618e241,mentioned_d3618e465",entry_mæstæg,ira,"*mazda-,*ṃzdo-",,
 mentioned_d3618e251,"mentioned_d3618e251,mentioned_d3618e475",entry_mæstæg,kho,mastāña-,корм,forage
 mentioned_d3618e269,"mentioned_d3618e269,mentioned_d3618e493",entry_mæstæg,ae,azdya-,откормленный,fattened
@@ -10309,7 +10283,7 @@ mentioned_d3788e84,"mentioned_d3788e84,mentioned_d3788e122",entry_dīḱʼī,ka,
 mentioned_d3788e89,"mentioned_d3788e89,mentioned_d3788e127",entry_dīḱʼī,xcl,tʼikʼ,,
 mentioned_d3788e94,"mentioned_d3788e94,mentioned_d3788e132",entry_dīḱʼī,xcl,tʼikʼ,,
 mentioned_d3788e99,"mentioned_d3788e99,mentioned_d3788e137",entry_dīḱʼī,de,Zeige,,
-mentioned_d3789e188,"mentioned_d3789e188,mentioned_d3789e228",entry_læǵyxaj,os-x-iron,,ангел,angel
+mentioned_d3789e188,"mentioned_d3789e188,mentioned_d3789e228",entry_læǵyxaj,os-x-iron,zædy,ангел,angel
 mentioned_d3789e198,"mentioned_d3789e198,mentioned_d3789e238",entry_læǵyxaj,os-x-iron,X˳ycawy xaj,бог,a deity
 mentioned_d3790e299,"mentioned_d3790e299,mentioned_d3790e435",entry_cyrt,x-oldirn,čiθra-,знак,sign
 mentioned_d3790e307,"mentioned_d3790e307,mentioned_d3790e443",entry_cyrt,xln,τςηρθε,памятник,monument
@@ -10351,7 +10325,7 @@ mentioned_d3814e219,"mentioned_d3814e219,mentioned_d3814e347",entry_cymyn,ae,ša
 mentioned_d3814e224,"mentioned_d3814e224,mentioned_d3814e352",entry_cymyn,sa,čām-,хлебать,slurp
 mentioned_d3814e239,"mentioned_d3814e239,mentioned_d3814e367",entry_cymyn,ine,*k˳em-,,
 mentioned_d3815e286,"mentioned_d3815e286,mentioned_d3815e341",entry_nymær,os,"mar-,smar-","думать,помнить","think,remember"
-mentioned_d3815e308,"mentioned_d3815e308,mentioned_d3815e363",entry_nymær,ira,*ni-,,
+mentioned_d3815e308,"mentioned_d3815e308,mentioned_d3815e363",entry_nymær,ira,*ni-mara-,,
 mentioned_d3816e524,"mentioned_d3816e524,mentioned_d3816e724",entry_don_1,ira,*dānu-,,
 mentioned_d3816e529,"mentioned_d3816e529,mentioned_d3816e729",entry_don_1,ae,dānu-,река,river
 mentioned_d3816e537,"mentioned_d3816e537,mentioned_d3816e737",entry_don_1,sa,dānu-,капель,drippings
@@ -10384,10 +10358,10 @@ mentioned_d3819e86,"mentioned_d3819e86,mentioned_d3819e121",entry_pysk0yl,krc-x-
 mentioned_d3819e98,"mentioned_d3819e98,mentioned_d3819e133",entry_pysk0yl,tr,buskul,пеленка,swaddle
 mentioned_d3821e364,"mentioned_d3821e364,mentioned_d3821e524",entry_næmyn,iir,nam-,"склоняться,гнуться","incline,bend"
 mentioned_d3821e382,"mentioned_d3821e382,mentioned_d3821e543",entry_næmyn,inc-x-old,nabh-,лопаться,burst
-mentioned_d3821e397,"mentioned_d3821e397,mentioned_d3821e559",entry_næmyn,iir,nam,гнуться,bend
+mentioned_d3821e397,"mentioned_d3821e397,mentioned_d3821e559",entry_næmyn,iir,nam-,гнуться,bend
 mentioned_d3821e407,"mentioned_d3821e407,mentioned_d3821e569",entry_næmyn,iir,nam-,бить,beat
 mentioned_d3821e421,"mentioned_d3821e421,mentioned_d3821e583",entry_næmyn,iir,vadhar-,поражающее оружие,striking arm
-mentioned_d3821e433,"mentioned_d3821e433,mentioned_d3821e595",entry_næmyn,iir,nam,сгибаться,bend
+mentioned_d3821e433,"mentioned_d3821e433,mentioned_d3821e595",entry_næmyn,iir,nam-,сгибаться,bend
 mentioned_d3821e452,"mentioned_d3821e452,mentioned_d3821e614",entry_næmyn,ira,*nṃto-,,
 mentioned_d3821e465,"mentioned_d3821e465,mentioned_d3821e627",entry_næmyn,ira,*rṃto-,,
 mentioned_d3824e237,"mentioned_d3824e237,mentioned_d3824e339",entry_æznag,ira,*a-znā-ka-,,
@@ -11219,7 +11193,6 @@ mentioned_d4125e188,"mentioned_d4125e188,mentioned_d4125e235",entry_Būræfærny
 mentioned_d4127e353,"mentioned_d4127e353,mentioned_d4127e389",entry_fæstæmæ,grc,πάλιν,назад,backwards
 mentioned_d4127e367,"mentioned_d4127e367,mentioned_d4127e403",entry_fæstæmæ,kho,pātca,потом,then
 mentioned_d4128e100,"mentioned_d4128e100,mentioned_d4128e112",entry_kʼotyr,ka,k’ot’ri,банкрот,bankrupt
-mentioned_d4129e686,"mentioned_d4129e686,mentioned_d4129e823",entry_myggag,os,-ag,,
 mentioned_d4129e702,"mentioned_d4129e702,mentioned_d4129e839",entry_myggag,cu,plemę,σπέρμα,σπέρμα
 mentioned_d4129e709,"mentioned_d4129e709,mentioned_d4129e846",entry_myggag,cu,šemę,"σπέρμα,род,поколение","σπέρμα,clan,generation"
 mentioned_d4129e732,"mentioned_d4129e732,mentioned_d4129e869",entry_myggag,trk,uruɣ,"семя,род,порода,племя","seed,clan,breed,tribe"
@@ -11231,7 +11204,7 @@ mentioned_d4134e283,"mentioned_d4134e283,mentioned_d4134e404",entry_rævæjnæ,g
 mentioned_d4134e288,"mentioned_d4134e288,mentioned_d4134e409",entry_rævæjnæ,non,reip,веревка,rope
 mentioned_d4134e297,"mentioned_d4134e297,mentioned_d4134e418",entry_rævæjnæ,got,raip,"ремень,перевязь","belt,strap"
 mentioned_d4134e309,"mentioned_d4134e309,mentioned_d4134e430",entry_rævæjnæ,fi,raippa,,
-mentioned_d4134e325,"mentioned_d4134e325,mentioned_d4134e450",entry_rævæjnæ,"ang,ofs",r,,
+mentioned_d4134e325,"mentioned_d4134e325,mentioned_d4134e450",entry_rævæjnæ,"ang,ofs",rāp,,
 mentioned_d4134e335,"mentioned_d4134e335,mentioned_d4134e460",entry_rævæjnæ,en,rope,,
 mentioned_d4134e340,"mentioned_d4134e340,mentioned_d4134e465",entry_rævæjnæ,sv,rep,,
 mentioned_d4134e345,"mentioned_d4134e345,mentioned_d4134e470",entry_rævæjnæ,no,reb,,
@@ -11298,12 +11271,9 @@ mentioned_d4171e162,"mentioned_d4171e162,mentioned_d4171e203",entry_majdan,xcl,m
 mentioned_d4177e444,"mentioned_d4177e444,mentioned_d4177e658",entry_næxstær,ae,"naxš-,nas-",достигать,reach
 mentioned_d4177e459,"mentioned_d4177e459,mentioned_d4177e673",entry_næxstær,inc-x-old,nakṣ-,,
 mentioned_d4177e493,"mentioned_d4177e493,mentioned_d4177e708",entry_næxstær,"pal,fa,xpr",naxšīr,"дичь,охотничья добыча,охота","game,hunting prey,hunt"
-mentioned_d4177e508,"mentioned_d4177e508,mentioned_d4177e722",entry_næxstær,ira,*naxa,"хождение,по открытым местам","going,in open spaces"
-mentioned_d4177e520,"mentioned_d4177e520,mentioned_d4177e734",entry_næxstær,ira,čarya-,,
-mentioned_d4177e526,"mentioned_d4177e526,mentioned_d4177e740",entry_næxstær,ira,naxa-,,
+mentioned_d4177e508,"mentioned_d4177e508,mentioned_d4177e722",entry_næxstær,ira,*naxa-čarya-,хождение (čarya-) по открытым местам (naxa-),going (čarya-) in open spaces (naxa-)
 mentioned_d4177e530,"mentioned_d4177e530,mentioned_d4177e744",entry_næxstær,ydg,nax,пол,floor
 mentioned_d4177e538,"mentioned_d4177e538,mentioned_d4177e752",entry_næxstær,os,nax-dara,потолочная балка,ceiling beam
-mentioned_d4177e544,"mentioned_d4177e544,mentioned_d4177e758",entry_næxstær,os,nax,(плоская) кровля,(flat) roof
 mentioned_d4177e550,"mentioned_d4177e550,mentioned_d4177e764",entry_næxstær,sgh-x-oroshori,nöx,терраса,terrace
 mentioned_d4177e558,"mentioned_d4177e558,mentioned_d4177e773",entry_næxstær,sgh,nêx,"нары,сени","bunks,canopy"
 mentioned_d4177e582,"mentioned_d4177e582,mentioned_d4177e797",entry_næxstær,lt,nókti,спеть,ripen
@@ -11355,7 +11325,7 @@ mentioned_d4183e820,"mentioned_d4183e820,mentioned_d4183e1281",entry_7rvad,got,b
 mentioned_d4183e825,"mentioned_d4183e825,mentioned_d4183e1286",entry_7rvad,de,Bruder,,
 mentioned_d4183e830,"mentioned_d4183e830,mentioned_d4183e1291",entry_7rvad,sga,brāthir,,
 mentioned_d4183e835,"mentioned_d4183e835,mentioned_d4183e1296",entry_7rvad,la,frāter,,
-mentioned_d4183e844,"mentioned_d4183e844,mentioned_d4183e1304",entry_7rvad,grc,φράτηρ,"член фратрии, родового союза (,)","member of the phratry, the tribal union (,)"
+mentioned_d4183e844,"mentioned_d4183e844,mentioned_d4183e1304",entry_7rvad,grc,φράτηρ,"член фратрии, родового союза (братства)","member of the phratry, the tribal union (fraternity)"
 mentioned_d4183e863,"mentioned_d4183e863,mentioned_d4183e1323",entry_7rvad,xcl,ełbayr,брат,brother
 mentioned_d4183e873,"mentioned_d4183e873,mentioned_d4183e1333",entry_7rvad,grc,φράτηρ,,
 mentioned_d4183e929,"mentioned_d4183e929,mentioned_d4183e1406",entry_7rvad,grc,φράτηρ,,
@@ -11659,7 +11629,7 @@ mentioned_d4287e648,"mentioned_d4287e648,mentioned_d4287e853",entry_7rdū,x-oldi
 mentioned_d4287e662,"mentioned_d4287e662,mentioned_d4287e867",entry_7rdū,kho,"dro-,drau-",,
 mentioned_d4287e675,"mentioned_d4287e675,mentioned_d4287e880",entry_7rdū,kho,dro-masā,величиной с волос,size of a hair
 mentioned_d4287e686,"mentioned_d4287e686,mentioned_d4287e891",entry_7rdū,kho,drauka-,волос,hair
-mentioned_d4287e692,"mentioned_d4287e692,mentioned_d4287e897",entry_7rdū,kho,drauta,волосы,"hair (,uncountable,)"
+mentioned_d4287e692,"mentioned_d4287e692,mentioned_d4287e897",entry_7rdū,kho,drauta,волосы,hair (uncountable)
 mentioned_d4287e707,"mentioned_d4287e707,mentioned_d4287e917",entry_7rdū,khw,dro,волос,hair
 mentioned_d4287e715,"mentioned_d4287e715,mentioned_d4287e925",entry_7rdū,x-nuristan,drọ̄,женский локон,female curl
 mentioned_d4287e724,"mentioned_d4287e724,mentioned_d4287e934",entry_7rdū,ira,*drau-,,
@@ -11834,8 +11804,8 @@ mentioned_d4349e201,"mentioned_d4349e201,mentioned_d4349e245",entry_molaʒan,ka,
 mentioned_d4351e98,"mentioned_d4351e98,mentioned_d4351e146",entry_q0ytyrǧan,trk,"qutur,quturǧan,kudurgan","взбеситься,бешеный,разъяренный,буйный","get mad,mad,furious,violent"
 mentioned_d4353e519,"mentioned_d4353e519,mentioned_d4353e827",entry_najyn,ira,*snā-,,
 mentioned_d4353e525,"mentioned_d4353e525,mentioned_d4353e833",entry_najyn,ine,snā-,,
-mentioned_d4353e542,"mentioned_d4353e542,mentioned_d4353e850",entry_najyn,ira,snāvar,,
-mentioned_d4353e558,"mentioned_d4353e558,mentioned_d4353e866",entry_najyn,ira,*snauša,,
+mentioned_d4353e542,"mentioned_d4353e542,mentioned_d4353e850",entry_najyn,ira,snāvar-,,
+mentioned_d4353e558,"mentioned_d4353e558,mentioned_d4353e866",entry_najyn,ira,*snauša-,,
 mentioned_d4353e565,"mentioned_d4353e565,mentioned_d4353e873",entry_najyn,fa,"šinā,āšnā",плавание,swimming
 mentioned_d4353e583,"mentioned_d4353e583,mentioned_d4353e891",entry_najyn,x-rushani,zinay-,"мыть,стирать","wash,launder"
 mentioned_d4353e594,"mentioned_d4353e594,mentioned_d4353e902",entry_najyn,sgh,zenē-,,
@@ -11858,7 +11828,7 @@ mentioned_d4353e720,"mentioned_d4353e720,mentioned_d4353e1033",entry_najyn,sga,s
 mentioned_d4353e728,"mentioned_d4353e728,mentioned_d4353e1041",entry_najyn,mga,snāid,плывет,swims
 mentioned_d4353e736,"mentioned_d4353e736,mentioned_d4353e1049",entry_najyn,la,nare,плыть,"swim, float"
 mentioned_d4353e744,"mentioned_d4353e744,mentioned_d4353e1057",entry_najyn,xcl,nay,"влажный,жидкий","wet,liquid"
-mentioned_d4353e771,"mentioned_d4353e771,mentioned_d4353e1084",entry_najyn,ira,*xšna,,
+mentioned_d4353e771,"mentioned_d4353e771,mentioned_d4353e1084",entry_najyn,ira,*xšna-,,
 mentioned_d4354e269,"mentioned_d4354e269,mentioned_d4354e288",entry_lalym,trk,"dolum,tolum",бурдюк,waterskin
 mentioned_d4357e102,"mentioned_d4357e102,mentioned_d4357e128",entry_kʼokʼosa,ka,kʼokʼosa,сосуд из тыквы,vessel made of pumpkin
 mentioned_d4357e110,"mentioned_d4357e110,mentioned_d4357e136",entry_kʼokʼosa,ka,kʼokʼola,шишка,bump
@@ -11880,8 +11850,8 @@ mentioned_d4366e146,"mentioned_d4366e146,mentioned_d4366e177",entry_g0ydyn,ka,gu
 mentioned_d4367e193,"mentioned_d4367e193,mentioned_d4367e266",entry_roxst,ru,свихнуться,"вывихнуться,потерять рассудок","get dislocated,lose one’s mind"
 mentioned_d4367e206,"mentioned_d4367e206,mentioned_d4367e279",entry_roxst,ira,*ruxšta-,,
 mentioned_d4367e210,"mentioned_d4367e210,mentioned_d4367e283",entry_roxst,ira,*rauxšta-,,
-mentioned_d4368e273,"mentioned_d4368e273,mentioned_d4368e355",entry_nīḱī,ira,*nai-ka(,,
-mentioned_d4368e281,"mentioned_d4368e281,mentioned_d4368e363",entry_nīḱī,ira,ka,,
+mentioned_d4368e273,"mentioned_d4368e273,mentioned_d4368e355",entry_nīḱī,ira,*nai-ka(h)ya,,
+mentioned_d4368e281,"mentioned_d4368e281,mentioned_d4368e363",entry_nīḱī,ira,kahya,,
 mentioned_d4368e289,"mentioned_d4368e289,mentioned_d4368e371",entry_nīḱī,ira,ka-,кто,who
 mentioned_d4368e298,"mentioned_d4368e298,mentioned_d4368e380",entry_nīḱī,cu,nikъto,,
 mentioned_d4368e303,"mentioned_d4368e303,mentioned_d4368e385",entry_nīḱī,orv,"никъ,никъто",,
@@ -12083,7 +12053,7 @@ mentioned_d4415e235,"mentioned_d4415e235,mentioned_d4415e274",entry_ʒænqa,fa,s
 mentioned_d4415e240,"mentioned_d4415e240,mentioned_d4415e279",entry_ʒænqa,sog,sng,,
 mentioned_d4415e246,"mentioned_d4415e246,mentioned_d4415e285",entry_ʒænqa,ae,asənga-,,
 mentioned_d4415e251,"mentioned_d4415e251,mentioned_d4415e290",entry_ʒænqa,peo,aθa(n)ga-,камень,stone
-mentioned_d4417e408,"mentioned_d4417e408,mentioned_d4417e482",entry_q0yrmæ,os-x-iron,,,
+mentioned_d4417e408,"mentioned_d4417e408,mentioned_d4417e482",entry_q0yrmæ,os-x-iron,q˳yrmæ,,
 mentioned_d4417e434,"mentioned_d4417e434,mentioned_d4417e508",entry_q0yrmæ,os-x-digor,qurmitæ,,
 mentioned_d4417e452,"mentioned_d4417e452,mentioned_d4417e526",entry_q0yrmæ,ira,*gurma-,,
 mentioned_d4417e456,"mentioned_d4417e456,mentioned_d4417e530",entry_q0yrmæ,ira,gur-,,
@@ -12144,7 +12114,7 @@ mentioned_d4427e282,"mentioned_d4427e282,mentioned_d4427e460",entry_qama,"xmf,lz
 mentioned_d4427e290,"mentioned_d4427e290,mentioned_d4427e468",entry_qama,"xmf,lzz",xami,нож,knife
 mentioned_d4427e306,"mentioned_d4427e306,mentioned_d4427e484",entry_qama,ka-x-guria,qama,кинжал,dagger
 mentioned_d4427e320,"mentioned_d4427e320,mentioned_d4427e498",entry_qama,ce,"ǧama,ǧāma","шашка,клинок","saber,blade"
-mentioned_d4427e352,"mentioned_d4427e352,mentioned_d4427e530",entry_qama,zza,q,короткий меч,short sword
+mentioned_d4427e352,"mentioned_d4427e352,mentioned_d4427e530",entry_qama,zza,qâmâ,короткий меч,short sword
 mentioned_d4427e365,"mentioned_d4427e365,mentioned_d4427e543",entry_qama,fa,qama,длинный обоюдоострый прямой кинжал,a long double-edged straight dagger
 mentioned_d4427e382,"mentioned_d4427e382,mentioned_d4427e560",entry_qama,fa-x-krmns,qämä,обоюдоострый меч,a double-edged sword
 mentioned_d4428e112,"mentioned_d4428e112,mentioned_d4428e134",entry_boǧola,av,boholo,,
@@ -12169,7 +12139,6 @@ mentioned_d4429e437,"mentioned_d4429e437,mentioned_d4429e697",entry_myst,goh,mū
 mentioned_d4429e442,"mentioned_d4429e442,mentioned_d4429e702",entry_myst,la,mūs,,
 mentioned_d4429e447,"mentioned_d4429e447,mentioned_d4429e707",entry_myst,sqj,mi,,
 mentioned_d4429e453,"mentioned_d4429e453,mentioned_d4429e713",entry_myst,grc,μῦς,,
-mentioned_d4429e500,"mentioned_d4429e500,mentioned_d4429e760",entry_myst,os-x-digor,is,,
 mentioned_d4429e513,"mentioned_d4429e513,mentioned_d4429e773",entry_myst,ira,*uz-,,
 mentioned_d4429e529,"mentioned_d4429e529,mentioned_d4429e789",entry_myst,ku,mišk,,
 mentioned_d4429e534,"mentioned_d4429e534,mentioned_d4429e794",entry_myst,fa-x-dial,miš,,
@@ -12406,7 +12375,7 @@ mentioned_d4491e409,"mentioned_d4491e409,mentioned_d4491e642",entry_7fsæryn,la,
 mentioned_d4491e417,"mentioned_d4491e417,mentioned_d4491e650",entry_7fsæryn,hit,išpar-,топтать ногами,trample with feet
 mentioned_d4492e244,"mentioned_d4492e244,mentioned_d4492e316",entry_nos,"ar,fa,trk","nās̱ur,nas̱r",,
 mentioned_d4492e251,"mentioned_d4492e251,mentioned_d4492e323",entry_nos,tg,nosūr,"шрам,рубец,затвердевшая рана,мозоль","scar,cicatrix,hardened wound,callosity"
-mentioned_d4492e286,"mentioned_d4492e286,mentioned_d4492e358",entry_nos,ira,*ni-wa-,,
+mentioned_d4492e286,"mentioned_d4492e286,mentioned_d4492e358",entry_nos,ira,*ni-wa-sa-,,
 mentioned_d4492e294,"mentioned_d4492e294,mentioned_d4492e366",entry_nos,ine,"*wā-,*wō-",ранить,injure
 mentioned_d4495e356,"mentioned_d4495e356,mentioned_d4495e592",entry_marg,ira,*marka-,смерть,death
 mentioned_d4495e365,"mentioned_d4495e365,mentioned_d4495e601",entry_marg,ira,*mar-,"убивать,умирать","kill,die"
@@ -12516,7 +12485,6 @@ mentioned_d4550e232,"mentioned_d4550e232,mentioned_d4550e315",entry_cævæg,ab,�
 mentioned_d4554e132,"mentioned_d4554e132,mentioned_d4554e171",entry_mælæccag,os,kælæccag,готовый рухнуть,ready to collapse
 mentioned_d4556e163,"mentioned_d4556e163,mentioned_d4556e217",entry_mæǧælda,ce,merghada,,
 mentioned_d4556e168,"mentioned_d4556e168,mentioned_d4556e222",entry_mæǧælda,inh,mæghældi,,
-mentioned_d4556e178,"mentioned_d4556e178,mentioned_d4556e232",entry_mæǧælda,os,mæ-,,
 mentioned_d4556e187,"mentioned_d4556e187,mentioned_d4556e241",entry_mæǧælda,os,*ǧæld-,,
 mentioned_d4556e200,"mentioned_d4556e200,mentioned_d4556e254",entry_mæǧælda,ine,*ǵhel-,,
 mentioned_d4556e206,"mentioned_d4556e206,mentioned_d4556e260",entry_mæǧælda,ine,*ghol-,,
@@ -12542,7 +12510,7 @@ mentioned_d4567e570,"mentioned_d4567e570,mentioned_d4567e764",entry_ræxys,non,r
 mentioned_d4567e578,"mentioned_d4567e578,mentioned_d4567e772",entry_ræxys,non,"rekendi,rekendr",цепь,chain
 mentioned_d4567e586,"mentioned_d4567e586,mentioned_d4567e780",entry_ræxys,ang,"racete,racente",,
 mentioned_d4567e593,"mentioned_d4567e593,mentioned_d4567e787",entry_ræxys,goh,rachinza,,
-mentioned_d4567e599,"mentioned_d4567e599,mentioned_d4567e793",entry_ræxys,fr,racage,перевязь на мачте,"strap,on the mast"
+mentioned_d4567e599,"mentioned_d4567e599,mentioned_d4567e793",entry_ræxys,fr,racage,перевязь на мачте,strap on the mast
 mentioned_d4567e608,"mentioned_d4567e608,mentioned_d4567e806",entry_ræxys,cu,retjazь,,
 mentioned_d4567e613,"mentioned_d4567e613,mentioned_d4567e811",entry_ræxys,ru,ретязь,,
 mentioned_d4567e618,"mentioned_d4567e618,mentioned_d4567e816",entry_ræxys,cs,řetěz,,
@@ -12556,7 +12524,7 @@ mentioned_d4567e691,"mentioned_d4567e691,mentioned_d4567e889",entry_ræxys,ady,�
 mentioned_d4567e710,"mentioned_d4567e710,mentioned_d4567e908",entry_ræxys,av,raxas,,
 mentioned_d4567e715,"mentioned_d4567e715,mentioned_d4567e913",entry_ræxys,dar,raxaž,,
 mentioned_d4567e727,"mentioned_d4567e727,mentioned_d4567e913",entry_ræxys,dar,raxaž,,
-mentioned_d4567e732,"mentioned_d4567e732,mentioned_d4567e793",entry_ræxys,fr,racage,,"strap,on the mast"
+mentioned_d4567e732,"mentioned_d4567e732,mentioned_d4567e793",entry_ræxys,fr,racage,,strap on the mast
 mentioned_d4569e103,"mentioned_d4569e103,mentioned_d4569e141",entry_fælgætæg,ira,*pari-kataka-,,
 mentioned_d4569e108,"mentioned_d4569e108,mentioned_d4569e146",entry_fælgætæg,ira,kan-,рассыпаться,spill
 mentioned_d4569e116,"mentioned_d4569e116,mentioned_d4569e154",entry_fælgætæg,pal,pargantak,рассыпанный,spilt
@@ -12565,10 +12533,10 @@ mentioned_d4569e127,"mentioned_d4569e127,mentioned_d4569e165",entry_fælgætæg,
 mentioned_d4576e614,"mentioned_d4576e614,mentioned_d4576e805",entry_ræftæ,ae,rapiθwā-,полдень,midday
 mentioned_d4576e628,"mentioned_d4576e628,mentioned_d4576e819",entry_ræftæ,ira,frā́naka-,,
 mentioned_d4576e634,"mentioned_d4576e634,mentioned_d4576e825",entry_ræftæ,ae,rapiθwina-,полуденный,midday (adj.)
-mentioned_d4576e646,"mentioned_d4576e646,mentioned_d4576e837",entry_ræftæ,ae,arə̄m-piθwā-,"(время), предназначенное,для еды","(time), intended,for food"
+mentioned_d4576e646,"mentioned_d4576e646,mentioned_d4576e837",entry_ræftæ,ae,arə̄m-piθwā-,"(время), предназначенное (arə̄m) для еды (piθwā- от pitu- пища, см. ос. fyd мясо)","(time), intended (arə̄m) for food (piθwā- from pitu- food, see Ossetic fyd meat)"
 mentioned_d4576e661,"mentioned_d4576e661,mentioned_d4576e852",entry_ræftæ,ae,pitu-,пища,food
 mentioned_d4576e696,"mentioned_d4576e696,mentioned_d4576e887",entry_ræftæ,sog,*rēpiθβah,полдень,midday
-mentioned_d4576e710,"mentioned_d4576e710,mentioned_d4576e901",entry_ræftæ,pal,rabi,,
+mentioned_d4576e710,"mentioned_d4576e710,mentioned_d4576e901",entry_ræftæ,pal,rabih,,
 mentioned_d4576e737,"mentioned_d4576e737,mentioned_d4576e928",entry_ræftæ,kho,"ravye pa,rravye pa",,
 mentioned_d4576e752,"mentioned_d4576e752,mentioned_d4576e943",entry_ræftæ,kho,rravyapata,,
 mentioned_d4578e874,"mentioned_d4578e874,mentioned_d4578e1015",entry_mard,ira,*mṛta-,,
@@ -13128,7 +13096,7 @@ mentioned_d4758e1201,"mentioned_d4758e1201,mentioned_d4758e1507",entry_læwwyn,i
 mentioned_d4758e1213,"mentioned_d4758e1213,mentioned_d4758e1519",entry_læwwyn,ira,*rap-,,
 mentioned_d4758e1217,"mentioned_d4758e1217,mentioned_d4758e1523",entry_læwwyn,ira,*ra-,покоиться,"rest, be still"
 mentioned_d4758e1226,"mentioned_d4758e1226,mentioned_d4758e1532",entry_læwwyn,ine,"re-,erə-",,
-mentioned_d4758e1281,"mentioned_d4758e1281,mentioned_d4758e1587",entry_læwwyn,os-x-digor,,,
+mentioned_d4758e1281,"mentioned_d4758e1281,mentioned_d4758e1587",entry_læwwyn,os-x-digor,fændæ un,,
 mentioned_d4762e990,"mentioned_d4762e990,mentioned_d4762e1277",entry_qazyn,fa,"bāxtan,bāz-",играть,play
 mentioned_d4762e1000,"mentioned_d4762e1000,mentioned_d4762e1287",entry_qazyn,ira,*vāz-,,
 mentioned_d4762e1017,"mentioned_d4762e1017,mentioned_d4762e1304",entry_qazyn,mis-x-khuri,"gazion,gazi","играть,игра","play,game"
@@ -13243,7 +13211,7 @@ mentioned_d4810e261,"mentioned_d4810e261,mentioned_d4810e321",entry_mylazon,grc,
 mentioned_d4810e284,"mentioned_d4810e284,mentioned_d4810e344",entry_mylazon,grc,νεφέλη,,
 mentioned_d4810e288,"mentioned_d4810e288,mentioned_d4810e348",entry_mylazon,os,-on,,
 mentioned_d4810e298,"mentioned_d4810e298,mentioned_d4810e358",entry_mylazon,os,socialon,социальный,social
-mentioned_d4811e673,"mentioned_d4811e673,mentioned_d4811e1080",entry_næwæg,os,*nava-,,
+mentioned_d4811e673,"mentioned_d4811e673,mentioned_d4811e1080",entry_næwæg,os,*nava-ka-,,
 mentioned_d4811e681,"mentioned_d4811e681,mentioned_d4811e1088",entry_næwæg,ira,*nava-,,
 mentioned_d4811e687,"mentioned_d4811e687,mentioned_d4811e1094",entry_næwæg,ine,*newo,,
 mentioned_d4811e693,"mentioned_d4811e693,mentioned_d4811e1100",entry_næwæg,fa,"naw,nō",,
@@ -13431,7 +13399,7 @@ mentioned_d4858e1050,mentioned_d4858e1050,,fa,ma tars,,
 mentioned_d4858e1092,mentioned_d4858e1092,,srh,ma sō,,
 mentioned_d4861e123,"mentioned_d4861e123,mentioned_d4861e142",entry_kʼældym,ka,kʼaldimi,вид сабли,saber type
 mentioned_d4863e94,"mentioned_d4863e94,mentioned_d4863e158",entry_7ræf,de-x-dial,rafe,стропило,rafter
-mentioned_d4863e102,"mentioned_d4863e102,mentioned_d4863e166",entry_7ræf,non,"räf,r",навес,canopy
+mentioned_d4863e102,"mentioned_d4863e102,mentioned_d4863e166",entry_7ræf,non,"räf,ræfr",навес,canopy
 mentioned_d4863e118,"mentioned_d4863e118,mentioned_d4863e182",entry_7ræf,sv,raft,,
 mentioned_d4863e123,"mentioned_d4863e123,mentioned_d4863e187",entry_7ræf,no,raft,,
 mentioned_d4863e139,"mentioned_d4863e139,mentioned_d4863e203",entry_7ræf,ae,rap-,служить опорой,serve as a support
@@ -13729,7 +13697,7 @@ mentioned_d4987e399,"mentioned_d4987e399,mentioned_d4987e724",entry_nostæ,la,nu
 mentioned_d4987e404,"mentioned_d4987e404,mentioned_d4987e729",entry_nostæ,grc,νυός,,
 mentioned_d4987e409,"mentioned_d4987e409,mentioned_d4987e734",entry_nostæ,xcl,nu,,
 mentioned_d4987e419,"mentioned_d4987e419,mentioned_d4987e744",entry_nostæ,os,*næw-ostæ,новая (молодая) женщина,new (young) woman
-mentioned_d4987e428,"mentioned_d4987e428,mentioned_d4987e753",entry_nostæ,"inh,ce","nus,nusk",,
+mentioned_d4987e428,"mentioned_d4987e428,mentioned_d4987e753",entry_nostæ,"inh,ce","nus,nuskal",,
 mentioned_d4987e440,"mentioned_d4987e440,mentioned_d4987e765",entry_nostæ,bbl,nus,,
 mentioned_d4987e445,"mentioned_d4987e445,mentioned_d4987e770",entry_nostæ,av,nus,,
 mentioned_d4987e451,"mentioned_d4987e451,mentioned_d4987e776",entry_nostæ,aqc,nustuṛ,,
@@ -13742,7 +13710,7 @@ mentioned_d4987e514,"mentioned_d4987e514,mentioned_d4987e684",entry_nostæ,inc-x
 mentioned_d4987e521,"mentioned_d4987e521,mentioned_d4987e846",entry_nostæ,sla,невѣста,,
 mentioned_d4987e535,"mentioned_d4987e535,mentioned_d4987e846",entry_nostæ,sla,nevěsta,,
 mentioned_d4987e538,"mentioned_d4987e538,mentioned_d4987e859",entry_nostæ,sla,nevěsta,,
-mentioned_d4987e543,"mentioned_d4987e543,mentioned_d4987e867",entry_nostæ,x-oldsl,*nevo-ved-,новобрачная,bride
+mentioned_d4987e543,"mentioned_d4987e543,mentioned_d4987e867",entry_nostæ,x-oldsl,*nevo-ved-tā,новобрачная,bride
 mentioned_d4989e404,"mentioned_d4989e404,mentioned_d4989e479",entry_fædg,x-oldirn,pada-,,
 mentioned_d4989e411,"mentioned_d4989e411,mentioned_d4989e486",entry_fædg,sog,"*padg-, *paδk-",обычай,custom
 mentioned_d4989e434,"mentioned_d4989e434,mentioned_d4989e509",entry_fædg,sa,dharma-,закон,law
@@ -13805,7 +13773,7 @@ mentioned_d5003e274,"mentioned_d5003e274,mentioned_d5003e414",entry_mæ6q9qæl,d
 mentioned_d5003e278,"mentioned_d5003e278,mentioned_d5003e419",entry_mæ6q9qæl,ddo,c̣ej,орел,eagle
 mentioned_d5003e284,"mentioned_d5003e284,mentioned_d5003e425",entry_mæ6q9qæl,ae,c̣unta,,
 mentioned_d5003e289,"mentioned_d5003e289,mentioned_d5003e430",entry_mæ6q9qæl,ae,c̣un,id.,id.
-mentioned_d5003e303,"mentioned_d5003e303,mentioned_d5003e444",entry_mæ6q9qæl,inh,Ǟ,,
+mentioned_d5003e303,"mentioned_d5003e303,mentioned_d5003e444",entry_mæ6q9qæl,inh,Ǟrzij,,
 mentioned_d5003e314,"mentioned_d5003e314,mentioned_d5003e455",entry_mæ6q9qæl,ae,ərezifya-,,
 mentioned_d5003e319,"mentioned_d5003e319,mentioned_d5003e460",entry_mæ6q9qæl,xcl,arcʼiv,,
 mentioned_d5003e324,"mentioned_d5003e324,mentioned_d5003e465",entry_mæ6q9qæl,ka,arcʼivi,,
@@ -13866,7 +13834,7 @@ mentioned_d5020e183,"mentioned_d5020e183,mentioned_d5020e208",entry_ḱyzg,trk,q
 mentioned_d5021e222,"mentioned_d5021e222,mentioned_d5021e289",entry_lekʼ,ka,lekʼi,лезгин,Lezgian person
 mentioned_d5021e230,"mentioned_d5021e230,mentioned_d5021e297",entry_lekʼ,grc,Ληγαι,,
 mentioned_d5021e233,"mentioned_d5021e233,mentioned_d5021e300",entry_lekʼ,grc,Ληγες,,
-mentioned_d5021e252,mentioned_d5021e252,entry_lekʼ,grc,Θεοφάνης,,
+mentioned_d5021e252,mentioned_d5021e252,entry_lekʼ,grc,Θεοφάνης …μεταξὺ τῶν Ἀμαζόνων καὶ τῶν Ἀλβανῶν φησι Γήλας οἰκεῖν καὶ Λήγας…,,
 mentioned_d5021e260,"mentioned_d5021e260,mentioned_d5021e337",entry_lekʼ,lbe,lak,,
 mentioned_d5022e116,"mentioned_d5022e116,mentioned_d5022e137",entry_axil,"ar,fa",xail,,
 mentioned_d5022e121,"mentioned_d5022e121,mentioned_d5022e142",entry_axil,"ar,fa",xīl,род,clan
@@ -13923,7 +13891,7 @@ mentioned_d5030e394,"mentioned_d5030e394,mentioned_d5030e618",entry_ræxsnæg,ir
 mentioned_d5030e403,"mentioned_d5030e403,mentioned_d5030e627",entry_ræxsnæg,ine,*reǵ-s-,,
 mentioned_d5030e409,"mentioned_d5030e409,mentioned_d5030e633",entry_ræxsnæg,ine,"*reǵ-,*renǵ-","прямой,быть прямым","straight,be straight"
 mentioned_d5030e443,"mentioned_d5030e443,mentioned_d5030e667",entry_ræxsnæg,ae,ərəzu-,прямой,straight
-mentioned_d5030e451,"mentioned_d5030e451,mentioned_d5030e675",entry_ræxsnæg,inc-x-old,"ṛju-,raji-","прямой,прямо подымающийся","straight,getting,up straight"
+mentioned_d5030e451,"mentioned_d5030e451,mentioned_d5030e675",entry_ræxsnæg,inc-x-old,"ṛju-,raji-","прямой,прямо подымающийся","straight,getting up straight"
 mentioned_d5030e465,"mentioned_d5030e465,mentioned_d5030e693",entry_ræxsnæg,ae,razišta-,,
 mentioned_d5030e470,"mentioned_d5030e470,mentioned_d5030e698",entry_ræxsnæg,inc-x-old,rajiṣṭha-,,
 mentioned_d5030e477,"mentioned_d5030e477,mentioned_d5030e705",entry_ræxsnæg,"da,no",rank,"стройный,прямой,прямо растущий","slim,straight,growing straight"
@@ -13960,13 +13928,13 @@ mentioned_d5046e958,"mentioned_d5046e958,mentioned_d5046e1222",entry_rast,sog,r�
 mentioned_d5046e963,"mentioned_d5046e963,mentioned_d5046e1227",entry_rast,kho,rraṣṭa-,,
 mentioned_d5046e970,"mentioned_d5046e970,mentioned_d5046e1234",entry_rast,sa,satya-,"истинный,верный","true,correct"
 mentioned_d5046e982,"mentioned_d5046e982,mentioned_d5046e1246",entry_rast,kho,rraṣṭa-tsūka,,
-mentioned_d5046e987,"mentioned_d5046e987,mentioned_d5046e1251",entry_rast,os,rast-cog,верно идущий,"going,right"
+mentioned_d5046e987,"mentioned_d5046e987,mentioned_d5046e1251",entry_rast,os,rast-cog,верно идущий,going right
 mentioned_d5046e995,"mentioned_d5046e995,mentioned_d5046e1263",entry_rast,ae,rāšta-,,
 mentioned_d5046e1000,"mentioned_d5046e1000,mentioned_d5046e1268",entry_rast,peo,rasta-,,
 mentioned_d5046e1006,"mentioned_d5046e1006,mentioned_d5046e1274",entry_rast,got,raihts,,
 mentioned_d5046e1011,"mentioned_d5046e1011,mentioned_d5046e1279",entry_rast,de,recht,,
 mentioned_d5046e1016,"mentioned_d5046e1016,mentioned_d5046e1284",entry_rast,la,rectus,,
-mentioned_d5046e1039,"mentioned_d5046e1039,mentioned_d5046e1308",entry_rast,zza,bîbė rȧshtî,"(wtl.,) hat den Sinn «sie waren weggegangen»","(wtl.,) hat den Sinn «sie waren weggegangen»"
+mentioned_d5046e1039,"mentioned_d5046e1039,mentioned_d5046e1308",entry_rast,zza,bîbė rȧshtî,(wtl. sie waren gerade geworden) hat den Sinn «sie waren weggegangen»,(wtl. sie waren gerade geworden) hat den Sinn «sie waren weggegangen»
 mentioned_d5046e1065,"mentioned_d5046e1065,mentioned_d5046e1333",entry_rast,ku,ŕāst kərən,отправлять,send
 mentioned_d5046e1076,"mentioned_d5046e1076,mentioned_d5046e1344",entry_rast,ru,от-прав-лять,,send
 mentioned_d5047e108,"mentioned_d5047e108,mentioned_d5047e140",entry_Iryston,fa,-stān,,
@@ -14045,7 +14013,7 @@ mentioned_d5076e584,"mentioned_d5076e584,mentioned_d5076e968",entry_7lxænyn,ira
 mentioned_d5076e590,"mentioned_d5076e590,mentioned_d5076e972",entry_7lxænyn,ine,xṛn-,,
 mentioned_d5076e782,mentioned_d5076e782,,sgh,xarīd čidōw,,buy
 mentioned_d5077e273,"mentioned_d5077e273,mentioned_d5077e343",entry_ræxsbetun,ira,"*wraxš-,*wrag-s-",,
-mentioned_d5077e281,"mentioned_d5077e281,mentioned_d5077e351",entry_ræxsbetun,la,urgeo,"напирать,гнать,устремляться","push,drive,away,strive"
+mentioned_d5077e281,"mentioned_d5077e281,mentioned_d5077e351",entry_ræxsbetun,la,urgeo,"напирать,гнать,устремляться","push,drive away,strive"
 mentioned_d5077e300,"mentioned_d5077e300,mentioned_d5077e374",entry_ræxsbetun,la,altum urgere,устремляться в открытое море,rush to the open sea
 mentioned_d5077e306,"mentioned_d5077e306,mentioned_d5077e380",entry_ræxsbetun,os,dengizmæ nirræxsbetuj,устремляться в море,rush into the sea
 mentioned_d5077e313,"mentioned_d5077e313,mentioned_d5077e387",entry_ræxsbetun,non,reka,"гнать,преследовать","drive away,chase"
@@ -14101,7 +14069,7 @@ mentioned_d5090e208,"mentioned_d5090e208,mentioned_d5090e350",entry_bæz-,grc,π
 mentioned_d5090e235,"mentioned_d5090e235,mentioned_d5090e376",entry_bæz-,hit,panku-,собрание,meeting
 mentioned_d5091e147,"mentioned_d5091e147,mentioned_d5091e197",entry_qadyr,trk,qatər,мул,mule
 mentioned_d5091e163,"mentioned_d5091e163,mentioned_d5091e213",entry_qadyr,ka,qatari,,
-mentioned_d5091e168,"mentioned_d5091e168,mentioned_d5091e218",entry_qadyr,lez,kʷ,,
+mentioned_d5091e168,"mentioned_d5091e168,mentioned_d5091e218",entry_qadyr,lez,kʷatir,,
 mentioned_d5091e177,"mentioned_d5091e177,mentioned_d5091e223",entry_qadyr,agx,qatir,,
 mentioned_d5091e182,"mentioned_d5091e182,mentioned_d5091e228",entry_qadyr,kbd,qədər,,
 mentioned_d5091e188,"mentioned_d5091e188,mentioned_d5091e234",entry_qadyr,ru-x-dial,катер,,
@@ -14211,7 +14179,7 @@ mentioned_d5147e175,"mentioned_d5147e175,mentioned_d5147e264",entry_kʼydyr,ab,a
 mentioned_d5147e190,"mentioned_d5147e190,mentioned_d5147e279",entry_kʼydyr,ka,kʼuduri,куцый,dock-tailed
 mentioned_d5147e207,"mentioned_d5147e207,mentioned_d5147e296",entry_kʼydyr,ka,k’udura,головастик,tadpole
 mentioned_d5147e219,"mentioned_d5147e219,mentioned_d5147e308",entry_kʼydyr,hac,kūtärä,пень,stump
-mentioned_d5148e320,"mentioned_d5148e320,mentioned_d5148e442",entry_nad_2,os-x-iron,cælx-nad,"утоптанная колесами (,) дорога","road packed by wheels (,)"
+mentioned_d5148e320,"mentioned_d5148e320,mentioned_d5148e442",entry_nad_2,os-x-iron,cælx-nad,утоптанная колесами () дорога,road packed by wheels ()
 mentioned_d5148e351,"mentioned_d5148e351,mentioned_d5148e473",entry_nad_2,os,astærd,пол,floor
 mentioned_d5148e367,"mentioned_d5148e367,mentioned_d5148e489",entry_nad_2,la,strata,мощеная улица,paved street
 mentioned_d5148e382,"mentioned_d5148e382,mentioned_d5148e504",entry_nad_2,pal,pīl-xvast,"дорога,утоптанная слоном","road,beaten by an elephant"
@@ -14313,7 +14281,6 @@ mentioned_d5177e408,"mentioned_d5177e408,mentioned_d5177e801",entry_naf6f9æ,uby
 mentioned_d5177e418,"mentioned_d5177e418,mentioned_d5177e811",entry_naf6f9æ,kbd,nәba,,
 mentioned_d5177e423,"mentioned_d5177e423,mentioned_d5177e816",entry_naf6f9æ,ady-x-abadz,nebe,,
 mentioned_d5177e428,"mentioned_d5177e428,mentioned_d5177e821",entry_naf6f9æ,ady-x-shpsg,"nibe,nebe",,
-mentioned_d5177e463,"mentioned_d5177e463,mentioned_d5177e856",entry_naf6f9æ,ine,bh,,
 mentioned_d5178e113,"mentioned_d5178e113,mentioned_d5178e125",entry_gocora,ka,kočora,,
 mentioned_d5180e564,"mentioned_d5180e564,mentioned_d5180e898",entry_7rtæ,ira,*θrayah,,
 mentioned_d5180e570,"mentioned_d5180e570,mentioned_d5180e904",entry_7rtæ,ine,*treyes,,
@@ -14360,7 +14327,7 @@ mentioned_d5180e844,"mentioned_d5180e844,mentioned_d5180e1178",entry_7rtæ,xcl,e
 mentioned_d5180e860,"mentioned_d5180e860,mentioned_d5180e1194",entry_7rtæ,x-oldirn,*θri-,,
 mentioned_d5180e866,"mentioned_d5180e866,mentioned_d5180e1200",entry_7rtæ,ine,*tri-,,
 mentioned_d5185e118,"mentioned_d5185e118,mentioned_d5185e136",entry_ædonug,tr,su-syz,жаждущий,thirsty
-mentioned_d5189e115,"mentioned_d5189e115,mentioned_d5189e159",entry_misxal,ar,mi,"мера веса, равная 1½ драхме",a measure of weight equal to 1½ drachma
+mentioned_d5189e115,"mentioned_d5189e115,mentioned_d5189e159",entry_misxal,ar,miṣqāl,"мера веса, равная 1½ драхме",a measure of weight equal to 1½ drachma
 mentioned_d5189e130,"mentioned_d5189e130,mentioned_d5189e174",entry_misxal,xcl,msxal,,
 mentioned_d5189e135,"mentioned_d5189e135,mentioned_d5189e179",entry_misxal,ka,misxali,,
 mentioned_d5189e140,"mentioned_d5189e140,mentioned_d5189e184",entry_misxal,av,misqal,,
@@ -14671,7 +14638,7 @@ mentioned_d5318e1088,"mentioned_d5318e1088,mentioned_d5318e1333",entry_mast,ine,
 mentioned_d5318e1113,"mentioned_d5318e1113,mentioned_d5318e1358",entry_mast,krc-x-balkar,məstə,,
 mentioned_d5318e1127,"mentioned_d5318e1127,mentioned_d5318e1372",entry_mast,inh,mistæ,,
 mentioned_d5318e1132,"mentioned_d5318e1132,mentioned_d5318e1377",entry_mast,ce,müstin,,
-mentioned_d5318e1137,"mentioned_d5318e1137,mentioned_d5318e1382",entry_mast,bbl,musti,,
+mentioned_d5318e1137,"mentioned_d5318e1137,mentioned_d5318e1382",entry_mast,bbl,mustiⁿ,,
 mentioned_d5318e1150,"mentioned_d5318e1150,mentioned_d5318e1395",entry_mast,sva,mustʼvin,"горький,жгучий","bitter,poignant"
 mentioned_d5318e1170,"mentioned_d5318e1170,mentioned_d5318e1415",entry_mast,iir,*mad-,быть в состоянии возбуждения,be in a state of excitement
 mentioned_d5318e1179,"mentioned_d5318e1179,mentioned_d5318e1424",entry_mast,fa,mast,"пьяный,ярый,свирепый","drunk,ardent,fierce"
@@ -14799,7 +14766,7 @@ mentioned_d5374e157,"mentioned_d5374e157,mentioned_d5374e190",entry_Ag0yr,trk,og
 mentioned_d5375e114,"mentioned_d5375e114,mentioned_d5375e163",entry_caca,kbd,caca,детское платье,child dress
 mentioned_d5375e122,"mentioned_d5375e122,mentioned_d5375e171",entry_caca,ru,цаца,детская игрушка,child toy
 mentioned_d5375e146,mentioned_d5375e146,entry_caca,ru,цеця,"кумачные пришивки, кружева и нитки к рубашкам",
-mentioned_d5377e117,"mentioned_d5377e117,mentioned_d5377e161",entry_mæjxor,os,-,травоядный,herbivorous
+mentioned_d5377e117,"mentioned_d5377e117,mentioned_d5377e161",entry_mæjxor,os,xal-xor,травоядный,herbivorous
 mentioned_d5379e322,"mentioned_d5379e322,mentioned_d5379e369",entry_īrvæzyn,sa,rah-,покидать,to leave
 mentioned_d5379e330,"mentioned_d5379e330,mentioned_d5379e377",entry_īrvæzyn,sa,rahas-,,
 mentioned_d5379e333,"mentioned_d5379e333,mentioned_d5379e380",entry_īrvæzyn,ae,razah-,скрытое место,secret place
@@ -14873,7 +14840,7 @@ mentioned_d5412e259,"mentioned_d5412e259,mentioned_d5412e494",entry_rægafæn,or
 mentioned_d5412e264,"mentioned_d5412e264,mentioned_d5412e499",entry_rægafæn,srh,kaw-,,
 mentioned_d5412e269,"mentioned_d5412e269,mentioned_d5412e504",entry_rægafæn,sgy,kāw-,,
 mentioned_d5412e278,"mentioned_d5412e278,mentioned_d5412e513",entry_rægafæn,sgh,kōw-,ковырять,poke
-mentioned_d5412e286,"mentioned_d5412e286,mentioned_d5412e521",entry_rægafæn,sgh,x̌ič,"разбивать,раскалывать,взрывать","break,crack,blow up"
+mentioned_d5412e286,"mentioned_d5412e286,mentioned_d5412e521",entry_rægafæn,sgh,x̌ičef-,"разбивать,раскалывать,взрывать","break,crack,blow up"
 mentioned_d5412e296,"mentioned_d5412e296,mentioned_d5412e468",entry_rægafæn,fa,šikāf-,,"stab,crack,dissect"
 mentioned_d5412e311,"mentioned_d5412e311,mentioned_d5412e546",entry_rægafæn,sog,*kāf-,раскалывать,crack
 mentioned_d5412e325,"mentioned_d5412e325,mentioned_d5412e561",entry_rægafæn,cu,kopati,,
@@ -14961,7 +14928,7 @@ mentioned_d5436e589,"mentioned_d5436e589,mentioned_d5436e720",entry_astæw,fa,s�
 mentioned_d5436e594,"mentioned_d5436e594,mentioned_d5436e725",entry_astæw,sog,ʼstʼwn,,
 mentioned_d5436e599,"mentioned_d5436e599,mentioned_d5436e730",entry_astæw,ae,stuna-,,
 mentioned_d5436e604,"mentioned_d5436e604,mentioned_d5436e735",entry_astæw,sa,sthū́ṇā-,столб,pillar
-mentioned_d5440e217,"mentioned_d5440e217,mentioned_d5440e287",entry_pakonʒy,ka,paskʼunǯi,,
+mentioned_d5440e217,"mentioned_d5440e217,mentioned_d5440e287",entry_pakonʒy,ka,paskʼunǯi,"название сказочного существа, которое, по объяснению лексикографа XVII в., водится в Эфиопии, телом похоже на льва, голова, клюв, крылья и ноги как у орла… похищает слонов, наносит вред лошадям (352)","the name of a fabulous creature, which, according to the explanation of a lexicographer of the 17th century, is introduced in Ethiopia, the body looks like a lion, the head, beak, wings and legs are like ones of an eagle… kidnaps elephants, harms horses ( 352)"
 mentioned_d5440e246,"mentioned_d5440e246,mentioned_d5440e320",entry_pakonʒy,xcl,pʼaskʼuč,"гриф,грифон","griffin,gryphon"
 mentioned_d5441e178,"mentioned_d5441e178,mentioned_d5441e263",entry_bazyr,ae,bāzura,рука,arm
 mentioned_d5441e186,"mentioned_d5441e186,mentioned_d5441e271",entry_bazyr,ae,snāvarə-bāzura-,имеющий жилистые руки,having arms with prominent veins
@@ -15181,7 +15148,7 @@ mentioned_d5512e447,"mentioned_d5512e447,mentioned_d5512e602",entry_nidæn,pal-x
 mentioned_d5512e468,"mentioned_d5512e468,mentioned_d5512e624",entry_nidæn,peo,*nidāni-,хранилище,storage
 mentioned_d5512e491,"mentioned_d5512e491,mentioned_d5512e648",entry_nidæn,sog,"*Niδan,nyδn",(собств. имя),(proper name)
 mentioned_d5512e516,"mentioned_d5512e516,mentioned_d5512e673",entry_nidæn,os,fidæn,будущий,future
-mentioned_d5512e523,"mentioned_d5512e523,mentioned_d5512e680",entry_nidæn,ira,*pati-,,
+mentioned_d5512e523,"mentioned_d5512e523,mentioned_d5512e680",entry_nidæn,ira,*pati-dana-,,
 mentioned_d5512e541,"mentioned_d5512e541,mentioned_d5512e698",entry_nidæn,sog,nyδ-,садиться,sit down
 mentioned_d5516e131,"mentioned_d5516e131,mentioned_d5516e184",entry_bīkʼ,fr,pic,,
 mentioned_d5516e136,"mentioned_d5516e136,mentioned_d5516e189",entry_bīkʼ,it,picco,,
@@ -15241,14 +15208,14 @@ mentioned_d5542e170,"mentioned_d5542e170,mentioned_d5542e245",entry_aslam,ce,als
 mentioned_d5549e212,"mentioned_d5549e212,mentioned_d5549e257",entry_ordæg,ira,ava-,тот,that
 mentioned_d5549e221,"mentioned_d5549e221,mentioned_d5549e266",entry_ordæg,ira,*ardaka-,сторона,side
 mentioned_d5551e116,"mentioned_d5551e116,mentioned_d5551e128",entry_g0yl,fa,kulča,лепешка,flatbread
-mentioned_d5560e498,"mentioned_d5560e498,mentioned_d5560e864",entry_naræg,ira,*nāraka,,
+mentioned_d5560e498,"mentioned_d5560e498,mentioned_d5560e864",entry_naræg,ira,*nāraka-,,
 mentioned_d5560e507,"mentioned_d5560e507,mentioned_d5560e873",entry_naræg,inc-x-old,naraka-,ад,hell
 mentioned_d5560e515,"mentioned_d5560e515,mentioned_d5560e881",entry_naræg,inc-x-old,nāraka-,адский,hellish
 mentioned_d5560e521,"mentioned_d5560e521,mentioned_d5560e887",entry_naræg,pi,naraka-,"пропасть,яма","chasm,pit"
 mentioned_d5560e568,"mentioned_d5560e568,mentioned_d5560e934",entry_naræg,krc-x-balkar,Narga,название ущелья,name of a gorge
 mentioned_d5560e575,"mentioned_d5560e575,mentioned_d5560e941",entry_naræg,xsc,Νάραϰον στόμα,"название одного из рукавов в устье Дуная,узкий рукав","name of one of the branches of the Danube delta,narrow sleeve"
 mentioned_d5560e587,"mentioned_d5560e587,mentioned_d5560e953",entry_naræg,grc,στόμα,"устье,бухта,вход,проход,речной рукав","estuary,bay,entrace,passage,river branch"
-mentioned_d5560e608,mentioned_d5560e608,entry_naræg,xsc,Naracus-,,
+mentioned_d5560e608,mentioned_d5560e608,entry_naræg,xsc,Naracus-toma,,
 mentioned_d5560e628,"mentioned_d5560e628,mentioned_d5560e994",entry_naræg,xsc,Νάρηϰος,,
 mentioned_d5560e637,"mentioned_d5560e637,mentioned_d5560e1003",entry_naræg,sv-x-dial,nōr,"бухта с узким входом,узкий залив","bay with narrow entrance,narrow gulf"
 mentioned_d5560e666,"mentioned_d5560e666,mentioned_d5560e1032",entry_naræg,zkh,narak,узкий,narrow
@@ -15266,7 +15233,7 @@ mentioned_d5560e788,"mentioned_d5560e788,mentioned_d5560e1148",entry_naræg,ine,
 mentioned_d5560e801,"mentioned_d5560e801,mentioned_d5560e1161",entry_naræg,sog,snʼr,короткий,short
 mentioned_d5560e825,"mentioned_d5560e825,mentioned_d5560e1185",entry_naræg,xcl,neł,узкий,narrow
 mentioned_d5560e840,"mentioned_d5560e840,mentioned_d5560e1200",entry_naræg,xcl,nergev,"тонкий,изящный","thin,elegant"
-mentioned_d5560e974,mentioned_d5560e974,,xsc,Naracus,,
+mentioned_d5560e974,mentioned_d5560e974,,xsc,Naracustoma,,
 mentioned_d5561e191,"mentioned_d5561e191,mentioned_d5561e300",entry_komyn,wbl,kami-,соглашаться,to agree
 mentioned_d5561e202,"mentioned_d5561e202,mentioned_d5561e311",entry_komyn,wbl,kəmi-,хотеть,to want
 mentioned_d5561e213,"mentioned_d5561e213,mentioned_d5561e322",entry_komyn,sgy-x-zebak,kam-: kimd,,
@@ -15276,7 +15243,7 @@ mentioned_d5561e244,"mentioned_d5561e244,mentioned_d5561e353",entry_komyn,sog,*k
 mentioned_d5561e259,"mentioned_d5561e259,mentioned_d5561e368",entry_komyn,kho,ayīmäte (← *ā-kamayatai),он хочет,he wants
 mentioned_d5561e267,"mentioned_d5561e267,mentioned_d5561e376",entry_komyn,sa,kam-,хотеть,to want
 mentioned_d5568e181,"mentioned_d5568e181,mentioned_d5568e214",entry_qabaqwat,ka-x-rachian,"qabaǧvati,qabarǧvati",место стрельбы в цель,target shooting location
-mentioned_d5569e186,"mentioned_d5569e186,mentioned_d5569e204",entry_najfat,os,Nafi-wat,"место (,) рода, фамилии (,)","place (,) of the clan (,)"
+mentioned_d5569e186,"mentioned_d5569e186,mentioned_d5569e204",entry_najfat,os,Nafi-wat,"место () рода, фамилии ()",place () of the clan ()
 mentioned_d5571e106,"mentioned_d5571e106,mentioned_d5571e134",entry_fagæ,fa,pāk,чистый,clean
 mentioned_d5571e114,"mentioned_d5571e114,mentioned_d5571e142",entry_fagæ,uby,fuɣwa,просо анатолийское,Anatolian millet
 mentioned_d5571e122,"mentioned_d5571e122,mentioned_d5571e150",entry_fagæ,kbd-x-crc,fəǧo,просо,millet
@@ -15319,7 +15286,7 @@ mentioned_d5586e122,"mentioned_d5586e122,mentioned_d5586e156",entry_ed,sog,’y�
 mentioned_d5587e94,"mentioned_d5587e94,mentioned_d5587e115",entry_kʼ0yzyr,ka,kʼvižri,нарост,outgrowth
 mentioned_d5589e279,"mentioned_d5589e279,mentioned_d5589e617",entry_7rdūzyn,ira,*drauš-,,
 mentioned_d5589e285,"mentioned_d5589e285,mentioned_d5589e623",entry_7rdūzyn,ine,*dhreus-,,
-mentioned_d5589e338,"mentioned_d5589e338,mentioned_d5589e680",entry_7rdūzyn,fa,duroš,"рана или след, произведенный прижигательным средством или хирургическим инструментом,инструмент для такой операции, ланцет, скальпель","a wound or trace produced by a cauterizing,agent,or surgical instrument,a tool for such an operation, a lancet, a scalpel"
+mentioned_d5589e338,"mentioned_d5589e338,mentioned_d5589e680",entry_7rdūzyn,fa,duroš,"рана или след, произведенный прижигательным средством или хирургическим инструментом,инструмент для такой операции, ланцет, скальпель","a wound or trace produced by a cauterizing agent or surgical instrument,a tool for such an operation, a lancet, a scalpel"
 mentioned_d5589e349,"mentioned_d5589e349,mentioned_d5589e696",entry_7rdūzyn,pal,drōš,"прижигание,увечье","cauterization,injury"
 mentioned_d5589e360,"mentioned_d5589e360,mentioned_d5589e707",entry_7rdūzyn,xcl,draušel,вырезывать,cut
 mentioned_d5589e372,"mentioned_d5589e372,mentioned_d5589e719",entry_7rdūzyn,x-balochi,"drūš-,društ","молоть,растирать","grind,rub"
@@ -15771,7 +15738,7 @@ mentioned_d5724e587,"mentioned_d5724e587,mentioned_d5724e1148",entry_lymæn,ira,
 mentioned_d5724e596,"mentioned_d5724e596,mentioned_d5724e1157",entry_lymæn,ine,"*pri-,*prəi-",,
 mentioned_d5724e604,"mentioned_d5724e604,mentioned_d5724e1165",entry_lymæn,grc,φειλάμενος,любимый,beloved
 mentioned_d5724e613,"mentioned_d5724e613,mentioned_d5724e1174",entry_lymæn,grc,φιλέω,люблю,I love
-mentioned_d5724e623,"mentioned_d5724e623,mentioned_d5724e1184",entry_lymæn,ira,*friya-manah,"(имеющий) дружественный (,) дух (,)","(having) friendly (,) spirit (,)"
+mentioned_d5724e623,"mentioned_d5724e623,mentioned_d5724e1184",entry_lymæn,ira,*friya-manah,(имеющий) дружественный (friya-) дух (manah-),(having) friendly (friya-) spirit (manah-)
 mentioned_d5724e630,"mentioned_d5724e630,mentioned_d5724e1191",entry_lymæn,ira,*friya-,,
 mentioned_d5724e634,"mentioned_d5724e634,mentioned_d5724e1195",entry_lymæn,ira,*manah-,,
 mentioned_d5724e665,"mentioned_d5724e665,mentioned_d5724e1226",entry_lymæn,os,ræ-,,
@@ -15780,7 +15747,7 @@ mentioned_d5724e675,"mentioned_d5724e675,mentioned_d5724e1236",entry_lymæn,ira,
 mentioned_d5724e681,"mentioned_d5724e681,mentioned_d5724e1242",entry_lymæn,ira,*frānaka-,,
 mentioned_d5724e694,"mentioned_d5724e694,mentioned_d5724e1255",entry_lymæn,ira,*aryana,,
 mentioned_d5724e700,"mentioned_d5724e700,mentioned_d5724e1261",entry_lymæn,ira,*marya-,,
-mentioned_d5724e704,"mentioned_d5724e704,mentioned_d5724e1265",entry_lymæn,ine,*prī-,",",","
+mentioned_d5724e704,"mentioned_d5724e704,mentioned_d5724e1265",entry_lymæn,ine,*prī-,"любить, дружить и пр.","love, be friends with etc."
 mentioned_d5724e716,"mentioned_d5724e716,mentioned_d5724e1282",entry_lymæn,isk,fri,"дорогой,хороший","dear,good"
 mentioned_d5724e728,"mentioned_d5724e728,mentioned_d5724e1293",entry_lymæn,isk,frī dīr-,любить,to love
 mentioned_d5724e734,"mentioned_d5724e734,mentioned_d5724e1299",entry_lymæn,sgy-x-zebak,ferī,"дорогой,хороший","dear,good"
@@ -15880,7 +15847,7 @@ mentioned_d5748e127,"mentioned_d5748e127,mentioned_d5748e172",entry_ærtyskæn,i
 mentioned_d5748e134,"mentioned_d5748e134,mentioned_d5748e179",entry_ærtyskæn,fa,iskana,долото,chisel
 mentioned_d5748e142,"mentioned_d5748e142,mentioned_d5748e187",entry_ærtyskæn,sog,ʽskʽn,инструмент для гравировки,an instrument for engraving
 mentioned_d5748e160,"mentioned_d5748e160,mentioned_d5748e205",entry_ærtyskæn,kbd,aškinä,кочерга,poker
-mentioned_d5752e138,"mentioned_d5752e138,mentioned_d5752e223",entry_mæskʼ_2,pal,maškar,"vagina,ножны",scabbard
+mentioned_d5752e138,"mentioned_d5752e138,mentioned_d5752e223",entry_mæskʼ_2,pal,maškar,"vagina,ножны","vagina,scabbard"
 mentioned_d5752e168,"mentioned_d5752e168,mentioned_d5752e254",entry_mæskʼ_2,ru,влагалище,vagina,vagina
 mentioned_d5752e177,"mentioned_d5752e177,mentioned_d5752e254",entry_mæskʼ_2,ru,влега,,vagina
 mentioned_d5752e180,"mentioned_d5752e180,mentioned_d5752e263",entry_mæskʼ_2,ru,влог,,
@@ -15949,10 +15916,8 @@ mentioned_d5772e178,"mentioned_d5772e178,mentioned_d5772e237",entry_lami,et,lomm
 mentioned_d5773e90,"mentioned_d5773e90,mentioned_d5773e125",entry_fædḱi,wbl,patk,ресница,eyelash
 mentioned_d5773e98,"mentioned_d5773e98,mentioned_d5773e133",entry_fædḱi,sgy,pātik,веко,eyelid
 mentioned_d5773e106,"mentioned_d5773e106,mentioned_d5773e141",entry_fædḱi,mnj,pətk,кисть,hand
-mentioned_d5777e554,"mentioned_d5777e554,mentioned_d5777e919",entry_nymajyn,ira,ni-,,
 mentioned_d5777e557,"mentioned_d5777e557,mentioned_d5777e922",entry_nymajyn,ira,*mā-,мерить,measure (sth.)
 mentioned_d5777e563,"mentioned_d5777e563,mentioned_d5777e928",entry_nymajyn,ine,*mē-,,
-mentioned_d5777e573,"mentioned_d5777e573,mentioned_d5777e938",entry_nymajyn,ira,nimā-,показывать(ся),show (oneself)
 mentioned_d5777e579,"mentioned_d5777e579,mentioned_d5777e944",entry_nymajyn,fa,"numūdan,numāy-",показывать(ся),show (oneself)
 mentioned_d5777e589,"mentioned_d5777e589,mentioned_d5777e954",entry_nymajyn,pal,"nimūtan,nimāy-",показывать,show
 mentioned_d5777e600,"mentioned_d5777e600,mentioned_d5777e965",entry_nymajyn,pal,"patmūtan,patmāy-",мерить,measure
@@ -15980,7 +15945,6 @@ mentioned_d5777e821,"mentioned_d5777e821,mentioned_d5777e1185",entry_nymajyn,txb
 mentioned_d5777e829,"mentioned_d5777e829,mentioned_d5777e1193",entry_nymajyn,la,metior,меряю,I measure
 mentioned_d5777e847,"mentioned_d5777e847,mentioned_d5777e1211",entry_nymajyn,cu,čьtǫ,"считаю,почитаю","I count,I honour"
 mentioned_d5777e876,"mentioned_d5777e876,mentioned_d5777e1240",entry_nymajyn,ira,mā-,,
-mentioned_d5777e879,"mentioned_d5777e879,mentioned_d5777e1243",entry_nymajyn,os,"ā-,*āmā",,
 mentioned_d5783e144,"mentioned_d5783e144,mentioned_d5783e167",entry_kʼærazæ,trk,täräzä,окно,window
 mentioned_d5792e595,"mentioned_d5792e595,mentioned_d5792e787",entry_næ_1,ira,*na,,
 mentioned_d5792e601,"mentioned_d5792e601,mentioned_d5792e793",entry_næ_1,ine,*ne,,
@@ -16307,7 +16271,6 @@ mentioned_d5928e280,"mentioned_d5928e280,mentioned_d5928e320",entry_ævsymær,sa
 mentioned_d5934e153,"mentioned_d5934e153,mentioned_d5934e193",entry_dojny,trk,su-suz,безводный,waterless
 mentioned_d5934e172,"mentioned_d5934e172,mentioned_d5934e212",entry_dojny,os,æmbojny,в один день,in a single day
 mentioned_d5937e151,"mentioned_d5937e151,mentioned_d5937e365",entry_nymætkʼ0y,ae,"nәmata-,nәmәδkā-","название растения,калина","plant name,viburnum"
-mentioned_d5937e177,"mentioned_d5937e177,mentioned_d5937e391",entry_nymætkʼ0y,de,-der,,
 mentioned_d5937e180,"mentioned_d5937e180,mentioned_d5937e394",entry_nymætkʼ0y,de,Wachol-der,,
 mentioned_d5937e185,"mentioned_d5937e185,mentioned_d5937e399",entry_nymætkʼ0y,de,Holun-der,,
 mentioned_d5937e189,"mentioned_d5937e189,mentioned_d5937e403",entry_nymætkʼ0y,de,Masshol-der,,
@@ -16318,16 +16281,16 @@ mentioned_d5937e222,"mentioned_d5937e222,mentioned_d5937e436",entry_nymætkʼ0y,
 mentioned_d5937e226,"mentioned_d5937e226,mentioned_d5937e440",entry_nymætkʼ0y,cy,afal,,
 mentioned_d5937e231,"mentioned_d5937e231,mentioned_d5937e445",entry_nymætkʼ0y,got-x-crm,apel,яблоко,apple
 mentioned_d5937e251,"mentioned_d5937e251,mentioned_d5937e465",entry_nymætkʼ0y,ira,*namata-,калина,viburnum
-mentioned_d5937e261,"mentioned_d5937e261,mentioned_d5937e475",entry_nymætkʼ0y,ira,nam,гнуться,bend
+mentioned_d5937e261,"mentioned_d5937e261,mentioned_d5937e475",entry_nymætkʼ0y,ira,nam-,гнуться,bend
 mentioned_d5937e280,"mentioned_d5937e280,mentioned_d5937e494",entry_nymætkʼ0y,ira,nam-,бить,hit
 mentioned_d5937e300,"mentioned_d5937e300,mentioned_d5937e514",entry_nymætkʼ0y,fa,nam-,влажный,wet
 mentioned_d5937e308,"mentioned_d5937e308,mentioned_d5937e522",entry_nymætkʼ0y,fa,nam,,
 mentioned_d5937e327,"mentioned_d5937e327,mentioned_d5937e541",entry_nymætkʼ0y,ae,nәmәδkā-,,
 mentioned_d5937e332,"mentioned_d5937e332,mentioned_d5937e546",entry_nymætkʼ0y,ae,nәmәδkā-,,
-mentioned_d5937e335,"mentioned_d5937e335,mentioned_d5937e549",entry_nymætkʼ0y,ae,nәmatā,,
+mentioned_d5937e335,"mentioned_d5937e335,mentioned_d5937e549",entry_nymætkʼ0y,ae,nәmatā-,,
 mentioned_d5939e130,"mentioned_d5939e130,mentioned_d5939e150",entry_kʼozo,trk,"qoz, koz",орех,nut
 mentioned_d5939e138,"mentioned_d5939e138,mentioned_d5939e158",entry_kʼozo,trk,"qoza, koza",кокон,cocoon
-mentioned_d5944e231,"mentioned_d5944e231,mentioned_d5944e279",entry_nomʒyd,os,*nāmā-,,
+mentioned_d5944e231,"mentioned_d5944e231,mentioned_d5944e279",entry_nomʒyd,os,*nāmā-čyuta-,,
 mentioned_d5944e240,"mentioned_d5944e240,mentioned_d5944e288",entry_nomʒyd,kho,nāma-tsuta-,,
 mentioned_d5947e290,mentioned_d5947e290,entry_o_2,inc-x-old,a,,
 mentioned_d5947e294,"mentioned_d5947e294,mentioned_d5947e345",entry_o_2,cu,о,,
@@ -16440,8 +16403,6 @@ mentioned_d5988e628,mentioned_d5988e628,,grc,ὠμός,,id.
 mentioned_d5990e603,"mentioned_d5990e603,mentioned_d5990e917",entry_ryn,ira,*rafna-,,
 mentioned_d5990e613,"mentioned_d5990e613,mentioned_d5990e927",entry_ryn,ira,*hvafna-,,
 mentioned_d5990e623,"mentioned_d5990e623,mentioned_d5990e937",entry_ryn,ira,*tafna-,,
-mentioned_d5990e636,"mentioned_d5990e636,mentioned_d5990e955",entry_ryn,os-x-digor,-un-,,
-mentioned_d5990e641,"mentioned_d5990e641,mentioned_d5990e960",entry_ryn,os-x-iron,-yn-,,
 mentioned_d5990e648,"mentioned_d5990e648,mentioned_d5990e966",entry_ryn,ira,*gauna-,,
 mentioned_d5990e662,"mentioned_d5990e662,mentioned_d5990e980",entry_ryn,ira,*srauni-,,
 mentioned_d5990e686,"mentioned_d5990e686,mentioned_d5990e1004",entry_ryn,ira,*kaβnaka-,,

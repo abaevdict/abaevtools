@@ -45,9 +45,9 @@ sense_d37e84,entry_razamynd,,,sense_d37e74,False,наставление,instruct
 sense_d38e72,entry_kūsart,,,,False,"животное, заколотое для трапезы",animal slaughtered for a meal
 sense_d42e81,entry_mīzyn,,1,sense_d42e76,False,течь,flow
 sense_d42e90,entry_mīzyn,,1,sense_d42e76,False,протекать,leak
-sense_d42e99,entry_mīzyn,,1,sense_d42e76,False,fluere,
+sense_d42e99,entry_mīzyn,,1,sense_d42e76,False,fluere,fluere
 sense_d42e132,entry_mīzyn,,2,sense_d42e127,False,мочиться,urinate
-sense_d42e141,entry_mīzyn,,2,sense_d42e127,False,mingere,
+sense_d42e141,entry_mīzyn,,2,sense_d42e127,False,mingere,mingere
 sense_d43e73,entry_kʼ0ybyr,,,sense_d43e72,False,бугор,hillock
 sense_d43e82,entry_kʼ0ybyr,,,sense_d43e72,False,холмик,hummock
 sense_d43e91,entry_kʼ0ybyr,,,sense_d43e72,False,почка (на деревьях),(tree) bud
@@ -180,7 +180,7 @@ sense_d138e72,entry_dællagq0yr,,,,False,передняя часть шеи ни
 sense_d139e71,entry_būlkʼon,,,,False,полковник,colonel
 sense_d140e69,entry_syp,,,,False,,
 sense_d143e69,entry_kʼori,,,,False,шар,ball
-sense_d144e72,entry_rændun,,,,False,гладить,smooth
+sense_d144e72,entry_rændun,,,,False,гладить,smooth (v.)
 sense_d145e71,entry_atʼami,,,,False,персик,peach
 sense_d146e75,entry_pæskʼu,,,sense_d146e74,False,клок,shred
 sense_d146e84,entry_pæskʼu,,,sense_d146e74,False,клочок,scrap
@@ -262,7 +262,7 @@ sense_d211e82,entry_bylyzdūx,,,sense_d211e72,False,закрутка,twitch
 sense_d212e72,entry_gollag,,,,False,мешок,sack
 sense_d213e70,entry_cam,,,sense_d213e69,False,стыд,shame
 sense_d213e79,entry_cam,,,sense_d213e69,False,конфуз,embarrassment
-sense_d214e72,entry_cyppūrs,,,,True,"название зимнего праздника, в христианской среде приуроченного к рождеству","the name of the winter holiday, timed to coincide with Christmas in the Christian religion"
+sense_d214e72,entry_cyppūrs,,,,False,,
 sense_d215e69,entry_tarvaz,,,,False,,
 sense_d217e69,entry_sazan,,,,False,,
 sense_d218e73,entry_cʼass,,,sense_d218e72,False,щель,chink
@@ -352,7 +352,7 @@ sense_d283e72,entry_rætænaǧd,,,,False,оглобля,shaft
 sense_d284e72,entry_myrrytt,,,,False,,
 sense_d285e72,entry_dert,,,,False,скорбь,sorrow
 sense_d286e69,entry_sævn,,,,False,,
-sense_d287e72,entry_Amistol,,,,True,название летнего месяца (июнь—июль),the name of a summer month (June-July)
+sense_d287e72,entry_Amistol,,,,False,,
 sense_d289e69,entry_ændax,,,,False,нитка,thread
 sense_d290e69,entry_wyrǧ0yjaw,,,,False,,
 sense_d291e75,entry_læggad,,,sense_d291e74,False,услужение,servitude
@@ -426,7 +426,7 @@ sense_d332e104,entry_rædūvyn,,,sense_d332e76,False,раздирать,rend
 sense_d332e113,entry_rædūvyn,,,sense_d332e76,False,делать ссадину на коже,make an abrasion on the skin
 sense_d333e69,entry_xorbadæn,,,,False,,
 sense_d335e72,entry_qal_2,,,,False,бодрствующий,awake
-sense_d336e72,entry_Amyran,,,,True,"герой „Даредзановского“ цикла эпических сказаний, бытующих у осетин и грузин. Образ, близкий к греческому Прометею. Принадлежал к роду %iDareʒantæ%i (",the hero of the ‘Daredzan's’ cycle of epic legends that exist among the Ossetians and Georgians. An image close to the Greek Prometheus. Belonged to the %iDareʒantæ%i family (
+sense_d336e72,entry_Amyran,,,,False,,
 sense_d337e69,entry_xælynbyttyr,,,,False,,
 sense_d338e77,entry_īvyn,,,sense_d338e76,False,менять,to change
 sense_d338e86,entry_īvyn,,,sense_d338e76,False,меняться,to exchange
@@ -575,7 +575,7 @@ sense_d447e82,entry_ajwan,,,sense_d447e72,False,издевка,sneer
 sense_d447e91,entry_ajwan,,,sense_d447e72,False,глумление,mocking
 sense_d448e69,entry_kamari,,,,False,женский пояс,women's belt
 sense_d449e75,entry_qæsdaræg,,,sense_d449e74,False,наковальня,anvil
-sense_d449e84,entry_qæsdaræg,,,sense_d449e74,False,бабка для отбивания косы,a
+sense_d449e84,entry_qæsdaræg,,,sense_d449e74,False,бабка для отбивания косы,a beam for beating off a scythe
 sense_d450e69,entry_abana,,,,False,баня,baths
 sense_d451e69,entry_stad,,,,False,,
 sense_d452e72,entry_binag,,,,False,нижний,lower
@@ -599,7 +599,7 @@ sense_d459e86,entry_7rxæw,,,sense_d459e76,False,язва,ulcer
 sense_d460e71,entry_kʼoǧoʒi,,,,False,лапоть,bast shoe
 sense_d462e72,entry_gæccy,,,,False,зуб,tooth
 sense_d463e80,entry_ʒæwyx6-kærdæg9,,,,False,пырей,"Elytrigia plant, bluegrass"
-sense_d464e72,entry_ærvyl,,,,True,"в выражениях %iærvyl bon%i ‘каждый день’, %iærvyl mæj%i ‘каждый месяц’, %iærvyl az%i ‘каждый год’","in such expressions as %iærvyl bon%i ˈevery dayˈ, %iærvyl mæj%i ˈevery monthˈ, %iærvyl az%i ˈevery yearˈ"
+sense_d464e72,entry_ærvyl,,,,False,,
 sense_d465e69,entry_wælmærd6tæ9,,,,False,,
 sense_d466e72,entry_garaḱʼi,,,,False,масло сливочное,dairy butter
 sense_d467e69,entry_samavar,,,,False,,
@@ -620,7 +620,7 @@ sense_d474e69,entry_carv,,,,False,масло (топленое),butter (melted)
 sense_d475e69,entry_wædta,,,,False,,
 sense_d478e72,entry_ʒæmby,,,,False,лапа,paw
 sense_d479e75,entry_næj_2,,,sense_d479e74,False,не есть,is not
-sense_d479e84,entry_næj_2,,,sense_d479e74,False,non est,
+sense_d479e84,entry_næj_2,,,sense_d479e74,False,non est,non est
 sense_d480e73,entry_axsǵiag,,,sense_d480e72,False,"самый дорогой, любимый","dearest, beloved"
 sense_d480e82,entry_axsǵiag,,,sense_d480e72,False,настоятельный,urgent
 sense_d480e91,entry_axsǵiag,,,sense_d480e72,False,важный,important
@@ -705,7 +705,7 @@ sense_d549e84,entry_nætyn,,,sense_d549e74,False,пыхтеть,puff
 sense_d549e93,entry_nætyn,,,sense_d549e74,False,тяжело дышать,breathe heavily
 sense_d549e102,entry_nætyn,,,sense_d549e74,False,охать,sigh
 sense_d549e111,entry_nætyn,,,sense_d549e74,False,стонать,moan
-sense_d550e72,entry_nalq0yt,,,,True,общее наименование драгоценных камней,general name for precious stones
+sense_d550e72,entry_nalq0yt,,,,False,,
 sense_d553e69,entry_sax_3,,,,False,,
 sense_d554e75,entry_ræwæxsun,,,sense_d554e74,False,встрепенуться,give a start
 sense_d554e84,entry_ræwæxsun,,,sense_d554e74,False,schaudern,schaudern
@@ -716,7 +716,7 @@ sense_d556e69,entry_Acæmæz,,,,False,"имя популярного нарто�
 sense_d557e69,entry_kark,,,,False,курица,hen
 sense_d558e73,entry_ḱeǧre,,,sense_d558e72,False,проводник,guide
 sense_d558e82,entry_ḱeǧre,,,sense_d558e72,False,слуга,servant
-sense_d559e72,entry_æxsnarcʼy,,,,True,название кустарникового растения,name of a shrub plant
+sense_d559e72,entry_æxsnarcʼy,,,,False,,
 sense_d560e69,entry_xussæ,,,,False,,
 sense_d561e69,entry_zǧær,,,,False,,
 sense_d562e69,entry_zad_1,,,,False,,
@@ -767,7 +767,7 @@ sense_d592e86,entry_qaryn_2,,,sense_d592e76,False,проникать,infiltrate
 sense_d592e106,entry_qaryn_2,,,sense_d592e101,False,влиять,affect
 sense_d592e115,entry_qaryn_2,,,sense_d592e101,False,оказывать действие,produce the effect
 sense_d593e72,entry_kʼæræbi,,,,False,"деревянная качалка, на которую устанавливается кадушка с молоком для сбивания масла",a wooden rocking chair on which a tub with milk is installed for butter churning
-sense_d594e69,entry_Iræf,,,,True,название реки в Дигории; в русских источниках — Урух,the name of the river in Digoria; in Russian sources — Urukh
+sense_d594e69,entry_Iræf,,,,False,,
 sense_d595e77,entry_īvǧ0yjyn,,,sense_d595e76,False,миновать,to pass
 sense_d595e86,entry_īvǧ0yjyn,,,sense_d595e76,False,пройти,to go by
 sense_d596e69,entry_xælyn_2,,,,False,,
@@ -795,7 +795,7 @@ sense_d616e72,entry_cūryn,,,,False,поджаривать,roast
 sense_d617e72,entry_ryxyn,,,,False,реветь,roar
 sense_d618e73,entry_Majræm,,,sense_d618e72,False,Мариам,Miriam
 sense_d618e82,entry_Majræm,,,sense_d618e72,False,Богоматерь,Virgin Mary
-sense_d618e92,entry_Majræm,,,,True,"название святилища или священного камня, куда водили молодую невестку, чтобы Богоматерь послала ей потомство; употребляется и как мужское имя",name of a sanctuary or holy stone where a young
+sense_d618e92,entry_Majræm,,,,False,,
 sense_d619e72,entry_mært,,,,False,"мера сыпучих тел, преимущественно зерна","a measure for loose materials, mainly grain"
 sense_d622e75,entry_byzǧ0yr,,,sense_d622e74,False,рубище,tatters
 sense_d622e84,entry_byzǧ0yr,,,sense_d622e74,False,лохмотья,rags
@@ -837,12 +837,12 @@ sense_d647e79,entry_æmbatæ,,,sense_d647e69,False,"кучка сена, сол�
 sense_d648e69,entry_xæppær,,,,False,,
 sense_d649e73,entry_cʼynda,,,sense_d649e72,False,чулок,stocking
 sense_d649e82,entry_cʼynda,,,sense_d649e72,False,носок,sock
-sense_d650e71,entry_aræbi,,,,True,"восклицание, выражающее протест, возражение и пр","exclamation expressing protest, objection, etc."
+sense_d650e71,entry_aræbi,,,,False,,
 sense_d651e69,entry_boǧdabi,,,,False,грубиян,barker
 sense_d653e75,entry_7rdyn,,,sense_d653e74,False,лук (оружие),bow
 sense_d653e84,entry_7rdyn,,,sense_d653e74,False,arcus,arcus
 sense_d654e69,entry_stæryn_2,,,,False,,
-sense_d655e72,entry_golmanʒy,,,,True,название съедобной травы и приготовляемого из нее кушанья,the name of an edible grass and the dishes prepared from it
+sense_d655e72,entry_golmanʒy,,,,False,,
 sense_d656e69,entry_tur,,,,False,,
 sense_d657e72,entry_kænk,,,,False,перхоть,dandruff
 sense_d658e77,entry_ræzyn,,,sense_d658e76,False,расти,grow
@@ -873,7 +873,7 @@ sense_d671e93,entry_kʼ0ylympy,,,sense_d671e74,False,задержка,delay
 sense_d671e102,entry_kʼ0ylympy,,,sense_d671e74,False,"нечто, вызывающее заминку, задержку, неудачу","something that causes a hitch, a delay, a failure"
 sense_d672e69,entry_sawg0yrm,,,,False,,
 sense_d673e69,entry_sæxolæ,,,,False,,
-sense_d674e72,entry_agarc,,,,True,какая-то мера длины,a kind of unit of length
+sense_d674e72,entry_agarc,,,,False,,
 sense_d675e77,entry_æmpʼūzyn,,,sense_d675e76,False,чинить,repair
 sense_d675e86,entry_æmpʼūzyn,,,sense_d675e76,False,латать,mend
 sense_d675e95,entry_æmpʼūzyn,,,sense_d675e76,False,штопать,darn
@@ -957,7 +957,7 @@ sense_d720e75,entry_fæste,,,sense_d720e74,False,сзади,behind
 sense_d720e84,entry_fæste,,,sense_d720e74,False,назади,from behind
 sense_d720e93,entry_fæste,,,sense_d720e74,False,позади,from the rear
 sense_d721e72,entry_kʼæmbudtæ,,,,False,морда,snout
-sense_d722e72,entry_mijjag,,,,True,"модальное слово, подчеркивающее предположительный, эвентуальный характер действия",modal word that underscores the hypothetical character of an action
+sense_d722e72,entry_mijjag,,,,False,,
 sense_d723e72,entry_mælīk6k9,,,,False,князь,prince
 sense_d724e72,entry_fædæǧd,,,,False,бузина,elder
 sense_d725e73,entry_æmxīc,,,sense_d725e72,False,склонный,prone
@@ -990,7 +990,7 @@ sense_d746e69,entry_tawæg_1,,,,False,,
 sense_d747e73,entry_gom_2,,,sense_d747e72,False,открытый,open
 sense_d747e82,entry_gom_2,,,sense_d747e72,False,отверзтый,
 sense_d747e87,entry_gom_2,,,sense_d747e72,False,голый,naked
-sense_d748e69,entry_æj,,,,True,в выражении %iæj kæni%i „гони!“ (о лошади),"in the expression %iæj kæni%i ""drive!"" (about a horse)"
+sense_d748e69,entry_æj,,,,False,,
 sense_d749e69,entry_xærræǧ,,,,False,,
 sense_d750e77,entry_ævzaryn,,,sense_d750e76,False,выбирать,to choose
 sense_d750e86,entry_ævzaryn,,,sense_d750e76,False,отбирать,
@@ -1028,7 +1028,7 @@ sense_d771e79,entry_coppaj,,,,False,"припев, повторяемый при
 sense_d771e89,entry_coppaj,,,,False,обрядовое хождение по аулам во время засухи,ritual procession in villages during a drought
 sense_d772e74,entry_ræʒæ,,,,False,сукровица,ichor
 sense_d773e69,entry_donwat,,,,False,русло,stream bed
-sense_d774e72,entry_Alardy,,,,True,"название одного из осетинских дзуаров („божеств“). Культ Аларды в Осетии связан с древним ритуалом „очищения“ от эпидемических заболеваний, специально — оспы","the name of one of the Ossetic %idzwar%is (“deities”). The cult of Alardy in Ossetia is associated with the ancient ritual of “cleansing” from epidemic diseases, especially smallpox"
+sense_d774e72,entry_Alardy,,,,False,,
 sense_d775e69,entry_tæryn_2,,,,False,,
 sense_d776e73,entry_aǧūd,,,sense_d776e72,False,чехол,cover
 sense_d776e82,entry_aǧūd,,,sense_d776e72,False,футляр,case
@@ -1144,7 +1144,7 @@ sense_d850e72,entry_muraba,,,,False,варенье,confiture
 sense_d851e69,entry_xīl_2,,,,False,,
 sense_d852e73,entry_æxcon,,,sense_d852e72,False,приятный,pleasant
 sense_d852e82,entry_æxcon,,,sense_d852e72,False,угодный,pleasing
-sense_d853e69,entry_rætænbos,,,,False,перевязь из скрученных прутьев (,a
+sense_d853e69,entry_rætænbos,,,,False,"перевязь из скрученных прутьев (), скрепляющая оглобли саней с полозьями",a tie of twisted rods () that fastens the shafts of a sleigh to the runners
 sense_d854e72,entry_kʼ0ybyloj,,,,False,клубок,ball of string
 sense_d855e70,entry_ægænon,,,sense_d855e69,False,бесшабашный,reckless
 sense_d855e79,entry_ægænon,,,sense_d855e69,False,разнузданный,unbridled
@@ -1267,7 +1267,7 @@ sense_d932e69,entry_xūrgom,,,,False,,
 sense_d933e69,entry_zaḱʼe,,,,False,,
 sense_d934e69,entry_ysson,,,,False,,
 sense_d935e69,entry_zaǧd,,,,False,,
-sense_d936e72,entry_ælæm,,,,True,"обрядовый предмет, связанный с поминками, справляемыми в праздник %ikomaxsæn%i (заговенье): „Родственники умершего изготовляют %iilæn%i, нечто вроде креста или хоругви из скрещенных жердей, с нитями, на которые нанизываются пряники, фрукты, грецкие орехи и конфеты. Родные покойника везут %iilæn%i на санях к его могиле“ (","ritual object associated with commemoration celebrated on a holiday called %ikomaxsæn%i (last day before a fast): “Relatives of the deceased make %iilæn%i, something like a cross or banner, from crossed poles, with threads on which gingerbread cookies, fruits, walnuts and sweets are strung. Relatives of the deceased carry %iilæn%i on a sleigh to his grave” ("
+sense_d936e72,entry_ælæm,,,,False,,
 sense_d938e73,entry_k0ynæg,,,sense_d938e72,False,малый (по количеству),small (quantitatively)
 sense_d938e82,entry_k0ynæg,,,sense_d938e72,False,мало,little
 sense_d938e91,entry_k0ynæg,,,sense_d938e72,False,скудный,scarce
@@ -1361,7 +1361,7 @@ sense_d1004e84,entry_axsyn_2,,,sense_d1004e74,False,свертываться,cur
 sense_d1004e101,entry_axsyn_2,,,sense_d1004e74,False,запекаться,dry
 sense_d1006e70,entry_gæsgæ,,,sense_d1006e69,False,согласно,according to
 sense_d1006e79,entry_gæsgæ,,,sense_d1006e69,False,по,
-sense_d1007e72,entry_ʒyly,,,,True,название птички (‘крапивник’)?,name of a bird (‘wren’)?
+sense_d1007e72,entry_ʒyly,,,,False,,
 sense_d1008e69,entry_xyzgond,,,,False,,
 sense_d1009e69,entry_mærǧgæ,,,,False,нагрудник верховой лошади,breast collar of a riding horse
 sense_d1010e69,entry_tūxæn,,,,False,,
@@ -1433,7 +1433,7 @@ sense_d1058e102,entry_ʒawma,,,sense_d1058e74,False,одежда,clothes
 sense_d1059e69,entry_tyxton,,,,False,,
 sense_d1060e69,entry_ʒīʒa_1,,,,False,мясо,meat
 sense_d1061e76,entry_cūdyn,,,,False,пошатываться,totter
-sense_d1062e78,entry_mæcyn,,,,False,валяться (в чем-либо жидком),wallow
+sense_d1062e78,entry_mæcyn,,,,False,валяться (в чем-либо жидком),wallow (in a liquid)
 sense_æxsyzgon.1,entry_æxsyzgon,,1,,False,приятный,nice
 sense_æxsyzgon.2,entry_æxsyzgon,,2,,False,настоятельно нужный,strongly needed
 sense_d1064e73,entry_ræftad,,,sense_d1064e72,False,полдник,afternoon snack
@@ -1500,7 +1500,7 @@ sense_d1117e100,entry_kadæg,,,sense_d1117e72,False,былина,
 sense_d1118e93,entry_lasæg,,,,False,копна (сена),stook (of hay)
 sense_d1119e72,entry_dællagguræ,,,,False,юбка,skirt
 sense_d1120e69,entry_wyrsīwæg,,,,False,,
-sense_d1121e77,entry_rædyvsyn,,,sense_d1121e76,False,раздираться (о коже),be
+sense_d1121e77,entry_rædyvsyn,,,sense_d1121e76,False,раздираться (о коже),be torn (about skin)
 sense_d1121e90,entry_rædyvsyn,,,sense_d1121e76,False,образоваться ссадине,form an abrasion
 sense_d1122e73,entry_g0yrysxo,,,sense_d1122e72,False,сомнение,doubt
 sense_d1122e82,entry_g0yrysxo,,,sense_d1122e72,False,подозрение,suspicion
@@ -1621,7 +1621,7 @@ sense_d1229e72,entry_fadat,,,,False,возможность,opportunity
 sense_d1230e69,entry_ūtæ,,,,False,,
 sense_d1231e72,entry_cyrǧ,,,,False,острый,sharp
 sense_d1232e72,entry_qædyn,,,,False,деревянный,wooden
-sense_d1233e69,entry_allon,,,,True,"этнический термин, встречается только в сказках, в выражении, вкладываемом обычно в уста великана-людоеда:","an ethnic term, found only in fairy tales, in an expression usually put into the mouth of a cannibal giant:"
+sense_d1233e69,entry_allon,,,,False,,
 sense_d1234e81,entry_7ǧzalyn,,,sense_d1234e80,False,сыпать,to pour
 sense_d1234e90,entry_7ǧzalyn,,,sense_d1234e80,False,осыпать,to strew
 sense_d1234e99,entry_7ǧzalyn,,,sense_d1234e80,False,ссыпать,to sack
@@ -1636,9 +1636,9 @@ sense_d1242e71,entry_lægmar,,,,False,убийца,murderer
 sense_d1243e72,entry_nīk0yd,,,,False,никуда,nowhere
 sense_d1244e72,entry_mæstæjʒag,,,,False,"полный гнева, огорчения","full of anger, grief"
 sense_d1245e69,entry_zyrn,,,,False,,
-sense_d1246e72,entry_Ʒæwyǵyqæw,,,,True,"город Дзауджикау (б. Владикавказ, ныне Орджоникидзе)","city of Dzaudzhikau (former Vladikavkaz, present Ordzhonikidze)"
+sense_d1246e72,entry_Ʒæwyǵyqæw,,,,False,,
 sense_d1248e72,entry_ḱyrs,,,,False,иней,frost
-sense_d1249e72,entry_kændys,,,,True,название высокогорного слегка ядовитого растения,the name of a slightly poisonous alpine plant
+sense_d1249e72,entry_kændys,,,,False,,
 sense_d1250e69,entry_salam,,,,False,,
 sense_d1251e69,entry_wæng,,,,False,,
 sense_d1252e69,entry_tyzmæg,,,,False,,
@@ -1774,7 +1774,7 @@ sense_d1362e69,entry_xædidon,,,,False,,
 sense_d1363e73,entry_kʼ0ymbyl,,,sense_d1363e72,False,свекла,beetroot
 sense_d1363e82,entry_kʼ0ymbyl,,,sense_d1363e72,False,бурак,beet
 sense_d1365e69,entry_skællad,,,,False,,
-sense_d1366e69,entry_Ḱermen,,,,True,"прославленный герой, воспетый в песнях, борец с феодалами","a renowned hero praised in songs, a fighter against feudals"
+sense_d1366e69,entry_Ḱermen,,,,False,,
 sense_d1367e69,entry_anauli,,,,False,земля под паром,fallow
 sense_d1368e69,entry_xærv,,,,False,,
 sense_d1369e69,entry_wælxox,,,,False,,
@@ -1865,7 +1865,7 @@ sense_d1417e69,entry_syg_2,,,,False,,
 sense_d1418e69,entry_tyxagūr,,,,False,,
 sense_d1419e69,entry_wælfyng,,,,False,,
 sense_d1420e69,entry_færæt,,,,False,топор,axe
-sense_d1421e69,entry_mærddag,,,,True,в выражении,in the expression
+sense_d1421e69,entry_mærddag,,,,False,,
 sense_d1422e69,entry_xæxxon,,,,False,,
 sense_d1423e69,entry_ward,,,,False,,
 sense_d1424e69,entry_tawys,,,,False,,
@@ -1880,7 +1880,7 @@ sense_d1429e76,entry_kæwyn,,,,False,плакать,to cry
 sense_d1430e73,entry_fadnīz,,,sense_d1430e72,False,ящур,foot-and-mouth disease
 sense_d1430e82,entry_fadnīz,,,sense_d1430e72,False,,murrain
 sense_d1431e69,entry_x0ynd,,,,False,,
-sense_d1432e72,entry_mæckʼor,,,,True,название ползучего растения (,name of a creeping plant (
+sense_d1432e72,entry_mæckʼor,,,,False,,
 sense_d1433e73,entry_kʼ0yrtt_2,,,sense_d1433e72,False,квок,chuck
 sense_d1433e82,entry_kʼ0yrtt_2,,,sense_d1433e72,False,квохтанье,chucking
 sense_d1433e91,entry_kʼ0yrtt_2,,,sense_d1433e72,False,сидение курицы на яйцах,hen's egg hatching
@@ -1944,7 +1944,7 @@ sense_d1476e73,entry_fælg0yr,,,sense_d1476e72,False,окружность,circum
 sense_d1476e82,entry_fælg0yr,,,sense_d1476e72,False,край,edge
 sense_d1476e91,entry_fælg0yr,,,sense_d1476e72,False,карниз,ledge
 sense_d1476e108,entry_fælg0yr,,,sense_d1476e72,False,сусек,cornbin
-sense_d1477e73,entry_mærxæg,,,sense_d1477e72,True,название сорного растения,name of a weed
+sense_d1477e73,entry_mærxæg,,,sense_d1477e72,False,,
 sense_d1477e78,entry_mærxæg,,,sense_d1477e72,False,куколь посевной,corncockle
 sense_d1477e87,entry_mærxæg,,,sense_d1477e72,False,Agrostemma,Agrostemma
 sense_d1478e73,entry_dymæg,,,sense_d1478e72,False,хвост,tail
@@ -2034,7 +2034,7 @@ sense_d1528e77,entry_qadaman,,,sense_d1528e76,False,кандалы,shackles
 sense_d1528e86,entry_qadaman,,,sense_d1528e76,False,оковы,chains
 sense_d1529e69,entry_x0yjyn,,,,False,,
 sense_d1530e72,entry_kʼīmbus,,,,False,тряпка,rag
-sense_d1531e69,entry_Ævzændæg,,,,True,"название божества, культ которого отмечен в сел. Кора Куртатинского ущелья. „Недалеко от капища Аларды имеется капище дзуара Авзандаг. Справляется праздник в честь Авзандаг в понедельник после Джоргуба“.",the name of the deity which worship was attested in the village of Kora in the Kurtati gorge. ‘There is a sanctuary dedicated to the dzwar Ævzændæg not far from the shrine of Alardy. The holiday in honor of Ævzændæg is celebrated on Monday after Dzhorguba“ (
+sense_d1531e69,entry_Ævzændæg,,,,False,,
 sense_d1532e73,entry_mængūd,,,sense_d1532e72,False,хилый,sickly
 sense_d1532e82,entry_mængūd,,,sense_d1532e72,False,тщедушный,feeble
 sense_d1533e69,entry_xædkærdgæ,,,,False,,
@@ -2079,8 +2079,8 @@ sense_d1565e82,entry_qotyr,,,sense_d1565e72,False,проказа,leprosy
 sense_d1566e72,entry_ærcaryn,,,,False,облагодетельствовать,to show much favour
 sense_d1567e73,entry_ir,,,sense_d1567e72,False,осетины,Ossetes
 sense_d1567e82,entry_ir,,,sense_d1567e72,False,осетинский народ,the Ossetian nation
-sense_d1568e73,entry_mætatyk,,,sense_d1568e72,True,название съедобного растения,name of an edible plant
-sense_d1568e78,entry_mætatyk,,,sense_d1568e72,False,мят,meadow-grass
+sense_d1568e73,entry_mætatyk,,,sense_d1568e72,False,,
+sense_d1568e78,entry_mætatyk,,,sense_d1568e72,False,мятлик,meadow-grass
 sense_d1568e98,entry_mætatyk,,,sense_d1568e72,False,Poa pratensis,Poa pratensis
 sense_d1570e69,entry_xogyǧd,,,,False,,
 sense_d1571e72,entry_fynk,,,,False,пена,foam
@@ -2256,7 +2256,7 @@ sense_d1689e73,entry_qulf,,,sense_d1689e72,False,глубокий,deep
 sense_d1689e82,entry_qulf,,,sense_d1689e72,False,глубь,into the depths
 sense_d1689e91,entry_qulf,,,sense_d1689e72,False,водоворот,whirlpool
 sense_d1690e69,entry_tækʼuzgæ,,,,False,,
-sense_d1691e71,entry_razzag,,,,False,передний,front (
+sense_d1691e71,entry_razzag,,,,False,передний,front (adj.)
 sense_d1692e72,entry_ʒængæda,,,,False,болтовня,idle talk
 sense_d1693e69,entry_sajtangark,,,,False,,
 sense_d1695e73,entry_bycæw,,,sense_d1695e72,False,спор,dispute
@@ -2278,7 +2278,7 @@ sense_d1704e95,entry_amæntyn,,,sense_d1704e76,False,марать,stain
 sense_d1705e72,entry_ælæt,,,,False,дужка котла,bow of a kettle (device for carrying the kettle / cauldron)
 sense_d1707e73,entry_nyrtækkæ,,,sense_d1707e72,False,сейчас,now
 sense_d1707e82,entry_nyrtækkæ,,,sense_d1707e72,False,только что,just now
-sense_d1708e76,entry_lyjyn,,,,False,caccare,
+sense_d1708e76,entry_lyjyn,,,,False,caccare,caccare
 sense_d1709e76,entry_ærgævdyn,,,,False,"резать, закалывать (животное, человека)","to cut, to slaughter (animal, human)"
 sense_d1710e70,entry_bæstæ,,,sense_d1710e69,False,страна,country
 sense_d1710e79,entry_bæstæ,,,sense_d1710e69,False,край,land
@@ -2354,7 +2354,7 @@ sense_d1768e76,entry_rūvyn,,,,False,полоть,weed (v.)
 sense_d1769e84,entry_bæddyn,,,,False,вязать,bind
 sense_d1770e73,entry_keǧog,,,sense_d1770e72,False,усадьба,country estate
 sense_d1770e82,entry_keǧog,,,sense_d1770e72,False,дом с пристройками,house with annexes
-sense_d1771e75,entry_7lǧīvyn,,,,False,"уплотнять тесьму при плетении, надавливая пальцами при каждом разводе нитей",condense
+sense_d1771e75,entry_7lǧīvyn,,,,False,"уплотнять тесьму при плетении, надавливая пальцами при каждом разводе нитей","condense braid when plaiting, pushing fingers at each junction of thread"
 sense_d1772e69,entry_sym,,,,False,,
 sense_d1773e69,entry_xætyn_1,,,,False,,
 sense_d1774e69,entry_wærǧ0yn,,,,False,,
@@ -2420,7 +2420,7 @@ sense_d1818e79,entry_mǽnæ,,,sense_d1818e78,False,вот,here (it) is
 sense_d1818e88,entry_mǽnæ,,,sense_d1818e78,False,,lo!
 sense_d1818e93,entry_mǽnæ,,,sense_d1818e78,False,вот здесь,over here
 sense_d1819e69,entry_asojnæ,os-x-digor,,,False,борона деревянная,wooden harrow
-sense_d1820e69,entry_mækæræz,,,,False,съедобный корнеплод кервеля (,edible root of chervil (
+sense_d1820e69,entry_mækæræz,,,,False,съедобный корнеплод кервеля () осенью,edible root of chervil () in autumn
 sense_d1821e69,entry_tīxalæg,,,,False,,
 sense_d1822e69,entry_sælfynæg,,,,False,,
 sense_d1823e75,entry_ḱʼīssa,,,sense_d1823e74,False,мешочек,small sack
@@ -2466,7 +2466,7 @@ sense_d1849e74,entry_myzyq,,,,False,коренастый,stocky
 sense_d1849e85,entry_myzyq,,,sense_d1849e84,False,кряжистый,thickset
 sense_d1849e94,entry_myzyq,,,sense_d1849e84,False,дюжий,sturdy
 sense_d1849e103,entry_myzyq,,,sense_d1849e84,False,массивный,massive
-sense_d1850e69,entry_Ærfæn,,,,True,"имя прославленного коня нарта Урузмага (в Нартовском эпосе); %iÆrfæny fæd%i 'Млечный путь', буквально „след Арфана“. По некоторым сказаниям (например","The name of famous nart Uryzmæg’s horse (in Nart saga); Ærfæny fæd ‘Milky way’, literally ‘Arphan’s track’. According to some legends (for example,"
+sense_d1850e69,entry_Ærfæn,,,,False,,
 sense_d1851e73,entry_ʒumard,,,sense_d1851e72,False,щедрый,generous
 sense_d1851e82,entry_ʒumard,,,sense_d1851e72,False,хлебосольный,hospitable
 sense_d1852e69,entry_xīwa,,,,False,,
@@ -2517,7 +2517,7 @@ sense_d1891e82,entry_æʒūqom,,,sense_d1891e72,False,ослабевший,weake
 sense_d1892e69,entry_salun,,,,False,,
 sense_d1894e69,entry_sg0yxyn,,,,False,,
 sense_d1896e69,entry_7xsævīwat,,,,False,,
-sense_d1897e72,entry_idi,,,,True,частица; см.,a particle; see
+sense_d1897e72,entry_idi,,,,False,,
 sense_d1899e71,entry_artʼæng,,,,False,ременная веревка у саней,sled rope
 sense_d1901e69,entry_wæxst,,,,False,,
 sense_d1902e69,entry_tʼepa_2,,,,False,,
@@ -2530,7 +2530,7 @@ sense_d1906e75,entry_neræn,,,sense_d1906e74,False,пока,yet
 sense_d1906e84,entry_neræn,,,sense_d1906e74,False,до сих пор,still
 sense_d1907e72,entry_qambul,,,,False,выпуклый,convex
 sense_d1908e69,entry_7xsīdt,,,,False,,
-sense_d1909e72,entry_ba_1,,,,True,"частица неопределенного значения, приближенно переводится русскими","a particle with an indeterminate meaning, it may be translated by Russian"
+sense_d1909e72,entry_ba_1,,,,False,,
 sense_d1910e69,entry_sīxor,,,,False,,
 sense_d1911e70,entry_mondag,,,sense_d1911e69,False,сильно желающий,strongly desiring
 sense_d1911e79,entry_mondag,,,sense_d1911e69,False,охочий,loving
@@ -2810,7 +2810,7 @@ sense_d2093e69,entry_wæras,,,,False,,
 sense_d2094e73,entry_qajvan,,,sense_d2094e72,False,потолочная балка,ceiling beam
 sense_d2094e82,entry_qajvan,,,sense_d2094e72,False,жердь,pole
 sense_d2096e69,entry_ssyr,,,,False,,
-sense_d2097e72,entry_lajyn,,,,True,название крашеной (хлопчатобумажной?) ткани,name of a painted (cotton?) fabric
+sense_d2097e72,entry_lajyn,,,,False,,
 sense_d2098e73,entry_q0yn,,,sense_d2098e72,False,волос,hair
 sense_d2098e82,entry_q0yn,,,sense_d2098e72,False,шерсть,wool
 sense_d2098e91,entry_q0yn,,,sense_d2098e72,False,шерсть с одной овцы,wool from one sheep
@@ -2844,7 +2844,7 @@ sense_d2122e72,entry_barḱʼī,,,,False,мешочек,little bag
 sense_d2123e69,entry_tībyng,,,,False,,
 sense_d2124e73,entry_ʒynga,,,sense_d2124e72,False,комар,mosquito
 sense_d2124e82,entry_ʒynga,,,sense_d2124e72,False,овод,gadfly
-sense_d2125e71,entry_marʒæ,,,,True,в сочетаниях,in the expressions
+sense_d2125e71,entry_marʒæ,,,,False,,
 sense_d2125e94,entry_marʒæ,,,sense_d2125e89,False,замечательный,outstanding
 sense_d2125e103,entry_marʒæ,,,sense_d2125e89,False,отменный,splendid
 sense_d2125e112,entry_marʒæ,,,sense_d2125e89,False,отличный,excellent
@@ -2854,7 +2854,7 @@ sense_d2128e72,entry_axæst6d9on,,,,False,тюрьма,prison
 sense_d2130e69,entry_wyryng,,,,False,,
 sense_d2131e73,entry_cyppæræm,,,sense_d2131e72,False,четвертый,fourth
 sense_d2131e82,entry_cyppæræm,,,sense_d2131e72,False,четверг,Thursday
-sense_d2132e69,entry_mæzæræw,,,,True,название съедобной травы,name of an edible grass
+sense_d2132e69,entry_mæzæræw,,,,False,,
 sense_d2133e73,entry_ænsaræ,,,sense_d2133e72,False,куча,heap
 sense_d2133e82,entry_ænsaræ,,,sense_d2133e72,False,масса,mass
 sense_d2133e91,entry_ænsaræ,,,sense_d2133e72,False,свалка,dump
@@ -3111,7 +3111,7 @@ sense_d2306e77,entry_pīllon,,,sense_d2306e76,False,бурный,stormy
 sense_d2306e86,entry_pīllon,,,sense_d2306e76,False,сильный,strong
 sense_d2307e69,entry_zylang,,,,False,,
 sense_d2308e72,entry_æmʒærīn,,,,False,сожитель,cohabitant
-sense_d2309e72,entry_cʼamalæg,,,,True,"название растения, употребляемого для приправы",the name of the herb used for the seasoning
+sense_d2309e72,entry_cʼamalæg,,,,False,,
 sense_d2310e72,entry_gomori,,,,False,крытая сапетка для зерна,covered grain basket
 sense_d2311e73,entry_bungard,,,sense_d2311e72,False,пень,tree stump
 sense_d2311e82,entry_bungard,,,sense_d2311e72,False,колода,woodblock
@@ -3324,7 +3324,7 @@ sense_d2464e72,entry_dyrys,,,,False,точный,accurate
 sense_d2465e69,entry_zekʼæ,,,,False,,
 sense_d2466e72,entry_astym,,,,False,поросшая низкой травой или мхом (прибрежная) почва,overgrown with low grass or moss (coastal) soil
 sense_d2467e71,entry_Nartæ,,,,False,Нарты,the Narts
-sense_d2467e81,entry_Nartæ,,,,True,общее коллективное наименование героев осетинского эпоса,general collective name for heroes of the Nart epics
+sense_d2467e81,entry_Nartæ,,,,False,,
 sense_d2468e69,entry_cæmæn,,,,False,почему,why
 sense_d2469e77,entry_ægajtyma,,,sense_d2469e76,False,хорошо,well
 sense_d2469e86,entry_ægajtyma,,,sense_d2469e76,False,слава Богу,thank God
@@ -3579,7 +3579,7 @@ sense_d2650e122,entry_qæn,,,sense_d2650e72,False,не целый,not whole
 sense_d2650e137,entry_qæn,,,sense_d2650e132,False,вина,fault
 sense_d2650e146,entry_qæn,,,sense_d2650e132,False,проступок,misbehaviour
 sense_d2651e72,entry_rox_2,,,,False,забытый,(one who is) forgotten
-sense_d2651e82,entry_rox_2,os-x-digor,,,False,забывший,(one who has)
+sense_d2651e82,entry_rox_2,os-x-digor,,,False,забывший,(one who has) forgotten
 sense_d2652e69,entry_xumidajæn,,,,False,,
 sense_d2654e72,entry_8atæ_1,,,,False,эти,
 sense_d2656e72,entry_cæssyg,,,,False,слеза,tear
@@ -3590,7 +3590,7 @@ sense_d2657e100,entry_ǧulæg,,,sense_d2657e72,False,вызывающий сож
 sense_d2658e72,entry_axsævykkon,,,,False,сегодняшней ночи,of tonight
 sense_d2659e69,entry_sqummæ,,,,False,,
 sense_d2660e69,entry_kʼaxæg,,,,False,копатель,digger
-sense_d2661e72,entry_ḱʼyrttym,,,,True,название птички (малиновка?),name of a bird (robin?)
+sense_d2661e72,entry_ḱʼyrttym,,,,False,,
 sense_d2662e69,entry_xabar,,,,False,,
 sense_d2663e69,entry_tentek,,,,False,,
 sense_d2664e72,entry_g0ycʼæz,,,,False,подставка в арбе,stand in a bullock-cart
@@ -3631,7 +3631,7 @@ sense_d2691e69,entry_ūrs,,,,False,,
 sense_d2692e91,entry_mes,,,sense_d2692e90,False,мягкая сафьянная обувь,soft morocco shoes
 sense_d2692e100,entry_mes,,,sense_d2692e90,False,сафьянные носки,morocco socks
 sense_d2693e72,entry_kʼ0ypa,,,,False,почка (на растениях),(plant) bud
-sense_d2694e69,entry_Balsæg,,,,True,"мифический персонаж в нартовском эпосе, обладатель чудес- ного колеса, %iBalsæǵy calx%i, убившего героя Сослана; варианты: %iMalsæg%i, %iMarsæg%i, %iMarsug%i.","Mythic(al) hero from Nart epos, owner of a miracle wheel, %iBalsæǵy calx%i, which has killed Soslan hero; name's variants are: %iMalsæg%i, %iMarsæg%i, %iMarsug%i"
+sense_d2694e69,entry_Balsæg,,,,False,,
 sense_d2695e69,entry_x0ymiliag,,,,False,,
 sense_d2696e77,entry_daryn,,1,sense_daryn.1,False,держать,hold
 sense_d2696e86,entry_daryn,,1,sense_daryn.1,False,выставлять,move out
@@ -4039,7 +4039,7 @@ sense_d2985e100,entry_qapp,,,sense_d2985e72,False,косточка,seed
 sense_d2985e109,entry_qapp,,,sense_d2985e72,False,testiculum,testiculum
 sense_d2986e72,entry_qoʒidændag,,,,False,с неровными зубами (когда один зуб выступает),with uneven teeth (when one tooth protrudes)
 sense_d2987e69,entry_toq0yl,,,,False,,
-sense_æfsūrǧ_2.1,entry_æfsūrǧ_2,,1,,True,эвфемизм для воды,euphemism for water
+sense_æfsūrǧ_2.1,entry_æfsūrǧ_2,,1,,False,,
 sense_æfsūrǧ_2.2,entry_æfsūrǧ_2,,2,,False,"вода, прибавляемая к %sk’umæl%s (бузе)",
 sense_æfsūrǧ_2.3,entry_æfsūrǧ_2,,3,,False,раствор золы при изготовлении мыла (= %ifænykdon%i),ash solution when making soap (=%ifænykdon%i)
 sense_æfsūrǧ_2.4,entry_æfsūrǧ_2,,4,,False,первый фильтрат при варке пива,first filtrate when brewing beer
@@ -4145,7 +4145,7 @@ sense_d3060e76,entry_æfxalyn,,,,False,повреждать,to damage
 sense_d3063e69,entry_xælæf,,,,False,,
 sense_d3064e69,entry_araq,,,,False,водка,vodka
 sense_d3065e69,entry_majræmbon,,,,False,пятница,Friday
-sense_d3066e72,entry_gærnadur,,,,True,название плотной шелковой материи,the name of dense silk fabric
+sense_d3066e72,entry_gærnadur,,,,False,,
 sense_d3067e74,entry_rewun,,,,False,рыгать,burp
 sense_d3068e75,entry_ræǧæjmag,,,sense_d3068e74,False,лучший,best
 sense_d3068e84,entry_ræǧæjmag,,,sense_d3068e74,False,самый выдающийся,most prominent
@@ -4180,7 +4180,7 @@ sense_d3093e69,entry_særmæbuntæj,,,,False,,
 sense_d3094e74,entry_ʒegen,,,,False,тростниковая циновка,reed mat
 sense_d3095e73,entry_majmaiddær,,,sense_d3095e72,False,никоим образом,in no way
 sense_d3095e82,entry_majmaiddær,,,sense_d3095e72,False,никогда,never
-sense_d3096e72,entry_īs-,,,,True,в составе неопределенных местоимений и наречий:,a part of indefinite pronouns and adverbs:
+sense_d3096e72,entry_īs-,,,,False,,
 sense_d3097e72,entry_Būrxoraly,,,,False,божество хлебных злаков и урожая,a deity of cereals and harvest
 sense_d3099e69,entry_wæzqūs,,,,False,,
 sense_d3100e69,entry_wafs,,,,False,,
@@ -4329,7 +4329,7 @@ sense_d3207e70,entry_kʼaddær,,,sense_d3207e69,False,меньший,the least
 sense_d3207e79,entry_kʼaddær,,,sense_d3207e69,False,меньше,less
 sense_d3208e73,entry_ran,,,sense_d3208e72,False,место,place
 sense_d3208e82,entry_ran,,,sense_d3208e72,False,положение,position
-sense_d3209e69,entry_Nartamongæ,,,,True,чудесная чаша Нартов,wonderful cup of the Narts
+sense_d3209e69,entry_Nartamongæ,,,,False,,
 sense_d3210e73,entry_cʼymara,,,sense_d3210e72,False,топь,bog
 sense_d3210e82,entry_cʼymara,,,sense_d3210e72,False,грязь,dirt
 sense_d3210e91,entry_cʼymara,,,sense_d3210e72,False,болото,swamp
@@ -4384,7 +4384,7 @@ sense_d3252e69,entry_sæw6w9on,,,,False,,
 sense_d3253e69,entry_sampal,,,,False,,
 sense_d3254e72,entry_īskæd,,,,False,когда-нибудь,some time
 sense_d3255e69,entry_7xsynyn,,,,False,,
-sense_d3256e69,entry_maqari,os-x-digor,,,False,первый шафер,first
+sense_d3256e69,entry_maqari,os-x-digor,,,False,первый шафер,first best man
 sense_d3257e70,entry_cæj,,,sense_d3257e69,False,ну,well
 sense_d3257e79,entry_cæj,,,sense_d3257e69,False,ну-ка,come on
 sense_d3259e73,entry_qæræj,,,sense_d3259e72,False,громко,loudly
@@ -4607,7 +4607,7 @@ sense_d3427e91,entry_fælm,,,sense_d3427e72,False,сухой туман,dry fog
 sense_d3428e73,entry_fætkʼ0y,,,sense_d3428e72,False,яблоко,apple
 sense_d3428e82,entry_fætkʼ0y,,,sense_d3428e72,False,яблоня,apple tree
 sense_d3429e69,entry_xæstæǧnæg,,,,False,,
-sense_d3430e69,entry_ræxsæn,,,,False,"ремешок, из которого плетется подошва горной обуви",a strap from which the sole of a mountain shoe
+sense_d3430e69,entry_ræxsæn,,,,False,"ремешок, из которого плетется подошва горной обуви ærḱʼī",a strap from which the sole of a mountain shoe ærḱʼī
 sense_d3432e73,entry_cūr,,,sense_d3432e72,False,возле,near
 sense_d3432e82,entry_cūr,,,sense_d3432e72,False,около,around
 sense_d3433e69,entry_Sidæmon,,,,False,,
@@ -4738,7 +4738,7 @@ sense_d3523e102,entry_galwan,,,sense_d3523e74,False,дворец,palace
 sense_d3524e69,entry_tuskʼa,,,,False,,
 sense_d3525e73,entry_kæmpustæg,,,sense_d3525e72,False,ничтожный,vain
 sense_d3525e82,entry_kæmpustæg,,,sense_d3525e72,False,дрянной,worthless
-sense_d3526e70,entry_réwa,,,sense_d3526e69,True,персонаж детской песни,character of a children’s song
+sense_d3526e70,entry_réwa,,,sense_d3526e69,False,,
 sense_d3526e75,entry_réwa,,,sense_d3526e69,False,бес,demon
 sense_d3526e84,entry_réwa,,,sense_d3526e69,False,домовой,household spirit
 sense_d3528e72,entry_ǧædæræxsnæg,os-x-digor,,sense_d3528e69,False,дух лесов,woodland spirit
@@ -4774,7 +4774,7 @@ sense_d3550e82,entry_ærræstæ,,,sense_d3550e72,False,точно,precisely
 sense_d3550e91,entry_ærræstæ,,,sense_d3550e72,False,как раз,exactly
 sense_d3553e69,entry_si,,,,False,,
 sense_d3554e69,entry_talǧær,,,,False,,
-sense_d3555e69,entry_kʼoti,,,,True,"название болезни, при которой тело покрывается струпьями",name of a disease which causes the body to be covered with scabs
+sense_d3555e69,entry_kʼoti,,,,False,,
 sense_d3557e69,entry_zægæl,,,,False,,
 sense_d3558e69,entry_wazægdon,,,,False,,
 sense_d3559e73,entry_ræwagæ,,,sense_d3559e72,False,повод,cause
@@ -4834,10 +4834,10 @@ sense_d3603e72,entry_Rom,,,sense_d3603e71,False,Рим,Rome
 sense_d3603e81,entry_Rom,,,sense_d3603e71,False,Константинополь (Византия),Constantinople (Byzantium)
 sense_d3604e69,entry_xædʒyrǧ,,,,False,,
 sense_d3605e69,entry_widon,,,,False,,
-sense_d3606e72,entry_īw_2,,,,True,"частица, придающая глаголу значение многократности, обычности, а при повелительной форме — значение будущего времени","a particle, which contributes the meaning of pluractionality and habituality to the verb, and the meaning of future tense in imperatives"
+sense_d3606e72,entry_īw_2,,,,False,,
 sense_d3607e72,entry_cīcyr,,,,False,цесарка,guinea fowl
 sense_d3608e69,entry_syʒ,,,,False,,
-sense_d3610e69,entry_ællæx1,,,,True,"восклицание боли, ужаса; при удвоении (%iællæx-ællæx!%i) также удивления, иронии и пр","an exclamation of pain or horror; with reduplication (%iællæx-ællæx!%i) also of surprise, irony etc"
+sense_d3610e69,entry_ællæx1,,,,False,,
 sense_d3611e69,entry_sænæfsīr,,,,False,,
 sense_d3612e75,entry_qaraǧul,,,sense_d3612e74,False,стража,guards
 sense_d3612e84,entry_qaraǧul,,,sense_d3612e74,False,караул,sentry
@@ -4879,7 +4879,7 @@ sense_d3644e69,entry_soqq0yr,,,,False,,
 sense_d3645e72,entry_dyqūsyg,,,,False,котел с двумя ушками,cauldron with two holders
 sense_d3646e69,entry_tyxæj,,,,False,,
 sense_d3647e69,entry_sqīs,,,,False,,
-sense_d3648e72,entry_būrdym,,,,True,название какой-то птицы,the name of a bird
+sense_d3648e72,entry_būrdym,,,,False,,
 sense_d3650e72,entry_mærdx0yst,,,,False,мертвый сон,deathly sleep
 sense_d3651e69,entry_sæʒyn,,,,False,,
 sense_d3652e69,entry_tyrǧ,,,,False,,
@@ -5023,7 +5023,7 @@ sense_d3748e75,entry_læg0yn,,,sense_d3748e74,False,бесшерстный,wooll
 sense_d3748e84,entry_læg0yn,,,sense_d3748e74,False,безволосый,hairless
 sense_d3748e93,entry_læg0yn,,,sense_d3748e74,False,голый,naked
 sense_d3748e102,entry_læg0yn,,,sense_d3748e74,False,облезлый,mangy
-sense_d3748e114,entry_læg0yn,,,sense_d3748e74,False,лишенный растительности,lacking
+sense_d3748e114,entry_læg0yn,,,sense_d3748e74,False,лишенный растительности,lacking hair growth
 sense_d3749e69,entry_son,,,,False,,
 sense_d3751e73,entry_ænxwæcæj,,,sense_d3751e72,False,целиком,wholly
 sense_d3751e82,entry_ænxwæcæj,,,sense_d3751e72,False,все вместе,all together
@@ -5175,13 +5175,13 @@ sense_d3863e69,entry_sson,,,,False,,
 sense_d3864e69,entry_wasyn_1,,,,False,,
 sense_d3865e72,entry_erdo,,,,False,отверстие в плоской крыше сакли для выхода дыма,smoke hatch in a flat roof of a saklya (Caucasian mountain hut)
 sense_d3866e72,entry_meret,,,,False,имеретины,Imeretians
-sense_d3867e72,entry_bal_3,,,,True,(частица),(particle)
+sense_d3867e72,entry_bal_3,,,,False,,
 sense_d3868e69,entry_syx0yl,,,,False,,
 sense_d3870e74,entry_lækʼīr,,,,False,мякина,chaff
 sense_d3871e74,entry_lixsun,,,,False,плевать,spit
 sense_d3872e72,entry_mærdaʒ,,,,False,обрядовое оплакивание покойника,ritual bemoaning over the deceased
 sense_d3873e69,entry_zondamonæg,,,,False,,
-sense_d3874e69,entry_Mīǧdaw,,,,False,божество (,deity (
+sense_d3874e69,entry_Mīǧdaw,,,,False,"божество (), почитавшееся в особенности в Алагирском ущелье",deity () that used to be especially venerated in the Alagir gorge
 sense_d3875e69,entry_x0ycaw,,,,False,,
 sense_d3876e73,entry_mæng,,,sense_d3876e72,False,ложный,false
 sense_d3876e82,entry_mæng,,,sense_d3876e72,False,мнимый,imaginary
@@ -5346,7 +5346,7 @@ sense_d3987e97,entry_akkag,,,sense_d3987e69,False,должный,proper
 sense_d3987e106,entry_akkag,,,sense_d3987e69,False,соответствующий,suitable
 sense_d3987e115,entry_akkag,,,sense_d3987e69,False,впору,
 sense_d3988e69,entry_satalæ,,,,False,,
-sense_d3989e72,entry_iḱʼyna,,,,True,название старого осеннего праздника; справлялся в сентябре (,the name of an old autumn holiday; it was celebrated in September (
+sense_d3989e72,entry_iḱʼyna,,,,False,,
 sense_d3990e73,entry_erǵen,,,sense_d3990e72,False,рогожа,bast mat
 sense_d3990e82,entry_erǵen,,,sense_d3990e72,False,циновка,floor mat
 sense_d3991e69,entry_synʒærx,,,,False,,
@@ -5452,7 +5452,7 @@ sense_d4067e69,entry_tyx,,,,False,,
 sense_d4068e72,entry_agæværd,,,,False,установка котла,kettle installation
 sense_d4069e69,entry_sundækʼæ,,,,False,,
 sense_d4070e69,entry_særmesinʒægmæ,,,,False,,
-sense_d4071e72,entry_Atynæg,,,,True,"летний праздник перед началом сенокоса; связан, по-видимому, со старым растительным культом; более известен у осетин, живущих по Военно-Грузинской дороге (сел. Коби), и у соседящих с ними грузинских племен, хевсур, пшавов, мохевцев, под названием (","summer holiday before haymaking; associated, apparently, with an old plant cult; better known among the Ossetians living along the Georgian Military Road (village Kobi), and among the neighboring Georgian tribes, Khevsurs, Pshavs, Mokhevtsy, by the name of"
+sense_d4071e72,entry_Atynæg,,,,False,,
 sense_d4072e73,entry_ærǧæ,,,sense_d4072e72,False,глина,clay
 sense_d4072e82,entry_ærǧæ,,,sense_d4072e72,False,ил,silt
 sense_d4073e73,entry_7rtaw,,,sense_d4073e72,False,крупица,grain
@@ -5483,8 +5483,8 @@ sense_d4089e69,entry_xædætepxæ,,,,False,,
 sense_d4091e69,entry_tyng,,,,False,,
 sense_d4092e72,entry_qajmaq,,,,False,сливки,cream
 sense_d4093e69,entry_sænykk,,,,False,,
-sense_d4094e80,entry_7rǧævyn,,1,sense_d4094e79,False,"схватив, поднять (",grab and lift (
-sense_d4094e107,entry_7rǧævyn,,1,sense_d4094e79,False,подсаживать,help sb into/on(to)
+sense_d4094e80,entry_7rǧævyn,,1,sense_d4094e79,False,"схватив, поднять (særǧævyn), опустить (ærærǧævyn), переместить (arǧævyn, barǧævyn)","grab and lift (særǧævyn), put down (ærærǧævyn), move (arǧævyn, barǧævyn)"
+sense_d4094e107,entry_7rǧævyn,,1,sense_d4094e79,False,подсаживать,help sb into/on(to) sth
 sense_d4094e120,entry_7rǧævyn,,1,sense_d4094e79,False,поднимать,lift
 sense_d4094e129,entry_7rǧævyn,,1,sense_d4094e79,False,взваливать,load
 sense_d4094e138,entry_7rǧævyn,,1,sense_d4094e79,False,взводить курок,cock (a gun)
@@ -5508,7 +5508,7 @@ sense_d4104e72,entry_cʼæxxos,,,,False,медный купорос,blue-stone
 sense_d4105e73,entry_æbwalǧ,,,sense_d4105e72,False,чудовищный,monstrous
 sense_d4105e82,entry_æbwalǧ,,,sense_d4105e72,False,гнусный,vile
 sense_d4106e69,entry_særdyn,,,,False,,
-sense_d4107e72,entry_nærv,,,,False,"деревянное орудие, с помощью которого мнут и размягчают кожу",a wooden tool used to
+sense_d4107e72,entry_nærv,,,,False,"деревянное орудие, с помощью которого мнут и размягчают кожу",a wooden tool used to crumple and soften the skin
 sense_d4107e87,entry_nærv,,,,False,кожемялка,leather grinder
 sense_d4108e69,entry_sald,,,,False,,
 sense_d4109e72,entry_qæd_2,,,,False,качество,quality
@@ -5525,12 +5525,12 @@ sense_d4117e88,entry_eǧaw,,,sense_d4117e78,False,большой,large
 sense_fældīsyn.1,entry_fældīsyn,,1,,False,творить,create
 sense_fældīsyn.2,entry_fældīsyn,,2,,False,посвящать покойнику,dedicate to the dead
 sense_d4120e69,entry_wædært6t9,,,,False,,
-sense_d4121e69,entry_Æfsatī,,,,True,"бог охоты, „хозяин“ лесных зверей, которые зовутся %iÆysatijy fos%i „скот Афсати“; ему молились охотники о счастливой охоте. В посвященных ему народных песнях Афсати рисуется как покровитель бедных охотников. Одна из таких песен блестяще обработана осетинским народным .поэтом Коста. —","the deity of hunting, “master” of forest animals, which are called %iÆysatijy fos%i “Afsati's cattle”; the hunters prayed to him for a happy hunt. In folk songs dedicated to him, Afsati is portrayed as the patron saint of poor hunters. One of these songs is brilliantly adapted by the Ossetian folk poet Kosta."
+sense_d4121e69,entry_Æfsatī,,,,False,,
 sense_d4122e72,entry_dæltʼūr,,,,False,место у очага,place near the fireplace
 sense_d4123e75,entry_rægænun,,,sense_d4123e74,False,сыпать,pour
 sense_d4123e84,entry_rægænun,,,sense_d4123e74,False,посыпать,sprinkle
 sense_d4124e69,entry_xaltʼama,,,,False,,
-sense_d4125e72,entry_Būræfærnyg,,,,True,"собственное имя одного из видных героев нартовского эпоса, родоначальника фамилии %iBorætæ%i","the proper name of one of the eminent heroes of the Nart epos, the ancestor of the family name %iBorætæ%i"
+sense_d4125e72,entry_Būræfærnyg,,,,False,,
 sense_d4126e69,entry_wæl-,,,,False,,
 sense_d4127e70,entry_fæstæmæ,,,sense_d4127e69,False,назад,backwards
 sense_d4127e79,entry_fæstæmæ,,,sense_d4127e69,False,обратно,back
@@ -5625,7 +5625,7 @@ sense_d4189e69,entry_wælængaj,,,,False,,
 sense_d4190e69,entry_særzad,,,,False,,
 sense_d4191e74,entry_mycʼa,,,,False,топаз,topaz
 sense_d4192e69,entry_sabi,,,,False,,
-sense_d4193e69,entry_dodoj,,,,True,"возглас угрозы, ужаса","exclamation of threat, horror"
+sense_d4193e69,entry_dodoj,,,,False,,
 sense_d4194e73,entry_ʒyǧ0yr,,,sense_d4194e72,False,пестрый,mottle
 sense_d4194e82,entry_ʒyǧ0yr,,,sense_d4194e72,False,полосатый,striped
 sense_d4194e91,entry_ʒyǧ0yr,,,sense_d4194e72,False,пятнистый,spotted
@@ -5644,15 +5644,15 @@ sense_d4204e73,entry_īwdaʒyg,,,sense_d4204e72,False,постоянно,constan
 sense_d4204e82,entry_īwdaʒyg,,,sense_d4204e72,False,все время,always
 sense_d4204e91,entry_īwdaʒyg,,,sense_d4204e72,False,раз навсегда,once and for all
 sense_d4205e69,entry_fæsawwon,,,,False,за глаза,behind one's back
-sense_d4207e69,entry_Borætæ,,,,True,одна из трех виднейших нартовских -фамилий в осетинском эпосе,one of the three most prominent Nart clans in the Ossetic epics
+sense_d4207e69,entry_Borætæ,,,,False,,
 sense_d4208e74,entry_qasbaq,,,,False,навес,tent
 sense_d4211e73,entry_bæston,,,sense_d4211e72,False,основательный,thorough
 sense_d4211e82,entry_bæston,,,sense_d4211e72,False,основательно,thoroughly
 sense_d4212e69,entry_tynʒyn_1,,,,False,,
 sense_d4213e76,entry_mækʼ0yl,,,sense_d4213e75,False,копна,stook
 sense_d4213e88,entry_mækʼ0yl,os-x-digor,,sense_d4213e75,False,"копна ячменя, пшеницы","stook of barley, wheat"
-sense_d4215e70,entry_rag,,,sense_d4215e69,False,ранний,early
-sense_d4215e83,entry_rag,,,sense_d4215e69,False,рано,early
+sense_d4215e70,entry_rag,,,sense_d4215e69,False,ранний,early (adj.)
+sense_d4215e83,entry_rag,,,sense_d4215e69,False,рано,early (adv.)
 sense_d4215e96,entry_rag,,,sense_d4215e69,False,давно,long ago
 sense_d4216e73,entry_ærdīag,,,sense_d4216e72,False,вопли,howl
 sense_d4216e82,entry_ærdīag,,,sense_d4216e72,False,рыдание,sobbing
@@ -5665,7 +5665,7 @@ sense_d4218e93,entry_rīvad,,,sense_d4218e74,False,лишенный чего-л�
 sense_d4219e73,entry_cavær,,,sense_d4219e72,False,какой?,which?
 sense_d4219e82,entry_cavær,,,sense_d4219e72,False,что за?,what kind?
 sense_d4220e69,entry_tæbækk,,,,False,,
-sense_d4221e69,entry_æ-,,,,True,негативная частица (α privativum),negative particle (α privativum)
+sense_d4221e69,entry_æ-,,,,False,,
 sense_d4222e69,entry_xwinyn,,,,False,,
 sense_d4224e73,entry_bilcʼ,,,sense_d4224e72,False,побег,shoot
 sense_d4224e82,entry_bilcʼ,,,sense_d4224e72,False,почка (у растения),bud
@@ -5725,7 +5725,7 @@ sense_d4260e72,entry_kʼūbal,,,,False,шея,neck
 sense_d4260e85,entry_kʼūbal,os-x-digor,,sense_d4260e82,False,голова,head
 sense_d4260e94,entry_kʼūbal,os-x-digor,,sense_d4260e82,False,головка,small head
 sense_d4261e69,entry_turk,,,,False,,
-sense_d4262e72,entry_kasūtæ,,,,True,"название весеннего праздника, когда молодых невесток водят к реке и молятся о рождении потомства","the name of the spring holiday, when young daughters-in-law are taken to the river to pray for the birth of offsprings."
+sense_d4262e72,entry_kasūtæ,,,,False,,
 sense_d4263e76,entry_ælvīsyn,,,,False,прясть,spin
 sense_d4265e75,entry_ǵīʒæg,,,sense_d4265e74,False,шалость,prank
 sense_d4265e84,entry_ǵīʒæg,,,sense_d4265e74,False,баловство,naughtiness
@@ -5867,7 +5867,7 @@ sense_d4353e76,entry_najyn,os-x-iron,1,,False,купать,bathe smb.
 sense_d4353e91,entry_najyn,os-x-digor,2,sense_d4353e88,False,переходить вброд,"cross by a ford, wade"
 sense_d4353e100,entry_najyn,os-x-digor,2,sense_d4353e88,False,плавать на судне,sail on a boat
 sense_d4354e72,entry_lalym,,,,False,бурдюк,waterskin
-sense_d4355e74,entry_ræsændæg,,,,False,"затор араки, браги во время брожения",blocking
+sense_d4355e74,entry_ræsændæg,,,,False,"затор араки, браги во время брожения",blocking for alcohol during fermentation
 sense_d4356e69,entry_yzgæ,,,,False,,
 sense_d4357e72,entry_kʼokʼosa,,,,False,шишка,bump
 sense_d4358e69,entry_bajrag,,,,False,жеребенок,foal
@@ -5879,7 +5879,7 @@ sense_d4363e70,entry_qaun,,,sense_d4363e69,False,род,genus
 sense_d4363e79,entry_qaun,,,sense_d4363e69,False,племя,tribe
 sense_d4363e88,entry_qaun,,,sense_d4363e69,False,поколение,generation
 sense_d4365e72,entry_fydvæd,,,,False,имеющий неудачное потомство,having unsuccessful offspring
-sense_d4366e72,entry_g0ydyn,,,,True,"большой пирог, большой чурек, приготовляемый в особых случаях: для засватанной невесты, на праздник новорожденных мальчиков (%ikæxcgænæn%i [см.","big pie, big bread prepared on special occasions: for a bride, for a holiday of newborn boys (%ikæxcgænæn%i [see"
+sense_d4366e72,entry_g0ydyn,,,,False,,
 sense_d4367e73,entry_roxst,,,sense_d4367e72,False,растерянный,confused
 sense_d4367e82,entry_roxst,,,sense_d4367e72,False,ошалелый,crazed
 sense_d4368e72,entry_nīḱī,,,,False,никто,nobody
@@ -6046,7 +6046,7 @@ sense_d4475e70,entry_nomxæssæn,,,sense_d4475e69,False,прославленны
 sense_d4475e79,entry_nomxæssæn,,,sense_d4475e69,False,неслыханный,incredible
 sense_d4476e72,entry_qūsxīlæg,,,,False,мокрица,woodlouse
 sense_d4477e69,entry_syl_2,,,,False,,
-sense_d4478e69,entry_Eltaǧan,,,,True,имя великана в нартовском эпосе,the name of the giant in the Nart epic
+sense_d4478e69,entry_Eltaǧan,,,,False,,
 sense_ḱʼyssæ.1,entry_ḱʼyssæ,os-x-iron,1,,False,детские изготовления из теста,things that children make from dough
 sense_ḱʼyssæ.2,entry_ḱʼyssæ,os-x-digor,2,,False,тесто,dough
 sense_d4480e73,entry_7rǧævæg,,,sense_d4480e72,False,пряжка,buckle
@@ -6127,7 +6127,7 @@ sense_d4538e82,entry_ræwonæ,,,sense_d4538e72,False,предлог,pretext
 sense_d4538e91,entry_ræwonæ,,,sense_d4538e72,False,вид,guise
 sense_d4539e73,entry_dīsny,,,sense_d4539e72,False,пядь (мера длины),span (long measure)
 sense_d4539e82,entry_dīsny,,,sense_d4539e72,False,расстояние между концами большого пальца и мизинца раздвинутой руки,the distance between the ends of the thumb and little finger of the spread palm
-sense_d4540e73,entry_Batraz,,,,True,"один из виднейших героев осетинского (нартовского) эпоса, сын Хамица, герой, закаленный в небесной кузнице, неуязвимый и непобедимый; погибает в борьбе с небесными силами.","one of the mоst eminent heroes of the Ossetic (Nart) epics, son of Khamits, hero which was experienced in the celestial smithery, invulnerable and invincible; dies during the fight with the celestial forces."
+sense_d4540e73,entry_Batraz,,,,False,,
 sense_d4541e72,entry_dongæmttæ,,,,False,углы губ,lip corners
 sense_d4542e69,entry_tar_1,,,,False,,
 sense_d4543e69,entry_capwal,,,,False,бег лошади,horse race
@@ -6200,7 +6200,7 @@ sense_d4591e95,entry_amajyn,,,sense_d4591e76,False,строить,build
 sense_d4591e104,entry_amajyn,,,sense_d4591e76,False,стругать,chip
 sense_d4593e72,entry_færzew,,,,False,угощенье,refreshments
 sense_d4595e69,entry_saxar,,,,False,,
-sense_d4596e72,entry_kæsæmīr,,,,True,название высоко ценимой шерстяной ткани,name of highly valued fabric
+sense_d4596e72,entry_kæsæmīr,,,,False,,
 sense_d4597e69,entry_8xūtæg,,,,False,,
 sense_d4598e75,entry_pysyra,,,sense_d4598e74,False,крапива,nettle
 sense_d4598e84,entry_pysyra,,,sense_d4598e74,False,Utrica urens,Utrica urens
@@ -6209,7 +6209,7 @@ sense_d4601e74,entry_æjkʒæg,,,,False,яичник (у птиц),ovary (birds)
 sense_d4602e71,entry_put,,,,False,пуд,pound
 sense_d4603e71,entry_ragwalʒæg,,,,False,ранняя весна,early spring
 sense_d4604e90,entry_lasæn,,1,,False,"путь, по которому с горы вниз сволакиваются сено, лес, дрова","the path by which hay, wood are dragged down the mountain"
-sense_d4604e100,entry_lasæn,,2,,False,"то, чем что-либо тащут, извлекают и пр.",an object
+sense_d4604e100,entry_lasæn,,2,,False,"то, чем что-либо тащут, извлекают и пр.","an object with which smth. is pulled, dragged, taken out etc."
 sense_d4604e154,entry_lasæn,,3,,False,"процесс везения, волочения (сена и пр.)","the process of carrying, dragging (hay etc.)"
 sense_d4605e69,entry_znyǧ,,,,False,,
 sense_d4607e69,entry_tabyrǯan,,,,False,,
@@ -6328,7 +6328,7 @@ sense_d4697e94,entry_kocora,,,sense_d4697e75,False,кисть на башлык�
 sense_d4698e73,entry_dyson,,,sense_d4698e72,False,вчера ночью,last night
 sense_d4698e82,entry_dyson,,,sense_d4698e72,False,вчера вечером,yesterday evening
 sense_d4699e72,entry_mīt,,,,False,снег,snow
-sense_d4700e53,entry_Macxari,,,,True,название святилища,name of a sanctuary
+sense_d4700e53,entry_Macxari,,,,False,,
 sense_d4701e77,entry_fælgæsyn,,,sense_d4701e76,False,смотреть,look
 sense_d4701e86,entry_fælgæsyn,,,sense_d4701e76,False,наблюдать,watch
 sense_d4701e95,entry_fælgæsyn,,,sense_d4701e76,False,обозревать,survey
@@ -6365,7 +6365,7 @@ sense_d4723e73,entry_rævʒ,,,sense_d4723e72,False,готовый,ready
 sense_d4723e82,entry_rævʒ,,,sense_d4723e72,False,исправный,operable
 sense_d4723e91,entry_rævʒ,,,sense_d4723e72,False,снаряженный,equipped
 sense_d4723e100,entry_rævʒ,,,sense_d4723e72,False,снабженный всем необходимым,equipped with everything you need
-sense_d4724e72,entry_fændyr,,,,True,название различных музыкальных инструментов,name of various musical instruments
+sense_d4724e72,entry_fændyr,,,,False,,
 sense_d4725e77,entry_irtasyn,,,sense_d4725e76,False,отделять,to separate
 sense_d4725e86,entry_irtasyn,,,sense_d4725e76,False,различать,to distinguish
 sense_d4725e95,entry_irtasyn,,,sense_d4725e76,False,отбирать,to select
@@ -6439,7 +6439,7 @@ sense_d4763e74,entry_læværdton,,,,False,я давал,I gave
 sense_d4766e69,entry_x0yzæn,,,,False,,
 sense_d4767e69,entry_særfyn,,,,False,,
 sense_d4768e69,entry_wyng,,,,False,,
-sense_d4771e69,entry_Avdīwag,,,,True,название какого-то божества в эпосе,the name of a deity in the epics
+sense_d4771e69,entry_Avdīwag,,,,False,,
 sense_d4772e70,entry_qal_1,,,sense_d4772e69,False,заносчивый,arrogant
 sense_d4772e79,entry_qal_1,,,sense_d4772e69,False,спесивый,haughty
 sense_d4772e88,entry_qal_1,,,sense_d4772e69,False,гордый,proud
@@ -6501,7 +6501,7 @@ sense_d4824e69,entry_sūl,,,,False,,
 sense_d4825e69,entry_sīryn,,,,False,,
 sense_d4826e69,entry_kært,,,,False,двор,yard
 sense_d4827e69,entry_wælaryng,,,,False,,
-sense_d4828e72,entry_q0ytty,,,,True,в выражениях,in the expressions
+sense_d4828e72,entry_q0ytty,,,,False,,
 sense_d4829e69,entry_wal_2,,,,False,,
 sense_d4831e73,entry_æddæmæ,,,sense_d4831e72,False,наружу,outward
 sense_d4831e82,entry_æddæmæ,,,sense_d4831e72,False,кроме,besides
@@ -6523,7 +6523,7 @@ sense_d4846e81,entry_kʼobala,,,sense_d4846e71,False,дубина,cudgel
 sense_d4849e69,entry_xyncyn_2,,,,False,,
 sense_d4851e69,entry_wīdag,,,,False,,
 sense_d4852e69,entry_tatuk,,,,False,,
-sense_d4853e72,entry_cid,,,,True,"частица, выражающая повторность или многократность действия",particle expressing repetition or frequency of action
+sense_d4853e72,entry_cid,,,,False,,
 sense_d4855e69,entry_sæxī,,,,False,,
 sense_d4856e73,entry_dyvzagon,,,sense_d4856e72,False,двуязычный,bilibgual
 sense_d4856e82,entry_dyvzagon,,,sense_d4856e72,False,"ненадежный, двуличный, фальшивый человек","unreliable, two-faced, fake person"
@@ -6575,12 +6575,12 @@ sense_d4889e73,entry_kʼærta,,,sense_d4889e72,False,деревянное вед
 sense_d4889e82,entry_kʼærta,,,sense_d4889e72,False,подойник,milk-pail
 sense_d4890e69,entry_wætær,,,,False,,
 sense_d4891e71,entry_o_1,,,,False,да,yes
-sense_d4892e72,entry_i,,,,True,препозитивный определенный артикль,prepositive definite article
+sense_d4892e72,entry_i,,,,False,,
 sense_d4893e69,entry_xæston,,,,False,,
 sense_d4894e69,entry_x0ysar_2,,,,False,,
 sense_d4895e69,entry_tærf,,,,False,,
 sense_d4896e71,entry_mælek,,,,False,ангел,angel
-sense_d4897e72,entry_donzænk,,,,True,название одной съедобной травы,the name of one edible herb
+sense_d4897e72,entry_donzænk,,,,False,,
 sense_d4899e69,entry_særystyr,,,,False,,
 sense_d4900e69,entry_sykʼa,,,,False,,
 sense_d4901e70,entry_fælʒæǧdæn,,,sense_d4901e69,False,снегопад с ветром,snowfall with wind
@@ -6678,7 +6678,7 @@ sense_d4968e88,entry_kʼæbær,,,sense_d4968e69,False,каравай,round loaf
 sense_d4968e97,entry_kʼæbær,,,sense_d4968e69,False,кусок хлеба,piece of bread
 sense_d4969e69,entry_7xsævbadæn,,,,False,,
 sense_d4970e72,entry_jæfs,,,,False,кобыла,mare
-sense_d4971e69,entry_Naf,,,,True,название божества и праздника,name of a deity and holiday
+sense_d4971e69,entry_Naf,,,,False,,
 sense_d4971e75,entry_Naf,,,,False,неделя пиршества,week of feasting
 sense_d4972e69,entry_senta,,,,False,,
 sense_d4973e72,entry_ʒaǧyr,,,,False,широко раскрытые устремленные на что-либо глаза,wide open eyes looking at smth
@@ -6693,7 +6693,7 @@ sense_d4981e81,entry_naxætbos,,,sense_d4981e71,False,,
 sense_d4982e73,entry_fæsūs,,,sense_d4982e72,False,осиплый,hoarse
 sense_d4982e82,entry_fæsūs,,,sense_d4982e72,False,охриплый,husky
 sense_d4982e91,entry_fæsūs,,,sense_d4982e72,False,осиплость,hoarseness
-sense_d4983e69,entry_caǧdi6j9,,,,True,порода кабардинских кровных лошадей,breed of Kabardian blooded horses
+sense_d4983e69,entry_caǧdi6j9,,,,False,,
 sense_d4985e69,entry_wajtaǧd,,,,False,,
 sense_d4987e72,entry_nostæ,,,,False,невестка,daughter-in-law
 sense_d4988e69,entry_wæzgæ,,,,False,,
@@ -6924,7 +6924,7 @@ sense_d5165e69,entry_8zal-ty,,,,False,,
 sense_d5166e75,entry_onaj,,,,False,,
 sense_d5168e69,entry_ærvgæ,,,,False,ласка (животное),weasel
 sense_d5169e74,entry_q0ylyg,,,,False,маслобойка,butter churn
-sense_d5170e72,entry_mæxstættæ,,,,True,форма мн. ч. от неупотр.,pl. form of not current
+sense_d5170e72,entry_mæxstættæ,,,,False,,
 sense_d5173e77,entry_īrǧævyn,,,sense_d5173e76,False,разнимать (дерущихся),to part (of scramblers)
 sense_d5173e86,entry_īrǧævyn,,,sense_d5173e76,False,защищать,to defend
 sense_d5174e72,entry_rūxsʒyd,,,,False,прозрачный,transparent
@@ -6950,7 +6950,7 @@ sense_d5185e82,entry_ædonug,,,sense_d5185e72,False,жаждущий,thirsty
 sense_d5186e69,entry_xætæg-xawæg,,,,False,,
 sense_d5187e69,entry_xarʒ_1,,,,False,,
 sense_d5188e69,entry_tækkwæl,,,,False,,
-sense_d5189e69,entry_misxal,,,,True,золотник,a measure of weight
+sense_d5189e69,entry_misxal,,,,False,золотник,
 sense_d5190e69,entry_wadīssag,,,,False,,
 sense_d5191e69,entry_was-_1,,,,False,,
 sense_d5192e69,entry_tærgajgænag,,,,False,,
@@ -7141,7 +7141,7 @@ sense_d5336e69,entry_sasug,,,,False,,
 sense_d5337e72,entry_ærʒong,,,,False,"часть оси, находящаяся в колесе",a part of wheel axle
 sense_d5338e75,entry_læǵirttæg,,,sense_d5338e74,False,гречишка,buckwheat
 sense_d5338e84,entry_læǵirttæg,,,sense_d5338e74,False,горец альпийский,alpine knotweed
-sense_d5338e93,entry_læǵirttæg,,,sense_d5338e74,False,Polygonum alpinum,
+sense_d5338e93,entry_læǵirttæg,,,sense_d5338e74,False,Polygonum alpinum,Polygonum alpinum
 sense_d5339e72,entry_æmǧ0yd,,,,False,срок,"term, deadline"
 sense_d5340e69,entry_sre,,,,False,,
 sense_d5341e69,entry_sænttæ,,,,False,,
@@ -7183,8 +7183,8 @@ sense_d5370e77,entry_puxcæ_1,,,sense_d5370e76,False,водоворот,maelstor
 sense_d5370e96,entry_puxcæ_1,,,sense_d5370e76,False,"места, размытые дождевыми потоками",places washed away by rain flows
 sense_d5371e69,entry_tællæx,,,,False,,
 sense_d5372e69,entry_zyndgond,,,,False,,
-sense_d5374e72,entry_Ag0yr,,,,True,название легендарного народа в нартовском эпосе,the name of a legendary people in the Nart epics
-sense_d5375e69,entry_caca,,,,True,платье (на „детском“ языке),dress (in “child” language)
+sense_d5374e72,entry_Ag0yr,,,,False,,
+sense_d5375e69,entry_caca,,,,False,,
 sense_d5376e69,entry_zundgin,,,,False,,
 sense_d5377e72,entry_mæjxor,,,,False,пожиратель луны,moon-eater
 sense_d5378e71,entry_æddijaw,,,,False,поодаль,at a distance
@@ -7320,7 +7320,7 @@ sense_d5463e73,entry_kʼælæs,,,sense_d5463e72,False,причудливый и�
 sense_d5463e82,entry_kʼælæs,,,sense_d5463e72,False,кривизна,crookedness
 sense_d5463e91,entry_kʼælæs,,,sense_d5463e72,False,загогулина,squiggle
 sense_d5464e72,entry_lacin,,,,False,сокол,falcon
-sense_d5465e72,entry_lystæn,,,,False,подстилка,"bedding,"
+sense_d5465e72,entry_lystæn,,,,False,подстилка,"bedding, litter"
 sense_d5466e77,entry_fællajyn,,,sense_d5466e76,False,уставать,get tired
 sense_d5466e86,entry_fællajyn,,,sense_d5466e76,False,утомляться,fatigue
 sense_d5467e69,entry_Sawbaræg,,,,False,,
@@ -7441,7 +7441,7 @@ sense_d5542e73,entry_aslam,,,sense_d5542e72,False,дешевый,cheap
 sense_d5542e82,entry_aslam,,,sense_d5542e72,False,дешево,cheaply
 sense_d5543e69,entry_sælfyn,,,,False,,
 sense_d5544e69,entry_ūdybæstæ,,,,False,,
-sense_d5545e69,entry_bældæræn,,,,True,название праздника (первое воскресенье после пасхи),holiday name (first Sunday after Easter)
+sense_d5545e69,entry_bældæræn,,,,False,,
 sense_d5546e73,entry_cʼīst,,,sense_d5546e72,False,прищемленный,pinched
 sense_d5546e82,entry_cʼīst,,,sense_d5546e72,False,сдавленный,pressed
 sense_d5546e91,entry_cʼīst,,,sense_d5546e72,False,раздавленный,crushed
@@ -7474,7 +7474,7 @@ sense_d5564e69,entry_sūsæg,,,,False,,
 sense_d5566e69,entry_wasæn,,,,False,,
 sense_d5567e69,entry_toqosaw,,,,False,,
 sense_d5568e72,entry_qabaqwat,,,,False,место стрельбы в цель,target shooting location
-sense_d5569e69,entry_najfat,,,,False,"место, где находилось родовое святилище и куда члены рода (фамилии) собирались ежегодно на культовое пиршество (",place where the clan sanctuary was found and where members of the clan (bearing the same surname) came together yearly for a ritual feast (
+sense_d5569e69,entry_najfat,,,,False,"место, где находилось родовое святилище и куда члены рода (фамилии) собирались ежегодно на культовое пиршество ()",place where the clan sanctuary was found and where members of the clan (bearing the same surname) came together yearly for a ritual feast ()
 sense_d5570e69,entry_cælq,,,,False,удар,hit
 sense_d5571e72,entry_fagæ,,,,False,пшено,millet
 sense_d5572e77,entry_qūsyn,,,sense_d5572e76,False,слышать,hear
@@ -7497,7 +7497,7 @@ sense_d5582e69,entry_xal_1,,,,False,,
 sense_d5583e69,entry_xæmpūs,,,,False,,
 sense_d5584e69,entry_sūr,,,,False,,
 sense_d5585e69,entry_tægær_1,,,,False,,
-sense_d5586e76,entry_ed,,,,True,"слово, употребляемое вместо любого имени, которое не приходит на память, как в русском „то-бишь“, „как его“","a word used instead of any name that does not come to mind, as in English “that is to say”, “what is his name”"
+sense_d5586e76,entry_ed,,,,False,,
 sense_d5587e73,entry_kʼ0yzyr,,,sense_d5587e72,False,отросток,outgrowth
 sense_d5587e82,entry_kʼ0yzyr,,,sense_d5587e72,False,шишка,bump
 sense_d5588e69,entry_tūgʒyx,,,,False,,
@@ -7545,7 +7545,7 @@ sense_d5614e72,entry_qædʒaw,,,,False,дровосек,woodcutter
 sense_d5616e70,entry_æmbond,,,sense_d5616e69,False,ограда,fence
 sense_d5616e79,entry_æmbond,,,sense_d5616e69,False,стена,wall
 sense_d5617e72,entry_būræqæd,,,,False,крушина,buckthorn
-sense_d5618e69,entry_dædæj,,,,True,"возглас страха, боли и т. п.; также обрядовый крик при оплакивании покойника","a cry of fear, pain, etc.; also a ritual cry when mourning the deceased"
+sense_d5618e69,entry_dædæj,,,,False,,
 sense_d5621e69,entry_Saniba,,,,False,,
 sense_d5622e69,entry_xærsun,,,,False,,
 sense_d5623e72,entry_nalmas,,,sense_d5623e71,False,алмаз,diamond
@@ -7594,11 +7594,11 @@ sense_d5651e72,entry_ḱyrvaz,,,,False,большая с выпуклыми бо
 sense_d5652e72,entry_nakæ,,,,False,плавание,swimming
 sense_d5654e73,entry_baler,,,sense_d5654e72,False,речная рыба,fresh-water fish
 sense_d5654e82,entry_baler,,,sense_d5654e72,False,форель,trout
-sense_d5655e74,entry_bu6r9rutti,,,,True,"выражение недовольства, гнева, каприза","an expression of discontent, anger, caprice"
+sense_d5655e74,entry_bu6r9rutti,,,,False,,
 sense_d5656e72,entry_ængūz,,,,False,грецкий орех,walnut
 sense_d5657e73,entry_ḱesa,,,sense_d5657e72,False,пальма,palm tree
 sense_d5657e90,entry_ḱesa,,,sense_d5657e72,False,букс,boxwood
-sense_d5658e69,entry_Agundæ,,,,True,"имя красавицы, героини нартовского эпоса","the name of a beauty, a heroine of the Nart epics"
+sense_d5658e69,entry_Agundæ,,,,False,,
 sense_d5659e73,entry_7fson,,,sense_d5659e72,False,повод,cause
 sense_d5659e82,entry_7fson,,,sense_d5659e72,False,предлог,pretext
 sense_d5659e91,entry_7fson,,,sense_d5659e72,False,отговорка,excuse
@@ -7632,7 +7632,7 @@ sense_d5680e72,entry_īwændæs,,,,False,одиннадцать,eleven
 sense_d5681e76,entry_ogæn,os-x-digor,,,False,"скрытое место, где прячут запасы",a hidden place to store stocks
 sense_d5682e72,entry_æmbojny,,,,False,за один день,in one day
 sense_d5683e69,entry_wægæ,,,,False,,
-sense_d5684e80,entry_Barastyr,,,,True,в осетинской мифологии повелитель загробного мира,master of the underworld in Ossetic mythology
+sense_d5684e80,entry_Barastyr,,,,False,,
 sense_d5685e69,entry_art,,,,False,огонь,fire
 sense_d5687e69,entry_æstæg,,,,False,кость,bone
 sense_d5688e69,entry_waldæn,,,,False,,
@@ -7671,7 +7671,7 @@ sense_d5713e69,entry_7xsyrfæmbal,,,,False,,
 sense_d5714e69,entry_ziareba,,,,False,,
 sense_d5715e69,entry_cæppor,,,,False,сорок,forty
 sense_d5716e72,entry_iʒestæ,,,,False,расстояние между концами большого пальца и мизинца раздвинутой руки,"a span (the distance measured by a human hand, from the tip of the thumb to the tip of the little finger)"
-sense_d5717e72,entry_meræʒoj,,,,True,этническое название; встречается в выражении,ethnic name; occurs in the expression
+sense_d5717e72,entry_meræʒoj,,,,False,,
 sense_d5718e69,entry_boncaw,,,,False,"путь, проходимый в один день",trip one day long
 sense_d5719e74,entry_marxo,,,,False,пост (христианский),fast (Christian)
 sense_d5720e69,entry_wæd_1,,,,False,,
@@ -7782,7 +7782,7 @@ sense_d5803e72,entry_fynddæs,,,,False,пятнадцать,fifteen
 sense_d5805e69,entry_ugard,,,,False,,
 sense_d5806e69,entry_wadg0yroj,,,,False,,
 sense_d5807e69,entry_xūdt,,,,False,,
-sense_d5810e69,entry_ca,,,,True,"‘сколь’ в таких выражениях, как",‘as much as’ in such expressions as
+sense_d5810e69,entry_ca,,,,False,,
 sense_d5812e69,entry_wælæmæ,,,,False,,
 sense_d5813e72,entry_duazolkʼæ,,,,False,пиявка,leech
 sense_d5814e69,entry_tonx,,,,False,,
@@ -7816,7 +7816,7 @@ sense_d5836e84,entry_qwaz,,,sense_d5836e74,False,лань,doe
 sense_d5837e69,entry_tīǧmæ,,,,False,,
 sense_d5838e69,entry_xæf,,,,False,,
 sense_d5839e69,entry_taxun,,,,False,,
-sense_d5840e80,entry_ræxsyn,,1,,False,плести ремешками подошву горной обуви,weave the soles of mountain shoes
+sense_d5840e80,entry_ræxsyn,,1,,False,плести ремешками подошву горной обуви ærḱʼī,weave the soles of mountain shoes ærḱʼī with straps
 sense_d5840e123,entry_ræxsyn,,,,False,,
 sense_d5840e151,entry_ræxsyn,os-x-digor,,,False,,
 sense_d5840e172,entry_ræxsyn,,2,sense_d5840e171,False,прошивать крупными стежками,stitch with large stitches
@@ -7881,7 +7881,7 @@ sense_d5879e249,entry_lasyn,os-x-digor,6,sense_d5879e237,False,свертыва�
 sense_d5880e69,entry_taxynæg,,,,False,,
 sense_d5883e69,entry_taro6j9,,,,False,,
 sense_d5884e72,entry_ærxæg,,,,False,сустав,joint
-sense_d5886e69,entry_farin,,,,True,"название полос ткани, из которых сшито платье",the name of the fabric strips from which the dress is sewn
+sense_d5886e69,entry_farin,,,,False,,
 sense_d5887e77,entry_ḱʼityn,,,sense_d5887e76,False,очнуться,awaken
 sense_d5887e86,entry_ḱʼityn,,,sense_d5887e76,False,приходить в сознание,regain consciousness
 sense_d5888e69,entry_warzonʒinad,,,,False,,
