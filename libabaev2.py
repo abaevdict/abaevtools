@@ -367,7 +367,10 @@ def get_mentioneds_from_csv(filename: str) -> MentionedDict:
                 if row[key] == '': row[key] = None
             for val in ["xml_id","langs","form","gloss_ru","gloss_en"]:
                 if row[val]:
-                    row[val] = row[val].split(",")
+                    if ',' in row[val]:
+                        row[val] = row[val].split(",")
+                    else:
+                        row[val] = [row[val]]
             mentioned_dict[row["db_id"]] = row
     return mentioned_dict
 
