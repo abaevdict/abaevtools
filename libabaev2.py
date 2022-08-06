@@ -571,6 +571,8 @@ def serialize_dict(dict: dict[str,dict], file):
         for key in row:
             if type(row[key]) is list:
                 row[key] = ",".join(row[key])
+            if isinstance(row[key], Enum):
+                row[key]=row[key].value
         csv_writer.writerow(row)
 
 langdata = LanguageDict.from_csv("../abaev-tei-oxygen/css/langnames.csv")
