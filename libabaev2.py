@@ -170,6 +170,18 @@ class SenseGroup(TypedDict):
 
 SenseGroupDict = dict[str,SenseGroup]
 
+def get_sense_groups_from_csv(filename: str) -> SenseGroupDict:
+    sense_group_dict = SenseGroupDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            if row["num"]:
+                row["num"] = int(row["num"])
+            sense_group_dict[row["db_id"]] = row
+    return sense_group_dict
+
 def get_senses(node: lxml.etree._Element, entry_id: str) -> Tuple[SenseDict,SenseGroupDict]:
     sense_dict = SenseDict()
     sense_group_dict = SenseGroupDict()
@@ -259,8 +271,21 @@ class Example(TypedDict):
     text: str
     tr_ru: str
     tr_en: str
+    num: int = None
 
 ExampleDict = dict[str,Example]
+
+def get_examples_from_csv(filename: str) -> ExampleDict:
+    example_dict = ExampleDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            if row["num"]:
+                row["num"] = int(row["num"])                
+            example_dict[row["db_id"]] = row
+    return example_dict
 
 class ExampleGroup(TypedDict):
     db_id: str # Should be the same as XML id
@@ -268,6 +293,18 @@ class ExampleGroup(TypedDict):
     num: int = None
 
 ExampleGroupDict = dict[str,ExampleGroup]
+
+def get_example_groups_from_csv(filename: str) -> ExampleGroupDict:
+    example_group_dict = ExampleGroupDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            if row["num"]:
+                row["num"] = int(row["num"])
+            example_group_dict[row["db_id"]] = row
+    return example_group_dict
 
 def get_examples(node: lxml.etree._Element, entry_id: str) -> Tuple[ExampleDict,ExampleGroupDict]:
     example_dict = ExampleDict()
@@ -321,6 +358,19 @@ class Mentioned(TypedDict):
 
 MentionedDict = dict[str,Mentioned]
 
+def get_mentioneds_from_csv(filename: str) -> MentionedDict:
+    mentioned_dict = MentionedDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            for val in ["xml_id","langs","form","gloss_ru","gloss_en"]:
+                if row[val]:
+                    row[val] = ",".split(row[val])
+            mentioned_dict[row["db_id"]] = row
+    return mentioned_dict
+
 def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
     dict = MentionedDict()
     word_elem = "*[name() = 'w' or name() = 'm' or name() = 'cl' or name() = 'phr' or name() = 's']"
@@ -347,7 +397,7 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
             extralang = node_m.xpath("@extralang", namespaces = NAMESPACES)
             if len(extralang) > 0:
                 langs = langs + extralang[0].split()
-            mentioned["lang"] = langs
+            mentioned["langs"] = langs
             
             mentioned["form"] = []
             for node_w in words:
@@ -394,7 +444,7 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
             extralang = node_m.xpath("@extralang")
             if len(extralang) > 0:
                 langs = langs + extralang[0].split()
-            mentioned["lang"] = langs
+            mentioned["langs"] = langs
             
             mentioned["form"] = []
             for node_w in words:
