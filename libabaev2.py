@@ -75,6 +75,17 @@ def get_entry(node: lxml.etree._Element) -> Entry:
 
 EntryDict = dict[str,Entry]
 
+def get_entries_from_csv(filename: str) -> EntryDict:
+    entry_dict = EntryDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            if row["num"] == '':
+                row["num"] = None
+            else: row["num"] = int(row["num"])
+            entry_dict[row["db_id"]] = row
+    return entry_dict
+
 class FormRelType(Enum):
     VARIANT = "variant"
     PARTICIPLE = "participle"
@@ -110,6 +121,17 @@ def get_forms(node: lxml.etree._Element, entry_id: str, form_id: str = None) -> 
         dict = dict | get_forms(node = form_node, entry_id = entry_id, form_id = form["db_id"])
     return dict
 
+def get_forms_from_csv(filename: str) -> FormDict:
+    form_dict = FormDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            if row["rel_type"]:
+                row["rel_type"] = FormRelType(row["rel_type"])
+            form_dict[row["db_id"]] = row
+    return form_dict
 
 # Only bottom-level senses are treated as actual senses. Sense 'groups' are viewed as IDs that are attached to individual senses. 
 # These are stored as dictionaries that map the sense group ID to entry ID
@@ -125,6 +147,22 @@ class Sense(TypedDict):
 
 SenseDict = dict[str,Sense]
 
+def get_senses_from_csv(filename: str) -> SenseDict:
+    sense_dict = SenseDict()
+    with open(filename, "r") as file:
+        csv_reader = csv.DictReader(file, delimiter=",")
+        for row in csv_reader:
+            for key in row:
+                if row[key] == '': row[key] = None
+            if row["is_def"] == "True":
+                row["is_def"] = True
+            if row["is_def"] == "False":
+                row["is_def"] = False              
+            if row["num"]:
+                row["num"] = int(row["num"])
+            sense_dict[row["db_id"]] = row
+    return sense_dict
+
 class SenseGroup(TypedDict):
     db_id: str # Should be the same as XML id
     entry_id: str #db_id of the entry
@@ -135,85 +173,81 @@ SenseGroupDict = dict[str,SenseGroup]
 def get_senses(node: lxml.etree._Element, entry_id: str) -> Tuple[SenseDict,SenseGroupDict]:
     sense_dict = SenseDict()
     sense_group_dict = SenseGroupDict()
-    for sense_node in node.xpath("tei:sense", namespaces = NAMESPACES):
-        lang = None
-        lang_supersense = sense_node.xpath("@xml:lang", namespaces = NAMESPACES)
-        if len(lang_supersense) > 0:
-            lang = lang_supersense[0]
-        num = None
-        num_supersense = sense_node.xpath("@n", namespaces = NAMESPACES)
-        if len(num_supersense) > 0:
-            num = num_supersense[0]        
-        subsenses = sense_node.xpath("tei:sense", namespaces = NAMESPACES)
-        if len(subsenses) > 0:
-            sense_group = SenseGroup()
-            group_id = sense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
-            sense_group["db_id"] = group_id
-            sense_group["entry_id"] = entry_id
-            sense_group["num"] = num
-            sense_group_dict[sense_group["db_id"]] = sense_group
-            for subsense_node in subsenses:
-                subsense = Sense()
-                subsense["db_id"] = subsense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
-                subsense["entry_id"] = entry_id
-                subsense["sense_group"] = group_id
-                lang_subsense = subsense_node.xpath("@xml:lang", namespaces = NAMESPACES)
-                if len(lang_subsense) > 0:
-                    lang = lang_subsense[0]
-                subsense["lang"] = lang
-                subsense["num"] = num
+    for sense_node in node.xpath("tei:sense[descendant::abv:tr or descendant::tei:def]", namespaces = NAMESPACES):
+        if normalize(etree.tostring(sense_node,method='text',encoding="unicode")) != '':
+            lang = None
+            lang_supersense = sense_node.xpath("@xml:lang", namespaces = NAMESPACES)
+            if len(lang_supersense) > 0:
+                lang = lang_supersense[0]
+            num = None
+            num_supersense = sense_node.xpath("@n", namespaces = NAMESPACES)
+            if len(num_supersense) > 0:
+                num = num_supersense[0]        
+            subsenses = sense_node.xpath("tei:sense", namespaces = NAMESPACES)
+            if len(subsenses) > 0:
+                sense_group = SenseGroup()
+                group_id = sense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
+                sense_group["db_id"] = group_id
+                sense_group["entry_id"] = entry_id
+                sense_group["num"] = num
+                sense_group_dict[sense_group["db_id"]] = sense_group
+                for subsense_node in subsenses:
+                    subsense = Sense()
+                    subsense["db_id"] = subsense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
+                    subsense["entry_id"] = entry_id
+                    subsense["sense_group"] = group_id
+                    lang_subsense = subsense_node.xpath("@xml:lang", namespaces = NAMESPACES)
+                    if len(lang_subsense) > 0:
+                        lang = lang_subsense[0]
+                    subsense["lang"] = lang
+                    subsense["num"] = num
 
-                subsense["is_def"] = False
+                    subsense["is_def"] = False
 
-                tr_ru = subsense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
-                if tr_ru is not None:
+                    tr_ru = subsense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
                     subsense["description_ru"] = normalize(tr_ru)
 
-                tr_en = subsense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
-                if tr_en is not None:
+                    tr_en = subsense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
                     subsense["description_en"] = normalize(tr_en)
-                else:
+
                     def_ru = subsense_node.xpath("string(tei:def[@xml:lang='ru'])", namespaces = NAMESPACES)
-                    if def_ru is not None:
+                    if def_ru != '':
                         subsense["description_ru"] = normalize(def_ru)
                         subsense["is_def"] = True
 
                     def_en = subsense_node.xpath("string(tei:def[@xml:lang='en'])", namespaces = NAMESPACES)
-                    if def_en is not None:
+                    if def_en != '':
                         subsense["description_en"] = normalize(def_en)
                         subsense["is_def"] = True
 
-                sense_dict[subsense["db_id"]] = subsense
-        else:
-            sense = Sense()
-            sense["db_id"] = sense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
-            sense["entry_id"] = entry_id
-            sense["lang"] = lang
-            sense["num"] = num
-            sense["sense_group"] = None
+                    sense_dict[subsense["db_id"]] = subsense
+            else:
+                sense = Sense()
+                sense["db_id"] = sense_node.xpath("@xml:id", namespaces = NAMESPACES)[0]
+                sense["entry_id"] = entry_id
+                sense["lang"] = lang
+                sense["num"] = num
+                sense["sense_group"] = None
 
-            sense["is_def"] = False
+                sense["is_def"] = False
 
-            tr_ru = sense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
-            if tr_ru is not None:
+                tr_ru = sense_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
                 sense["description_ru"] = normalize(tr_ru)
 
-            tr_en = sense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
-            if tr_en is not None:
+                tr_en = sense_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
                 sense["description_en"] = normalize(tr_en)
 
-            else:
                 def_ru = sense_node.xpath("string(tei:def[@xml:lang='ru'])", namespaces = NAMESPACES)
-                if def_ru is not None:
+                if def_ru != '':
                     sense["description_ru"] = normalize(def_ru)
                     sense["is_def"] = True
 
                 def_en = sense_node.xpath("string(tei:def[@xml:lang='en'])", namespaces = NAMESPACES)
-                if def_en is not None:
+                if def_en != '':
                     sense["description_en"] = normalize(def_en)
                     sense["is_def"] = True
 
-            sense_dict[sense["db_id"]] = sense
+                sense_dict[sense["db_id"]] = sense
     return (sense_dict, sense_group_dict)
 
 # Same mechanism for example groups as for sense groups
@@ -250,7 +284,7 @@ def get_examples(node: lxml.etree._Element, entry_id: str) -> Tuple[ExampleDict,
         group["num"] = num
         example_group_dict[group_id] = group
 
-        examples = group_node.xpath("abv:example", namespaces = NAMESPACES)
+        examples = group_node.xpath("abv:example[not(@xml:lang='ru')]", namespaces = NAMESPACES)
         for example_node in examples:
             extext = example_node.xpath("tei:quote", namespaces = NAMESPACES)[0]
             if extext.text is not None:
@@ -266,17 +300,11 @@ def get_examples(node: lxml.etree._Element, entry_id: str) -> Tuple[ExampleDict,
                 example["num"] = num
                 example["text"] = normalize(extext.xpath("string()", namespaces = NAMESPACES))
 
-                tr_ru_txt = None
                 tr_ru = example_node.xpath("string(abv:tr[@xml:lang='ru']/tei:q)", namespaces = NAMESPACES)
-                if tr_ru is not None:
-                    tr_ru_txt = normalize(tr_ru)
-                example["tr_ru"] = tr_ru_txt
+                example["tr_ru"] = normalize(tr_ru)
 
-                tr_en_txt = None
                 tr_en = example_node.xpath("string(abv:tr[@xml:lang='en']/tei:q)", namespaces = NAMESPACES)
-                if tr_en is not None:
-                    tr_en_txt = normalize(tr_en)
-                example["tr_en"] = tr_en_txt
+                example["tr_en"] = normalize(tr_en)
 
                 example_dict[example["db_id"]] = example
     return (example_dict, example_group_dict)
@@ -336,7 +364,7 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
                         glosses_ru.append(normalize(quote.xpath("string()", namespaces = NAMESPACES)))
                 else:
                     gloss_text = gloss_node.xpath("string()", namespaces = NAMESPACES)
-                    if gloss_text is not None:
+                    if gloss_text != '':
                         glosses_ru.append(normalize(gloss_text))
             mentioned["gloss_ru"] = glosses_ru
             
@@ -349,7 +377,7 @@ def get_mentioneds(node: lxml.etree._Element, entry_id: str) -> MentionedDict:
                             glosses_en.append(normalize(quote.xpath("string()", namespaces = NAMESPACES)))
                     else:
                         gloss_text = gloss_node.xpath("string()", namespaces = NAMESPACES)
-                        if gloss_text is not None:
+                        if gloss_text != '':
                             glosses_en.append(normalize(gloss_text))
             mentioned["gloss_en"] = glosses_en
             dict[ru_id] = mentioned
@@ -574,53 +602,3 @@ def serialize_dict(dict: dict[str,dict], file):
             if isinstance(row[key], Enum):
                 row[key]=row[key].value
         csv_writer.writerow(row)
-
-langdata = LanguageDict.from_csv("../abaev-tei-oxygen/css/langnames.csv")
-entries = EntryDict()
-forms = FormDict()
-senses = SenseDict()
-senseGroups = SenseGroupDict()
-examples = ExampleDict()
-exampleGroups = ExampleGroupDict()
-mentioneds = MentionedDict()
-dir = "../abaevdict-tei/entries"
-for file in os.listdir(dir):
-    if file.endswith(".xml") and not(file.startswith("abaev_!")):
-        entry_file = open(os.path.join(dir,file),"r")
-        tree = etree.parse(entry_file)
-        entry_file.close()
-
-        node = tree.xpath("//tei:entry",namespaces=NAMESPACES)[0]
-
-        entry = get_entry(node)
-        entries[entry["db_id"]] = entry
-
-        forms = forms | get_forms(node, entry["db_id"])
-        
-        senseTuple = get_senses(node, entry["db_id"])
-        senses = senses | senseTuple[0]
-        senseGroups = senseGroups | senseTuple[1]
-
-        exampleTuple = get_examples(node, entry["db_id"])
-        examples = examples | exampleTuple[0]
-        exampleGroups = exampleGroups | exampleTuple[1]
-
-        mentioneds = mentioneds | get_mentioneds(node, entry["db_id"])
-
-sorted_keys = sorted(entries, key=abaev_key)
-sorted_entries = {key:entries[key] for key in sorted_keys}
-
-with open("entries.csv", "w") as file:
-    serialize_dict(sorted_entries,file)
-with open("forms.csv", "w") as file:
-    serialize_dict(forms,file)
-with open("senses.csv", "w") as file:
-    serialize_dict(senses,file)
-with open("senseGroups.csv", "w") as file:
-    serialize_dict(senseGroups,file)
-with open("examples.csv", "w") as file:
-    serialize_dict(examples,file)    
-with open("exampleGroups.csv", "w") as file:
-    serialize_dict(exampleGroups,file)
-with open("mentioneds.csv", "w") as file:
-    serialize_dict(mentioneds,file)    
