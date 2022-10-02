@@ -58,7 +58,7 @@ class LanguageDict(Dict[str, Language]):
                     lang_dict[code].latitude = float(row["lat"])
                 if row["long"]:
                     lang_dict[code].longitude = float(row["long"])
-        return dict
+        return lang_dict
 
     def write_csv(self, file):
         with file as csv_file:
