@@ -36,6 +36,36 @@ for file in os.listdir(directory):
 # sorted_keys = sorted(entries, key=abaev_key)
 # sorted_entries = {key: entries[key] for key in sorted_keys}
 
+# Add missing languages to (sub)entries
+for entry in entries.values():
+    if entry.lang is None:
+        if entry.main_entry is not None:
+            entry.lang = entries[entry.main_entry].lang
+        else:
+            entry.lang = 'os'
+
+# Add missing languages to forms
+for form in forms.values():
+    if form.lang is None:
+        if form.rel_of is None:
+            form.lang = entries[form.entry_id].lang
+        else:
+            form.lang = forms[form.rel_of].lang
+
+# Add missing languages to senses
+for sense in senses.values():
+    if sense.lang is None:
+        sense.lang = entries[sense.entry_id].lang
+
+# Add missing languages to examples
+for ex in examples.values():
+    if ex.lang is None:
+        entry = entries[ex.entry_id]
+        if entry.lang == 'os':
+            ex.lang = 'os-x-iron'
+        else:
+            ex.lang = entry.lang
+
 with open("entries.csv", "w") as file:
     serialize_dict(entries, file)
 with open("forms.csv", "w") as file:
